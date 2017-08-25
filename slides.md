@@ -34,7 +34,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 ## Slides
 Diese Slides sind online verfügbar.
 
-[→ github.com/signalwerk/IAD.LAB.SLD](https://github.com/signalwerk/IAD.LAB.SLD)
+[→ signalwerk.github.io/IAD.LAB.SLD/](https://signalwerk.github.io/IAD.LAB.SLD/)
 
 <br>
 ### Lizenz
