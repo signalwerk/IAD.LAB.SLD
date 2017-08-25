@@ -1,0 +1,28 @@
+{
+  "name": "logrino-speech",
+  "description": "speeches for logrino in zurich",
+  "main": "index.js",
+  "authors": [
+    "Stefan Huber (Signalwerk GmbH)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "logrino",
+    "AID",
+    "zurich",
+    "web",
+    "design"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.2.0"
+  }
+}
