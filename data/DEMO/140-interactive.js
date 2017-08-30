@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Section from 'lib/component/Section';
 
-import Counter from '../example/component/Counter';
+import Counter from './component/Counter';
 
 export default function Interactive() {
   return (

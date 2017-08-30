@@ -5,29 +5,34 @@
 
 
 // Include theme-specific fonts
-@import "~reveal.js/lib/font/source-sans-pro/source-sans-pro.css";
+// @import "~reveal.js/lib/font/source-sans-pro/source-sans-pro.css";
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,400italic,800italic);
 
+
+// define consts
+$cGreen: #004d61;
+$cBlue: #002f5b;
+$cMedBlack: rgb(51,51,51);
 
 // Override theme settings (see ~reveal.js/css/theme/template/settings)
-$backgroundColor: #222;
+$backgroundColor: #fff;
 
-$mainColor: #fff;
-$headingColor: #fff;
+$mainColor: $cMedBlack;
+$headingColor: $cGreen;
 
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: 'Open Sans', Impact, sans-serif;
+
+// Headings
+$headingFont: 'Open Sans', Impact, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
-$headingTextTransform: uppercase;
-$headingFontWeight: 600;
-$linkColor: #42affa;
-$linkColorHover: lighten( $linkColor, 15% );
-$selectionBackgroundColor: lighten( $linkColor, 25% );
-
-$heading1Size: 2.5em;
-$heading2Size: 1.6em;
-$heading3Size: 1.3em;
+$headingTextTransform: none;
+$headingFontWeight: 800;
+$headingLineHeight: 1.4;
+$heading1Size: 1.6em;
+$heading2Size: 1.3em;
+$heading3Size: 1.0em;
 $heading4Size: 1.0em;
 
 section.has-light-background {
@@ -35,6 +40,13 @@ section.has-light-background {
     color: #222;
   }
 }
+
+// Links and actions
+$linkColor: $cBlue;
+$linkColorHover: lighten( $linkColor, 20% );
+
+// Text selection
+$selectionBackgroundColor: #FF5E99;
 
 
 // Theme template ------------------------------

@@ -1,0 +1,44 @@
+.reveal {
+  .slides {
+    text-align: left;
+  }
+}
+
+
+// lines on top and bottom
+$borderSlideWidth: 0.5rem;
+$paddingSlideTop: $borderSlideWidth;
+$paddingSlideBottom: $paddingSlideTop*1.1;
+$paddingSlideLeftRight: $paddingSlideTop;
+$textStart: 1.55rem;
+
+// set size of the slide
+.reveal .slides>section {
+	height: calc(100% - #{$textStart} );
+	width: calc(100% - #{$paddingSlideLeftRight*2} );
+	padding: 0;
+	padding-top: $textStart;
+	margin-left: $paddingSlideLeftRight;
+
+  // border tob bottom
+  &:before,
+  &:after {
+  	width: 100%;
+  	content: " ";
+  	display: block;
+  	border-top: $borderSlideWidth solid $cBlue;
+      position: absolute;
+  }
+  &:before {
+  	top: $paddingSlideTop;
+  }
+  &:after {
+  	bottom: $paddingSlideBottom;
+  }
+
+  // also if its a stacked slide
+  &.stack {
+  	padding: 0;
+  	padding-top: $textStart;
+  }
+}

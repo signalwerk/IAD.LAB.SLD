@@ -4,6 +4,7 @@ import webpack from 'webpack';
 
 const pathBase = path.resolve(__dirname, '..');
 const pathSrc = path.join(pathBase, 'src');
+const pathData = path.join(pathBase, 'data');
 const pathLib = path.join(pathBase, 'lib');
 const pathDist = path.join(pathBase, 'dist');
 const pathLoader = path.join(pathBase, 'webpack', 'loader');
@@ -52,7 +53,8 @@ const config = {
         loader: 'babel-loader',
         include: [
           pathSrc,
-          pathLib
+          pathLib,
+          pathData
         ]
       },
       {

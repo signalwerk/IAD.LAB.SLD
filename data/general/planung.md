@@ -20,4 +20,14 @@ Semesterplanung
 	– API (REST/GraphQL)
 6.
 	– Summarize
-	
+
+
+
+
+keybard
+---
+space = go through all
+ESC = overview
+Alt+Click = zoom
+B = pause
+s = speakerdeck

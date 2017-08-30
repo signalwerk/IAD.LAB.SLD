@@ -5,12 +5,12 @@ import notesUrl from 'reveal.js/plugin/notes/notes';
 import 'reveal.js/plugin/notes/notes.html';
 
 export default {
-  controls: true,
+  controls: false,
   progress: true,
   history: true,
   center: true,
   transition: 'slide', // none/fade/slide/convex/concave/zoom
-  slideNumber: 'h.v',
+  slideNumber: false,
   dependencies: [
     { src: zoomUrl, async: true },
     { src: notesUrl, async: true }
