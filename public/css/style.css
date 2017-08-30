@@ -1831,7 +1831,7 @@ html {
 
 .reveal .slides > section,
 .reveal .slides > section > section {
-  line-height: 1.5rem;
+  line-height: 1.45;
 }
 
 .reveal .slides {
@@ -1871,7 +1871,7 @@ html {
 
 .reveal code {
   font-size: 0.8rem;
-  line-height: 1.2rem;
+  line-height: 1.2;
 }
 
 .reveal h4 {
@@ -1889,7 +1889,7 @@ html {
 .reveal p {
   color: #333333;
   margin-bottom: 0.3rem;
-  line-height: 140%;
+  line-height: 1.4;
 }
 
 .reveal p.small, .reveal span.small {
