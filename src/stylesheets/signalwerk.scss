@@ -1,7 +1,8 @@
 
 
 @import 'header';         // top of page (above navigation)
-@import '../../bower_components/reveal.js/css/reveal.scss';
+// @import '../../bower_components/reveal.js/css/reveal.scss';
+@import "../../node_modules/reveal.js/css/reveal.scss";
 // @import '../../reveal.js-3.2.0/css/theme/source/black.scss';
 
 
@@ -13,8 +14,8 @@ $cDarkGray: rgb(102, 102, 102);
 
 
 // Default mixins and settings -----------------
-@import "../../bower_components/reveal.js/css/theme/template/mixins";
-@import "../../bower_components/reveal.js/css/theme/template/settings";
+@import "../../node_modules/reveal.js/css/theme/template/mixins";
+@import "../../node_modules/reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
 
@@ -56,7 +57,7 @@ $selectionColor: #fff;
 
 
 // Theme template ------------------------------
-@import "../../bower_components/reveal.js/css/theme/template/theme";
+@import "../../node_modules/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
 
 
@@ -116,10 +117,7 @@ $textStart: 1.55rem;
 
 
 
-// hide the controlls
-.reveal .controls {
-    display: none !important;
-}
+
 
 
 .reveal section img {
@@ -131,80 +129,76 @@ $textStart: 1.55rem;
 }
 
 
-
-iframe.browser {
-    border: 6px solid #666666;
-    border-top: 30px solid #666666;
-    width: 800px;
-    height: 460px;
-}
-
-iframe.browsernodimension {
-    border: 6px solid #666666;
-    border-top: 30px solid #666666;
-}
-
-
-
-.reveal section img.border {
-    border: 1px solid #666666;
-
-}
-
-
-img.w35 {
-	width: 35%;
-}
-img.w55 {
-	width: 55%;
-}
-img.w60 {
-	width: 60%;
-}
-img.w65 {
-	width: 65%;
-}
-img.w75 {
-	width: 75%;
-}
-img.pl5 {
-	padding-left: 5%;
-}
-.floatL {
-	float: left;
-}
-.clear {
-	clear: both;
-}
-
-
-
-
-
-
-.crop {
-	overflow: hidden;
-	width: 960px;
-	height: 700px;
-	width: 100%;
-	height: 500px;
-
-}
-html .reveal div.cropimg {
-	overflow: hidden;
-	height: 645px;
-	margin-top: -25px;
-
-	img {
-		width: 930px;
-		min-width: 930px;
-		height: 930px/4*3;
-		min-height: 930px/4*3;
-	}
-
-}
-
-html .reveal video {
-	max-width: 100%;
-	max-height: 100%;
-}
+// 
+// iframe.browser {
+//     border: 6px solid #666666;
+//     border-top: 30px solid #666666;
+//     width: 800px;
+//     height: 460px;
+// }
+//
+// iframe.browsernodimension {
+//     border: 6px solid #666666;
+//     border-top: 30px solid #666666;
+// }
+//
+//
+//
+// .reveal section img.border {
+//     border: 1px solid #666666;
+//
+// }
+//
+//
+// img.w35 {
+// 	width: 35%;
+// }
+// img.w55 {
+// 	width: 55%;
+// }
+// img.w60 {
+// 	width: 60%;
+// }
+// img.w65 {
+// 	width: 65%;
+// }
+// img.w75 {
+// 	width: 75%;
+// }
+// img.pl5 {
+// 	padding-left: 5%;
+// }
+// .floatL {
+// 	float: left;
+// }
+// .clear {
+// 	clear: both;
+// }
+//
+//
+// .crop {
+// 	overflow: hidden;
+// 	width: 960px;
+// 	height: 700px;
+// 	width: 100%;
+// 	height: 500px;
+//
+// }
+// html .reveal div.cropimg {
+// 	overflow: hidden;
+// 	height: 645px;
+// 	margin-top: -25px;
+//
+// 	img {
+// 		width: 930px;
+// 		min-width: 930px;
+// 		height: 930px/4*3;
+// 		min-height: 930px/4*3;
+// 	}
+//
+// }
+//
+// html .reveal video {
+// 	max-width: 100%;
+// 	max-height: 100%;
+// }

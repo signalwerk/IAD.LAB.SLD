@@ -6,13 +6,12 @@ var autoprefixer = require('gulp-autoprefixer');
 var connect = require('gulp-connect');
 
 
-var input = './src/stylesheets/style.scss';
+var inputSCSS = './src/stylesheets/style.scss';
 var observe = './src/stylesheets/**/*.scss';
 var output = './public';
 var outputCSS = './public/css';
-
-var revealRoot = './bower_components/reveal.js/'
-
+var revealRoot = './node_modules/reveal.js/'
+var currentWork = '/data/2017/KW34'
 
 var sassOptions = {
   errLogToConsole: true,
@@ -32,21 +31,21 @@ gulp.task('copyRevealJs', function () {
     .pipe(gulp.dest(output + '/lib/'));
 
     gulp.src('./src/*.html')
+    .pipe(gulp.dest(output + currentWork));
+
+    gulp.src('./src/overview/*.html')
     .pipe(gulp.dest(output));
 
-    gulp.src('./src/*.md')
-    .pipe(gulp.dest(output));
+    gulp.src('.' + currentWork + '/*.md')
+    .pipe(gulp.dest(output + currentWork));
 
-    gulp.src('./src/img/**/*')
-    .pipe(gulp.dest(output + '/img/'));
-
+    gulp.src('.' + currentWork + '/img/**/*')
+    .pipe(gulp.dest(output + currentWork + '/img/'));
 });
-
-
 
 gulp.task('sass', function () {
   return gulp
-    .src(input)
+    .src(inputSCSS)
     // .pipe(sourcemaps.init())
     .pipe(sass(sassOptions).on('error', sass.logError))
     .pipe(sourcemaps.write())
@@ -69,16 +68,20 @@ gulp.task('connect', function() {
 
 
 gulp.task('html', function () {
-
     gulp.src('./src/*.html')
+    .pipe(gulp.dest(output + currentWork))
+    .pipe(connect.reload());
+});
+
+gulp.task('overview', function () {
+    gulp.src('./src/overview/*.html')
     .pipe(gulp.dest(output))
     .pipe(connect.reload());
 });
 
 gulp.task('md', function () {
-
-    gulp.src('./src/*.md')
-    .pipe(gulp.dest(output))
+    gulp.src('.' + currentWork + '/*.md')
+    .pipe(gulp.dest(output + currentWork))
     .pipe(connect.reload());
 });
 
@@ -86,11 +89,10 @@ gulp.task('md', function () {
 gulp.task('watch', function() {
   gulp.watch(observe, ['sass']);
   gulp.watch(['./src/*.html'], ['html']);
-  gulp.watch(['./src/*.md'], ['md']);
+  gulp.watch(['./src/overview/*.html'], ['overview']);
+  gulp.watch(['.' + currentWork + '/*.md'], ['md']);
 
 });
-
-
 
 // gulp.task('watch', function() {
 //   return gulp
