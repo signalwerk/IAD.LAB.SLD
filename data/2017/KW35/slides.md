@@ -15,6 +15,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## Agenda
 # [Maker Faire Zürich](http://www.makerfairezurich.ch/de/)
+# [Digital Festival](http://digitalfestival.ch/)
 --s--
 # Rückschau
 --s--
@@ -86,7 +87,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 * Dokumente Strukturieren
 * HTML · 1×1
 * Aufgabe · «Experimentelles Erzählen»
-* **15:00** · Sitzung (~30min)
+* **15:00** · Sitzung LP517 (~30min)
 * **16:15** · Ende
 
 --s--
