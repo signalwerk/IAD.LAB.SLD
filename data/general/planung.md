@@ -20,8 +20,7 @@ Semesterplanung
 	– API (REST/GraphQL)
 6.
 	– Summarize
-
-
+	– Gartner Hype Cycle 
 
 
 keybard
