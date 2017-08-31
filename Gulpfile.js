@@ -6,12 +6,12 @@ var autoprefixer = require('gulp-autoprefixer');
 var connect = require('gulp-connect');
 
 
-var inputSCSS = './src/stylesheets/style.scss';
+var inputSCSS = './src/stylesheets/signalwerk.scss';
 var observe = './src/stylesheets/**/*.scss';
 var output = './public';
 var outputCSS = './public/css';
 var revealRoot = './node_modules/reveal.js/'
-var currentWork = '/data/2017/KW34'
+var currentWork = '/data/2017/KW35'
 
 var sassOptions = {
   errLogToConsole: true,
