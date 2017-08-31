@@ -396,9 +396,9 @@ HTML/XML oder sonstige bekannte Formate vermeiden.
 --s--
 ## Beispiel-Regelsatz
 
-* Ein Titel ist von öffnenden und schliessenden Nasenklammern umschlossen: {Titel}
-* Ein Text ist von öffnenden und schliessenden Rundklammern umschlossen: (Text text)
-* Eine Aufzählung/Liste beginnt immer auf einer neuen Zeile und startet mit einem Ausrufezeichen:<br>! Liste
+* Ein Titel ist von öffnenden und schliessenden Nasenklammern umschlossen: `{Titel}`
+* Ein Text ist von öffnenden und schliessenden Rundklammern umschlossen: `(Text text)`
+* Eine Aufzählung/Liste beginnt immer auf einer neuen Zeile und startet mit einem Ausrufezeichen:<br>`! Liste`
 --s--
 ## Beispiel Nachricht
 
