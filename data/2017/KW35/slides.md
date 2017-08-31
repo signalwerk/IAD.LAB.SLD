@@ -6,22 +6,34 @@
 
 Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
-## Rückschau
+## News
+# [WhatsApp business](https://faq.whatsapp.com/general/26000052)
+* davor max. 256 Personen in Gruppe
+* Schnittstellen fehlten bis jetzt
+* Geschäfte können einen Badge bekommen
+* User können Geschäfte blocken
+--s--
+## Agenda
+# [Maker Faire Zürich](http://www.makerfairezurich.ch/de/)
+--s--
+# Rückschau
 --s--
 ## Diverses
 * Semester & Lernziele
 * Marshmallow Challenge
-
+* Informatik
+* Schulhaus
+* ...
 --s--
 ## Passwörter – Usersicht
 
-* **Hohe Entropie (Chaos)** → pro Account neues Passowrt
-* **Länge unbekannt** → möglichst lange
-* **Verwendete Zeichen unbekannt** → fehlende Länge wettmachen
+* **Hohe Entropie (Chaos)** <br>→ pro Account neues «schlaues» Passwort
+* **Länge unbekannt** <br>→ möglichst lange
+* **Verwendete Zeichen unbekannt** <br>→ fehlende Länge wettmachen
 --s--
 ## Passwörter – Usersicht
 
-* Verwendet ein Passwort-Manager!
+# Verwendet ein Passwort-Manager!
 
 --s--
 ## Passwörter – Anbietersicht
@@ -50,13 +62,13 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 ## Passwörter – Anbietersicht
 
 # Schlechtes Beispiel mit Quersumme
-`qs(salt + zahl)` → `hash`
+`quersumme(salt + zahl)` → `hash`
 --s--
 ## Passwörter – Anbietersicht
 # Beispiel A
-`qs(5 + 13)` → `qs(18)` → `9`
+`quersumme(5 + 13)` → `quersumme(18)` → `9`
 # Beispiel B
-`qs(7 + 13)` → `qs(20)` → `2`
+`quersumme(7 + 13)` → `quersumme(20)` → `2`
 
 --s--
 ## Aufgabe
@@ -72,10 +84,9 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 
 * **12:45** · Accounts erstellen & Installation
 * Dokumente Strukturieren
-* Aufgabe · «Experimentelles Erzählen»
 * HTML · 1×1
+* Aufgabe · «Experimentelles Erzählen»
 * **15:00** · Sitzung (~30min)
-* HTML 1×1
 * **16:15** · Ende
 
 --s--
@@ -84,6 +95,8 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 **8:15 – 11:45** · eine Pause (30 min)  
 Mittag 1h  
 **12:45 – 16:15** · eine Pause (30 min)  
+<br><br>
+## [→ Online Stundenplan](https://logrinto.github.io/IAD2017.timetable/)
 --s--
 ## Informatik-Probleme
 
@@ -117,36 +130,31 @@ Mittag 1h
 
 * Jeder kann editieren
 * Keine grosse Installation
-* kann später auch noch ausgebaut werden
+* Kann später auch noch ausgebaut werden
 
 --s--
 ## Wiki
 # Github ist simpel
+--s--
+## Github?
+* Anbieter: [github.com](https://github.com/)
+* Technologie: git
+<br>
+<br>
 
+## Dienste
+* Versionsverwaltung (git)
+* Wiki
+* Issues
 --s--
 ## Accounts erstellen
 
+# Github.com
 Einige haben schon einen Account!
 
-# Github (Versionsverwaltung)
 * [Anmeldung](https://github.com)
 * [Education-Program](https://education.github.com/pack)
---s--
-## Neues Repo erstellen
 
---s--
-# Repository
-* Technologie: git
-* Eine Zusammenstellung an Dateien
-* Versionsverwaltung als Ziel
-* Sonstige Dienste dazu
---s--
-## Divis vs. Halbgeviert
-
-# - oder –
-* Wo werden diese gebraucht?
-* Wie werden diese eingegeben?
-* Beispiele
 --s--
 ## Kontakte sammeln per Slack
 
@@ -154,7 +162,21 @@ Einige haben schon einen Account!
 
 ### Beispiel
 * Stefan | Huber | signalwerk | signalwerk
+--s--
+# Repository
+* Eine Zusammenstellung an Dateien
+* Versionsverwaltung als Ziel
+* Sonstige Dienste (Wiki, Issues, ...) dazu
+--s--
+## Neues Repo erstellen
 
+--s--
+## Divis vs. Halbgeviert
+
+# - oder –
+* Wo werden diese gebraucht?
+* Wie werden diese eingegeben?
+* Beispiele
 --s--
 ## Installation
 # Atom (Text-Editor)
@@ -175,15 +197,24 @@ Wer macht Instagram?
 * Prefix Formatierungen
   * `(1)`Die erste Aufgabe
   * `..`erster Schultag
+--s--
+## Beispiel-Regelsatz
 
+* Ein Titel ist von öffnenden und schliessenden Nasenklammern umschlossen: `{Titel}`
+* Ein Text ist von öffnenden und schliessenden Rundklammern umschlossen: `(Text text)`
+* Eine Aufzählung/Liste beginnt immer auf einer neuen Zeile und startet mit einem Ausrufezeichen:<br>`! Liste`
+--s--
+## Beispiel Nachricht
+
+{1. Schultag}  
+(Heute hatten wir:)  
+! Lab  
+! Informatik-Einführung  
+! Marshmallow Challenge  
 --s--
 ## Lass uns das Ding sabotieren!
 * Regel einhalten, aber sich einen Spezialfall überlegen
 
---s--
-## Beispiel (unfair)
-Heute hatten wir:  
-(! Lab)  
 --s--
 ## Beispiel
 {1. Schultag}(Heute hatten wir:  
@@ -195,7 +226,7 @@ Heute hatten wir:
 <hr>
 ## Interpretation A
 
-#1. Schultag
+# 1. Schultag
 Heute hatten wir:  
 ! Lab
 --s--
@@ -205,7 +236,7 @@ Heute hatten wir:
 <hr>
 ## Interpretation B
 
-#1. Schultag <!-- .element: style="display: inline-block;" -->
+# 1. Schultag <!-- .element: style="display: inline-block;" -->
 Heute hatten wir: <!-- .element: style="display: inline-block;" -->
 <ul style="display: block;">
   <li>Lab</li>
@@ -221,6 +252,60 @@ Heute hatten wir: <!-- .element: style="display: inline-block;" -->
 ## Sabotage!
 * [3 Minuten](https://www.youtube.com/watch?v=z5rRZdiu1UE)
 --s--
+## Was waren die Probleme?
+--s--
+## Mögliche Probleme
+* Escaping
+* Weissraum
+* Wo startet und wo endet Tag
+* Wo startet und wo endet Liste
+--s--
+## Escaping
+
+* Zeichen die Inhalt sind, aber als Strukturierung kollidieren
+
+<br>
+
+## Beispiel
+* `{Titel}` <br>→ `{` `}` = Strukturierung  
+* `{Schnautzklammern sind: {}}` <br>→ `{` `}` = Strukturierung oder Inhalt
+--s--
+## Weissraum
+* Wo steht eine Blindzeile? Wo ein Wortabstand?
+
+<br>
+
+## Beispiel
+{1. Schultag}(Heute hatten wir:)  
+
+--s--
+## Wo startet und wo endet Tag
+Zum Teil nicht ganz einfach zu unterscheiden.
+
+<br>
+
+## Beispiel
+* ! Lab  ! Informatik-Einführung ! Marshmallow Challenge  
+
+oder gar
+* ! Lab!  ! Informatik-Einführung! ! Marshmallow Challenge!
+--s--
+## Wo startet und wo endet Liste
+Semantisch muss zwischen Listen-Eintrag und Liste unterschieden werden.
+
+<br>
+
+## Beispiel
+<hr>
+* Lab  
+* Informatik-Einführung  
+
+<hr>
+* Marshmallow Challenge  
+
+<hr>
+
+--s--
 ## Was hat das mit Web zu tun?
 
 * Web = HTML
@@ -228,17 +313,17 @@ Heute hatten wir: <!-- .element: style="display: inline-block;" -->
 
 --s--
 ## Wenige Regeln
-* Inhalt steht zwischen zwei Tags (`<p>Inhalt</p>`)
+* Inhalt steht zwischen zwei Tags (`<p>`Inhalt`</p>`)
 * Ein öffnender Tag am Anfang vom Inhalt (`<p>`)
 * Ein schliessender Tag am Ende vom Inhalt (`</p>`)
 * ...
 --s--
 ## Simple Tags
 
-* `<p>...</p>` = Paragraph (Textabschnitt)
-* `<h1>...</h1>` = Heading 1 (Titel 1. Stufe)
-* `<ul>...</ul>` = Unordered List (Liste ungeordnet)
-* `<li>...</li>`  =  List Item (Listenelement)
+* `<p>`...`</p>` = Paragraph (Textabschnitt)
+* `<h1>`...`</h1>` = Heading 1 (Titel 1. Stufe)
+* `<ul>`...`</ul>` = Unordered List (Liste ungeordnet)
+* `<li>`...`</li>`  =  List Item (Listenelement)
 * ...
 --s--
 ## Escaping im Inhalt
@@ -278,10 +363,6 @@ Heute hatten wir: <!-- .element: style="display: inline-block;" -->
 
 
 --s--
-## Next Step
-[→ codecademy](https://www.codecademy.com/learn/learn-html-css)
-
---s--
 ## Hausaufgaben
 
 * In jedem Semester sollen zwei Arbeiten im Portfolio dokumentiert werden
@@ -292,6 +373,10 @@ Heute hatten wir: <!-- .element: style="display: inline-block;" -->
 
 * [Dokumentation · Experimentelles Erzählen](https://signalwerk.github.io/IAD.LAB.DOC/exercise-exp-story/)
 
+
+--s--
+## Next Step
+[→ codecademy](https://www.codecademy.com/learn/learn-html-css)
 
 
 

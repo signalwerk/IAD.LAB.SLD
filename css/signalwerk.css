@@ -1965,6 +1965,12 @@ html {
   margin-bottom: 0.5rem;
 }
 
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: block;
+}
+
 .reveal h1 {
   font-size: 1.6rem;
   padding-top: 0.7rem;
