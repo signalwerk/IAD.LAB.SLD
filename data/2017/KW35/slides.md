@@ -1,6 +1,6 @@
 
 ### HF Interactiondesign
-# Herzlich willkommen!
+# Hallo!
 
 
 
@@ -135,7 +135,7 @@ Mittag 1h
 
 --s--
 ## Wiki
-# Github ist simpel
+# Github ist simplel
 --s--
 ## Github?
 * Anbieter: [github.com](https://github.com/)

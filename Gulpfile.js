@@ -11,7 +11,7 @@ var observe = './src/stylesheets/**/*.scss';
 var output = './public';
 var outputCSS = './public/css';
 var revealRoot = './node_modules/reveal.js/'
-var currentWork = '/data/2017/KW35'
+var currentWork = '/data/2017/KW37'
 
 var sassOptions = {
   errLogToConsole: true,
@@ -42,6 +42,13 @@ gulp.task('copyRevealJs', function () {
     gulp.src('.' + currentWork + '/img/**/*')
     .pipe(gulp.dest(output + currentWork + '/img/'));
 });
+
+gulp.task('copyIMG', function () {
+
+    gulp.src('.' + currentWork + '/img/**/*')
+    .pipe(gulp.dest(output + currentWork + '/img/'));
+});
+
 
 gulp.task('sass', function () {
   return gulp
@@ -91,6 +98,7 @@ gulp.task('watch', function() {
   gulp.watch(['./src/*.html'], ['html']);
   gulp.watch(['./src/overview/*.html'], ['overview']);
   gulp.watch(['.' + currentWork + '/*.md'], ['md']);
+  gulp.watch(['.' + currentWork + '/img/**/*'], ['copyIMG']);
 
 });
 

@@ -112,10 +112,17 @@ p.source:before
 // footer
 $footerMargin: 0.7rem;
 
+
+.footer,
+.footer p,
+.footer a,
+p.footer {
+	font-size: 1rem * $pSmallFontSizeFactor;
+}
+
 .footer,
 p.footer {
-    // bottom: $footerMargin;
-	font-size: 1rem * $pSmallFontSizeFactor;
-    bottom: $footerMargin + $pPaddingBottom * $pSmallFontSizeFactor;
-    position: absolute;
+  // bottom: $footerMargin;
+  bottom: $footerMargin + $pPaddingBottom * $pSmallFontSizeFactor;
+  position: absolute;
 }
