@@ -239,6 +239,12 @@ ARPAnet 1971 <!-- .element: class="footer" -->
 
 ARPAnet 1980 <!-- .element: class="footer" -->
 --s--
+## Struktur des Internet
+
+![ISP heute](./img/ISP.svg) <!-- .element: class="pic" -->
+
+
+--s--
 ## Frage
 
 Was ist der Unterschied zwischen www und Internet?
@@ -380,3 +386,17 @@ p {
 
 --s--
 ## Freie Arbeit
+
+
+--s--
+## Struktur des Internet
+--s--
+## DNS – Browser
+
+![DNS](./img/dns-host.svg) <!-- .element: class="pic" -->
+--s--
+## DNS – Struktur
+
+![DNS](./img/dns-server.svg) <!-- .element: class="pic" -->
+
+--s--
