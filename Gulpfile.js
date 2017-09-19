@@ -11,7 +11,7 @@ var observe = './src/stylesheets/**/*.scss';
 var output = './public';
 var outputCSS = './public/css';
 var revealRoot = './node_modules/reveal.js/'
-var currentWork = '/data/2017/KW37'
+var currentWork = '/data/2017/KW39'
 
 var sassOptions = {
   errLogToConsole: true,
