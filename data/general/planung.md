@@ -59,3 +59,7 @@ B = pause
 s = speakerdeck
 o = overfiew
 f = fullsize
+
+
+QR-Code Vote
+– https://itunes.apple.com/ch/app/plickers/id701184049?l=en&mt=8
