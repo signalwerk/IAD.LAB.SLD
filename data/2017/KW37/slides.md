@@ -30,14 +30,11 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 * Versionsverwaltung
 * Technologie: git
 * [→ Wiki](https://github.com/logrinto/webtypo/wiki)
-  * Wolfgang Schoeck – bitte Einladung annehmen
-  * Marc Hatt – bitte Einladung annehmen
 * [→ Issues](https://github.com/logrinto/IAD2017/issues)
 * Pull Requests (mehr Infos heute)
 --s--
 ## Kontakte & Passworte
 * [→ Online Kontakte](https://logrinto.github.io/IAD2017.students/)
-  * Pascale – bitte nachreichen
 --s--
 ## Rückschau Dokumente Strukturieren
 --s--
