@@ -6,10 +6,17 @@
 Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## News
-* BlueBorne: Bluetooth hack
+* [BlueBorne – Bluetooth hack](https://www.youtube.com/watch?time_continue=68&v=Az-l90RCns8)
+  * airborne – Ansteckung durch «Luft»
+  * 8.2 Miliarden Geräte betroffen
+  * Alle Windows Rechner ab Vista
+  * iOS vor Version 9.3.5
+  * alle Android-Geräte
+  * April 2017 entdeckt – 12. September 2017 publiziert
 --s--
 ## Agenda
 * [ZHdK Highlights](https://www.zhdk.ch/veranstaltung/32483)
+* [Marco Ganz – Color Therapy – Eglistrasse 8 – 18 Uhr](https://www.linotype.com/5846/marco-ganz.html)
 --s--
 # Rückschau
 
@@ -114,6 +121,8 @@ Datei `portfolio.css` im Ordner `styles` erstellen.
 
 
 --s--
+# Instagram
+--s--
 ## Arbeitslast
 
 # Umfrage
@@ -129,8 +138,6 @@ Datei `portfolio.css` im Ordner `styles` erstellen.
   * URL & DNS
   * Praxisarbeit
 * **16:15** · Ende
---s--
-## Jobangebote...
 
 --s--
 ## URL
@@ -157,7 +164,17 @@ Datei `portfolio.css` im Ordner `styles` erstellen.
 --s--
 ## http → Protokoll
 
-# HTTP = The Hypertext Transfer Protocol
+<hr>
+
+# HTTP
+## The Hypertext Transfer Protocol
+
+<hr>
+
+# HTTPS
+## HTTP over SSL
+
+<hr>
 
 --s--
 ## Was ist ein Kommunikationsprotokoll?
@@ -183,7 +200,7 @@ Eine Vereinbarung zur Datenübertragung.
 --s--
 ## Wer setzt die Regeln?
 # [Internet Engineering Task Force](https://de.wikipedia.org/wiki/Internet_Engineering_Task_Force)
-* Definieren Standr als RFC
+* Definieren Standards als RFC
   * [Request for Comments → Podcast](https://requestforcomments.de/)
 
 RFC = Request for Comments <!-- .element: class="footer" -->
@@ -199,7 +216,7 @@ RFC = Request for Comments <!-- .element: class="footer" -->
 * Entscheidet ob Anfrage erfolgreich ist oder nicht
 
 --s--
-## HTTP != HTTP
+## HTTP ≠ HTTP
 
 Verschiedene Revisionen
 
@@ -228,7 +245,7 @@ Verschiedene Revisionen
 
 
 --s--
-# Domains
+## Domains
 # http://www.switch.ch/index.html
 
 | Teil    | Bedeutung                 |
@@ -237,7 +254,26 @@ Verschiedene Revisionen
 | switch  | Domain                    |
 | ch      | Top-Level Domain          |
 --s--
-## Wichtigkeit
+# Domains – Koordination
+
+  * International: [Internet Corporation for Assigned Names and Numbers – ICANN](https://www.icann.org/)
+  * Schweiz: [Switch](https://www.nic.ch/de/)
+--s--
+# Beispiel – test.signalwerk.ch
+
+Kann ich `.ch` kaufen?
+
+--s--
+# Beispiel – test.signalwerk.ch
+
+Kann ich `signalwerk` kaufen?
+
+--s--
+# Beispiel – test.signalwerk.ch
+
+Kann ich `test` kaufen?
+--s--
+# Wichtigkeit
 * ch – Top-Level Domain
 * switch – Domain
 * www – Subdomain
@@ -245,20 +281,15 @@ Verschiedene Revisionen
 # Top-Level Domain  
 * .com
 * .ch/.swiss
-* ...
-
---s--
-# Domain
-
-* Immer eine NIC pro TLD
-  * Internationale NIC
-  * Swiss NIC
+* [...](http://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 
 TLD = Top-Level Domain <!-- .element: class="footer" -->
+
 --s--
-## Domains in der Schweiz
+## Registare – Domains kaufen
+
 * Switch ist nicht mehr zuständig (seit 1. Januar 2015 )
-* Diverse Registrare
+* [Diverse Registrare](https://www.nic.ch/de/)
 --s--
 ## .ch
 * für Schweizer gut erkennbar als Domain
@@ -291,7 +322,8 @@ Gemäss BAKOM: «Gesuchsteller für einen .swiss Domain-Namen müssen eine ausre
   * `index` → Dateiname – möglichst sinnvoll
   * `html` → Dateiendung – bestimmt oft die Art der Auslieferung an den Browser ([MIME](https://de.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions))
 --s--
-# URL für den Browser
+## URL für den Browser
+# Wie findet mein Brower meine Website (Domain)?
 --s--
 ## Kommunikation über IP
 
@@ -330,11 +362,17 @@ ISP = Internet Service Provider <!-- .element: class="footer" -->
 ![DNS](../KW37/img/dns-server.svg) <!-- .element: class="pic" -->
 
 --s--
+# Projektwoche
+  * [16.7.–20.7.2018](https://logrinto.github.io/IAD2017.timetable/)
+--s--
+
 # Praxisarbeit
+
 --s--
 ## 7 Wochen ohne Tec-Stuff...
 * Kann jeder Arbeiten?
 * Kann jeder publizieren? (github)
 * Fonts, Grundlayout, `H1`, `H2`, `H3`, `p`, `img`
+  * [Google Fonts](https://fonts.google.com/)
 --s--
 # Merci
