@@ -1,2 +1,1 @@
-## Slides Lab
-Die aktuellste Präsentation ist in `./public/` zu finden.
+Slides für die HF Interactiondesign
