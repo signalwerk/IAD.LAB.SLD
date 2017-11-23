@@ -13,15 +13,22 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 
 --s--
 ## News
+* [IBM Font](https://www.boldmonday.com/custom/ibm/)
 * Black Friday/Cyber Monday
 * ePrivacy-Verordnung
 * Adobe CC 2018
-* [IBM Font](https://www.boldmonday.com/custom/ibm/)
+
+--s--
+# Wer kennt Black Friday?
+
+--s--
+# Wer kennt Cyber Monday?
 
 --s--
 ## Black Friday/Cyber Monday
 
-* Thanksgiving → vierten Donnerstag im November (Public-Holiday)
+# Start der Holiday Season
+* Thanksgiving → vierter Donnerstag im November
 * Black Friday → Freitag nach Thanksgiving
 * Cyber Monday → Montag nach Thanksgiving
 
@@ -34,9 +41,9 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## Holiday Shopping
 
-![](https://infographic.statista.com/normal/ChartOfTheDay_1664_Holiday_shopping_in_the_United_States_n.jpg)
+![Holiday](https://infographic.statista.com/normal/ChartOfTheDay_1664_Holiday_shopping_in_the_United_States_n.jpg) <!-- .element: style="height: 550px;" -->
 --s--
-## ePrivacy-Verordnung
+# ePrivacy-Verordnung
 
 --s--
 ## Walls
@@ -46,20 +53,30 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## Harte Pay-Wall (airtight)
 
-* Nur bei bezahlung können Inhalte erhalten werden.
+Nur bei Bezahlung können Inhalte konsumiert werden.
 
+<br>
+### Beispiele
+* Zeitungen
+* Streaming-Dienste
+* ...
 --s--
 ## Durchlässige Pay-Wall (soft, leaky)
-* Inhalte können unter bestimmten Bedingungen auch hinter der Pay-Wall betrachtet werden.
 
-## Beispiele:
+Inhalte können unter bestimmten Bedingungen auch hinter der Pay-Wall betrachtet werden.
+
+<br>
+### Beispiele
 * bei direkter Verlinkung
 * bei Links aus Social-Media
 * Kontingent pro Zeiteinheit (Bsp: 3 Artikel pro Monat)
+* ...
 
 --s--
 ## Adblock-Wall
 Wenn ein Content-Blocker (AdBlocker) eingesetzt wird, werden die Inhalte nicht angezeigt.
+
+<br>
 
 * Rechtslage wohl eher unklar
 * Blocker für Adblock-Detection
@@ -68,11 +85,16 @@ Wenn ein Content-Blocker (AdBlocker) eingesetzt wird, werden die Inhalte nicht a
 ## Tracking-Wall
 Wenn das Tracking verhindert wird, werden die Inhalte nicht angezeigt.
 
---s--
-## ePrivacy-Verordnung → #eprivacy
+Tracking = verfolgen (Internet: Benutzerverhalten aufzeichnen) <!-- .element: class="footer" -->
 
-* Am 26. Oktober 2017 vom EU-Parlament angenommen (318 zu 280 Stimmen)
-* Am 25. Mai 2018 geltendes EU-Recht (voraussichtlich)
+--s--
+## ePrivacy-Verordnung
+
+* Am 26. Oktober 2017 vom EU-Parlament angenommen <br>(318 zu 280 Stimmen)
+* Ab 25. Mai 2018 geltendes EU-Recht (voraussichtlich)
+--s--
+## ePrivacy-Verordnung – Inhalt
+
 * Keine Datenverarbeitung von Benutzerdaten ohne Einverständnis
 * Tracking-Walls verboten
 * «Do Not Track» im Browser als default (Privacy by Default)
@@ -92,10 +114,27 @@ Variable Fonts jetzt auch in Design-Software
 
 --s--
 ## Variable Fonts
-* 2016 veröffentlicht  
-* Design-Spaces mit mehreren Mastern (Strichstärke, Schriftlage, Schriftweite)
 * [→ Demo](http://www.axis-praxis.org/specimens/mutatorsans)
+* 2016 veröffentlicht  
+* Design-Spaces mit mehreren Mastern <br>(Strichstärke, Schriftlage, Schriftweite)
 * [Mutator Sans](https://github.com/LettError/mutatorSans) (Beta-/Test-Font)
+
+
+--s--
+## UI Nadia
+![UI](./img/Font_Variation_Bendinelli.png) <!-- .element: style="width: 500px; height: auto; " -->
+
+
+Aufnahmeprüfung IAD2017 · Nadia Bendinelli <!-- .element: class="footer" -->
+
+
+
+--s--
+## UI Adobe
+![UI](./img/Font_Variation_AdobeCC2018.png) <!-- .element: style="width: 800px; height: auto; " -->
+
+
+Adobe Illustrator CC 2018  <!-- .element: class="footer" -->
 
 --s--
 ## Browser Unterstützung
