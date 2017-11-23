@@ -2972,6 +2972,10 @@ img.pic.upscale {
   width: auto;
 }
 
+.reveal section img.border {
+  border: 1px solid #666666;
+}
+
 iframe.browser {
   border: 6px solid #666666;
   border-top: 30px solid #666666;

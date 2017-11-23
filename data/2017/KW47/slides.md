@@ -43,6 +43,21 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 
 ![Holiday](https://infographic.statista.com/normal/ChartOfTheDay_1664_Holiday_shopping_in_the_United_States_n.jpg) <!-- .element: style="height: 550px;" -->
 --s--
+## Überlastung...
+
+
+--s--
+## digitec.ch – ab etwa 00:03
+
+![digitec.ch](./img/black_friday_digitec_0011.png) <!-- .element: style="width: 550px;" class="border" -->
+--s--
+## digitec.ch – ab etwa 00:03
+![digitec.ch](./img/black_friday_digitec_0006.png) <!-- .element: style="width: 550px;" class="border" -->
+--s--
+## digitec.ch auf Twitter – 00:11
+![digitec.ch](./img/black_friday_digitec_0011_twitter.png) <!-- .element: style="width: 750px;" class="border" -->
+
+--s--
 # ePrivacy-Verordnung
 
 --s--
