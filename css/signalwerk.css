@@ -1961,8 +1961,8 @@ html {
 }
 
 .reveal ul {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
 }
 
 .reveal ol,
@@ -1973,20 +1973,26 @@ html {
 
 .reveal h1 {
   font-size: 1.6rem;
-  padding-top: 0.7rem;
-  padding-bottom: 0.7rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
 }
 
 .reveal h2 {
   font-size: 1.3rem;
   color: #004d61;
-  padding-bottom: 0.3rem;
+  margin-bottom: 0.3rem;
 }
 
 .reveal h3 {
   font-size: 1rem;
   color: #004d61;
-  padding-bottom: 0.3rem;
+  margin-top: 0.8em;
+  margin-bottom: 0.3em;
+}
+
+.reveal section > h1:first-child, .reveal section > h2:first-child, .reveal section > h3:first-child {
+  margin-top: 0em;
+  margin-bottom: 2em;
 }
 
 .reveal code {
@@ -2020,6 +2026,12 @@ html {
   font-size: 0.7rem;
   margin-bottom: 0.3rem;
   color: #666666;
+}
+
+.reveal blockquote {
+  width: 100%;
+  box-shadow: none;
+  padding: 0;
 }
 
 p.source {
@@ -2963,7 +2975,7 @@ img.stats {
 
 img.pic {
   height: 100%;
-  max-height: 480px;
+  max-height: 450px;
   width: auto;
 }
 
@@ -2980,5 +2992,12 @@ iframe.browser {
   border: 6px solid #666666;
   border-top: 30px solid #666666;
   width: 800px;
-  height: 460px;
+  height: 410px;
+}
+
+.reveal pre {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
 }

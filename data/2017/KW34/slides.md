@@ -74,17 +74,17 @@ Sonst unter sh@signalwerk.ch
 ## Lektionen
 
 
-08:15 – 09:00  
-09:05 – 09:50  
-10:05 – 10:50  
-11:00 – 11:45  
+08:15-9:00  
+09:05-9:50  
+10:05-10:50  
+10:55-11:40  
 
-Mittag 1.5h
+Mittag 1.5h  
 
-13:15 – 14:00  
-14:10 – 14:55  
-15:05 – 15:50  
-16:00 – 16:45
+13:15–14:00  
+14:05-14:50  
+15:05-15:50  
+16:00-16:45  
 
 --s--
 ## Mögliche Abmachungen
@@ -219,7 +219,7 @@ Hausarbeiten müssen pünktlich abgegeben werden. Ist dies nicht der Fall, so wi
 
 --s--
 ## Ziel vom Lab
-![Lab-Grafik](./img/lab.png) <!-- .element: style="height: 550px;" -->
+![Lab-Grafik](./img/lab.png) <!-- .element: style="height: 520px;" -->
 
 --s--
 ## Ziel vom Lab
@@ -396,9 +396,9 @@ HTML/XML oder sonstige bekannte Formate vermeiden.
 --s--
 ## Beispiel-Regelsatz
 
-* Ein Titel ist von öffnenden und schliessenden Nasenklammern umschlossen: {Titel}
-* Ein Text ist von öffnenden und schliessenden Rundklammern umschlossen: (Text text)
-* Eine Aufzählung/Liste beginnt immer auf einer neuen Zeile und startet mit einem Ausrufezeichen:<br>! Liste
+* Ein Titel ist von öffnenden und schliessenden Nasenklammern umschlossen: `{Titel}`
+* Ein Text ist von öffnenden und schliessenden Rundklammern umschlossen: `(Text text)`
+* Eine Aufzählung/Liste beginnt immer auf einer neuen Zeile und startet mit einem Ausrufezeichen:<br>`! Liste`
 --s--
 ## Beispiel Nachricht
 

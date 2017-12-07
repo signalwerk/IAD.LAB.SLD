@@ -6,7 +6,7 @@
 Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## Organisation
-* Marc hat Prüfung (während LAB-Teil)
+* Marc hat Prüfung
 * Stromleisten kommen
 * Schulzimmer
 * Rückmeldung Case Study (2018)
@@ -41,7 +41,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## Holiday Shopping
 
-![Holiday](https://infographic.statista.com/normal/ChartOfTheDay_1664_Holiday_shopping_in_the_United_States_n.jpg) <!-- .element: style="height: 550px;" -->
+![Holiday](https://infographic.statista.com/normal/ChartOfTheDay_1664_Holiday_shopping_in_the_United_States_n.jpg) <!-- .element: class="pic" -->
 --s--
 ## Überlastung...
 
@@ -49,13 +49,13 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## digitec.ch – ab etwa 00:03
 
-![digitec.ch](./img/black_friday_digitec_0011.png) <!-- .element: style="width: 550px;" class="border" -->
+![digitec.ch](./img/black_friday_digitec_0011.png) <!-- .element: class="pic border" -->
 --s--
 ## digitec.ch – ab etwa 00:03
-![digitec.ch](./img/black_friday_digitec_0006.png) <!-- .element: style="width: 550px;" class="border" -->
+![digitec.ch](./img/black_friday_digitec_0006.png) <!-- .element: class="pic border" -->
 --s--
 ## digitec.ch auf Twitter – 00:11
-![digitec.ch](./img/black_friday_digitec_0011_twitter.png) <!-- .element: style="width: 750px;" class="border" -->
+![digitec.ch](./img/black_friday_digitec_0011_twitter.png) <!-- .element: class="border" -->
 
 --s--
 # ePrivacy-Verordnung
@@ -158,11 +158,11 @@ Adobe Illustrator CC 2018  <!-- .element: class="footer" -->
 * Firefox nur Developer Edition oder Firefox Nightly
 * Edge noch nicht verfügbar
 
-
-
 --s--
 ## Agenda
-* [Digitaltag ZHdK](http://digitaltag.zhdk.ch/)
+* [meetup – Web Zürich](https://www.meetup.com/en-AU/Web-Zurich/)
+* [Rückschau: Digital Festival](https://www.youtube.com/channel/UCJouOGUI68hITSoJ_-k9dBQ/videos)
+* [Rückschau: Digitaltag ZHdK](http://digitaltag.zhdk.ch/)
 
 --s--
 # Rückschau
@@ -194,7 +194,9 @@ Adobe Illustrator CC 2018  <!-- .element: class="footer" -->
 
 # HTTPS
 ## HTTP over SSL
-
+--s--
+## Demo
+[→ http/2](https://http2.akamai.com/demo)
 --s--
 ## URL für den Browser
 # Wie findet mein Brower meine Website (Domain)?

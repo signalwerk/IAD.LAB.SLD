@@ -45,7 +45,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
 ## News
 * → VR im Migros (HTC Vive)
-* iOS 11 / Adobe CC 2018 
+* iOS 11 / Adobe CC 2018
 * [→ Google Pixel 2](https://youtu.be/q3wh1h17Yds?t=4m27s)
 * [→ Windows Phone eingestellt](https://www.youtube.com/watch?v=V1Dl9Ha_sv4)
 
@@ -54,72 +54,8 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 * [Digitaltag ZHdK](http://digitaltag.zhdk.ch/)
 
 --s--
-# Rückschau
-
---s--
-## Bestandteile einer URL
-
-
-# http://www.switch.ch/index.html
-
-| Teil    | Bedeutung                 |
-|---------|---------------------------|
-| http:// | Angabe über das Protokoll |
-| www     | Subdomain                 |
-| switch  | Domain                    |
-| ch      | Top-Level Domain          |
-| index   | Dateiname                 |
-| html    | Dateiendung               |
-
---s--
-## http → Protokoll
-
-<hr>
-
-# HTTP
-## The Hypertext Transfer Protocol
-
-<hr>
-
-# HTTPS
-## HTTP over SSL
-
---s--
-## URL für den Browser
-# Wie findet mein Brower meine Website (Domain)?
---s--
-## Kommunikation über IP
-* Jeder Client/Server hat eine IP-Adresse
-* Eindeutlig im «sichtbaren» Netzwerk
-  * lokale Adressen
-  * globale Adressen
---s--
-## DNS
-# Domain Name System
-* Menschen sind schlecht mit Nummern
-* Menschen sind ok mit Domains (Namen)
-* DNS verwandelt Domains zu Nummern
---s--
-## Domains für den Browser
-* Browser lösst Domains in IP's auf
-* DNS sind dezentral und abhängig vom Client/ISP-Provider
-
-ISP = Internet Service Provider <!-- .element: class="footer" -->
---s--
-## DNS – Struktur
-
-![DNS](../KW37/img/dns-server.svg) <!-- .element: class="pic" -->
-
---s--
-## DNS – Browser
-
-![DNS](../KW37/img/dns-host.svg) <!-- .element: class="pic" -->
-
---s--
-# phew...
-
---s--
 ## Kann jeder Arbeiten?
-
+--s--
+## Kochbuch-Cross-Publishing
 --s--
 # Merci
