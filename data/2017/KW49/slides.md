@@ -5,7 +5,27 @@
 
 Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 --s--
+## Übersicht – Vormittag
+
+* **8:15**
+  * Organisation/Arbeitslast
+  * News/Agenda
+  * Rückschau & Festigung
+  * Mobiles Internet
+  * Know your Editor
+  * LAB · Praxisarbeit
+* **11:45**
+
+--s--
+## Übersicht – Nachmittag
+* **12:45**
+  * (optional) ZeTeCo – Abstraktion im Design
+  * LAB · Praxisarbeit
+* **16:15** · Ende
+--s--
+
 ## Organisation
+* Ulrike krank
 * Evaluation der Module
 * Slack
 * Wissenssicherung/Wissenstransfer
@@ -22,7 +42,6 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 * Matthias ist neu Slack-Admin
 * Nach 10k werden die ältesten Nachrichten gelöscht
 
-
 --s--
 ## Inhalte
 
@@ -36,6 +55,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 
 --s--
 ## News
+* Bitcoin – über $10k – 28.11.2017
 * Follow-up – Digitec
 * macOS High Sierra – root login bug
 --s--
@@ -92,6 +112,11 @@ Phil Karlton/Leon Bambrick
 * [→ Demo](http://pad.signalwerk.ch/test/)
 
 --s--
+## Arbeitslast
+
+# Umfrage
+* Wie war die Arbeitslast in den letzten zwei Wochen?
+--s--
 ## Agenda
 * 27.12 – 30.12. – Chaos Communication Congress [(34c3)](https://events.ccc.de/tag/34c3/)
 
@@ -100,24 +125,61 @@ Phil Karlton/Leon Bambrick
 # Rückschau
 
 * DNS – war bereits eine Rückschau
+* Heute vertiefen
 
 --s--
-## Arbeitslast
+## DNS – Struktur
 
-# Umfrage
-* Wie war die Arbeitslast in den letzten zwei Wochen?
-
---s--
-# Und heute?
+![DNS](../KW37/img/dns-server.svg) <!-- .element: class="pic" -->
 
 --s--
-## Übersicht – Nachmittag
+## Portfolio mit eigener Domain
 
-* **12:45**
-  * Mobiles Internet
-  * Know your Editor
-  * LAB · Praxisarbeit
-* **16:15** · Ende
+### Was brauchen wir?
+
+
+* Website <!-- .element: class="fragment" -->
+* Hoster <!-- .element: class="fragment" -->
+* Domain <!-- .element: class="fragment" -->
+* Nameserver <!-- .element: class="fragment" -->
+
+--s--
+## Portfolio mit eigener Domain
+
+### Was haben wir?
+
+* Website <!-- .element: class="fragment" -->
+* Hoster <!-- .element: class="fragment" -->
+
+--s--
+## Portfolio mit eigener Domain
+
+### Wir brauchen eine Domain
+* Registrar verkauft Domains
+* Es gibt freie Domains 😻🦄 (*.tk)
+
+--s--
+## Domain
+
+### [→ freenom.com](https://freenom.com/)
+* Account erstellen
+* Domain registrieren
+
+--s--
+## Nameserver
+
+* [→ DNS A-Record erstellen](https://help.github.com/articles/setting-up-an-apex-domain/)
+
+
+<!-- .element: class="footer" --> [→ Wikipedia – List of DNS record types](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
+--s--
+## Hoster
+
+* Domain für Hosting vermerken
+
+--s--
+# Mobiles Internet
+
 --s--
 ## Mobiles Internet
 
@@ -127,26 +189,65 @@ Phil Karlton/Leon Bambrick
 * iPhone, 29. Juni 2007
 * iPad, 3. April 2010
 --s--
-## Mobiles Internet – Schweiz
-#### Internetnutzung nach Gerätetypen
-
+## Mobiles Internet
+#### Schweiz – Internetnutzung nach Gerätetypen in %
 ![Internetnutzung nach Gerätetypen – Schweiz](./img/CH_device.svg) <!-- .element: class="stats" -->
 
 
-Angaben in %  <!-- .element: class="footer" -->
+<div class="chart-caption">
+  <div class="svg ct-series-a chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-line" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Desktop</span>
+  </div>
+  <div class="svg ct-series-b chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-line" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Mobile</span>
+  </div>
+  <div class="svg ct-series-c chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-line" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Tablet</span>
+  </div>
+</div>
+
+
 --s--
-## Mobiles Internet – Weltweit
-#### Internetnutzung nach Gerätetypen
+## Mobiles Internet
+#### Weltweit – Internetnutzung nach Gerätetypen in %
 
 ![Internetnutzung nach Gerätetypen – Weltweit](./img/ALL_device.svg) <!-- .element: class="stats" -->
 
+<div class="chart-caption">
+  <div class="svg ct-series-a chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-line" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Desktop</span>
+  </div>
+  <div class="svg ct-series-b chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-line" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Mobile</span>
+  </div>
+  <div class="svg ct-series-c chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-line" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Tablet</span>
+  </div>
+</div>
 
-Angaben in %  <!-- .element: class="footer" -->
 
 --s--
-##  Smartphone und Touch-Devices
+##  Smartphone
 
-#### Verkaufte Smartphones weltweit
+#### Weltweit – Verkaufte Smartphones in Mio.
 ![Verkaufte Smartphones weltweit](./img/smartphones.svg) <!-- .element: class="stats" -->
 
 
@@ -155,27 +256,27 @@ Zum Vergleich: Im Jahr 2014 wurden weltweit 308 Millionen Computer verkauft. <!-
 --s--
 ##  Mobiles Internet – Datenübertragung
 
+#### Mobilfunk-Standards – 3G und neuer
 ![Mobiles Internet – Datenübertragung](./img/mobile-datatransfer.svg) <!-- .element: class="stats" -->
 
 
-#### Mobilfunk-Standards – 3G und neuer
-<!--
-<div class="margin compact" style="font-size: 10px">
+<div class="chart-caption">
+  <div class="svg ct-series-a chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-bar" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-bar" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Download</span>
+  </div>
+  <div class="svg ct-series-b chartist-legend">
+    <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-bar" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
+      <line class="ct-bar" x1="3" y1="10" x2="27" y2="10"></line>
+    </svg>
+    <span>Upload</span>
+  </div>
+</div>
 
-<div class="svg ct-series-a chartist-legend">
-  <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
-    <line class="ct-bar" x1="3" y1="10" x2="27" y2="10"></line>
-  </svg>
-  <span>Download</span>
-</div>
-<div class="svg ct-series-b chartist-legend">
-  <svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 2em; height: 1em;" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 15">
-    <line class="ct-bar" x1="3" y1="10" x2="27" y2="10"></line>
-  </svg>
-  <span>Upload</span>
-</div>
-</div>
--->
+
+
 
 
 ![Mobiles Internet – Datenübertragung](./img/mobile-datatransfer.svg) <!-- .element: class="stats" -->
@@ -219,6 +320,11 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 --s--
 ## LAB · Praxisarbeit
 * Kann jeder Arbeiten?
+* [→ Aufgabe ist inhaltlich](https://signalwerk.github.io/IAD.LAB.DOC/exercise-exp-story/)
+* [→ einfache Gestaltung genügt](https://signalwerk.github.io/portfolio/)
+
+--s--
+## Abstraktion im Design
 
 
 --s--
