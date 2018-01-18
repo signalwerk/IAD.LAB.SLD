@@ -91,7 +91,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 ### Patches?
 * [→ Intel/AMD patchen mit «microcode»](https://www.heise.de/newsticker/meldung/Intel-Benchmarks-zu-Meltdown-Spectre-Performance-sackt-um-bis-zu-10-Prozent-ab-SSD-I-O-deutlich-mehr-3938747.html)
-* Restart von Infrastruktur nach patch
+* Restart von Infrastruktur nach Patch
 
 --s--
 ## Agenda
