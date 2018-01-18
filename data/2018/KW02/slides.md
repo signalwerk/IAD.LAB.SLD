@@ -64,3 +64,5 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## Fragen
 --s--
+## Wie wars?
+--s--
