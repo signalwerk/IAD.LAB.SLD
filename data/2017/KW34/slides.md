@@ -219,7 +219,7 @@ Hausarbeiten müssen pünktlich abgegeben werden. Ist dies nicht der Fall, so wi
 
 --s--
 ## Ziel vom Lab
-![Lab-Grafik](./img/lab.png) <!-- .element: style="height: 550px;" -->
+![Lab-Grafik](./img/lab.png) <!-- .element: style="height: 520px;" -->
 
 --s--
 ## Ziel vom Lab

@@ -22,8 +22,8 @@ html {
 	margin-bottom: 0.35rem;
 }
 .reveal ul {
-	margin-top: 0.5rem;
-	margin-bottom: 0.5rem;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
 }
 
 .reveal ol,
@@ -35,14 +35,14 @@ html {
 
 .reveal h1 {
 	font-size: 1.6rem;
-	padding-top: 0.7rem;
-	padding-bottom: 0.7rem;
+	margin-top: 0.7rem;
+	margin-bottom: 0.7rem;
 }
 
 .reveal h2 {
 	font-size: 1.3rem;
 	color: $cGreen;
-	padding-bottom: 0.3rem;
+	margin-bottom: 0.3rem;
 }
 
 .reveal h3 {
@@ -51,8 +51,21 @@ html {
 	// color: $cDarkGray;
 	// color: $cBlue;
 	color: $cGreen;
-	padding-bottom: 0.3rem;
+	margin-top: 0.8em;
+	margin-bottom: 0.3em;
 }
+
+
+// handling for first title on the slide
+.reveal section {
+
+	& > h1:first-child, & > h2:first-child, & > h3:first-child {
+		margin-top: 0em;
+		margin-bottom: 2em;
+	}
+
+}
+
 
 .reveal code {
 	// font-size: 0.8rem;
@@ -91,7 +104,11 @@ html {
 	color: $cDarkGray;
 }
 
-
+.reveal blockquote {
+ width: 100%;
+ box-shadow: none;
+ padding: 0
+}
 
 p.source {
 	font-size: 60%;

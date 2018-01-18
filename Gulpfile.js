@@ -11,7 +11,7 @@ var observe = './src/stylesheets/**/*.scss';
 var output = './public';
 var outputCSS = './public/css';
 var revealRoot = './node_modules/reveal.js/'
-var currentWork = '/data/2017/KW38'
+var currentWork = '/data/2018/KW03'
 
 var sassOptions = {
   errLogToConsole: true,
@@ -86,18 +86,31 @@ gulp.task('overview', function () {
     .pipe(connect.reload());
 });
 
-gulp.task('md', function () {
-    gulp.src('.' + currentWork + '/*.md')
-    .pipe(gulp.dest(output + currentWork))
-    .pipe(connect.reload());
-});
+// gulp.task('md', function () {
+//     gulp.src('./data/**/*.md')
+//     .pipe(gulp.dest(output + './data/'))
+//     .pipe(connect.reload());
+// });
+
+
+gulp.src(["assets/file.doc"], {base: "."})
+      .pipe(gulp.dest("dist/"));
 
 
 gulp.task('watch', function() {
   gulp.watch(observe, ['sass']);
   gulp.watch(['./src/*.html'], ['html']);
   gulp.watch(['./src/overview/*.html'], ['overview']);
-  gulp.watch(['.' + currentWork + '/*.md'], ['md']);
+
+  // gulp.watch(['.' + currentWork + '/*.md'], ['md']);
+  // gulp.watch(["./data/**/*.md"], ['md_new']);
+
+  gulp.watch(["./data/**/*.md"], function (obj) {
+   return gulp.src(obj.path, {base: "."})
+   .pipe(gulp.dest(output))
+   .pipe(connect.reload());
+  });
+
   gulp.watch(['.' + currentWork + '/img/**/*'], ['copyIMG']);
 
 });
@@ -116,4 +129,4 @@ gulp.task('watch', function() {
 // });
 
 
-gulp.task('default', ['copyRevealJs', 'sass', 'connect', 'watch' /*, possible other tasks... */]);
+gulp.task('default', ['copyRevealJs', /* 'md', */ 'sass', 'connect', 'watch' /*, possible other tasks... */]);

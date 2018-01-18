@@ -95,12 +95,10 @@ Pause nach eigenem Ermessen.
 --s--
 ## Gestaltung/Entwurf
 
-<br>
 ### bis 15:00
 * Beamer-Präsentation zur visualisierung der Interaktion und Gestaltung
 * Herzstück/Main-Screen 1:1 auf Papier visualisiert
 
-<br>
 ### bis 16:00
 * Präsentation – 15min pro Gruppe
 
