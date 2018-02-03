@@ -7,7 +7,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## Übersicht – Nachmittag
 * **12:45**
-  * Organisation
+  * Organisation/News
   * Auswertung
   * Review · «Dokumentation · Experimentelles Erzählen»
   * Rückmeldung
@@ -25,7 +25,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
 ## Organisation
-* Heute Grids&Modules 
+* Heute Grids&Modules
 * [→ Case Study](https://logrinto.github.io/website/posts/case-study-panel-sbb/)
 * Zeugnis – 23.2.2018
 * Lerngruppen
@@ -33,10 +33,14 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 * Projektwoche & Interface mit DIY–Hardware
 
 --s--
+## News
+
+* HomePod ab heute zum Vorbestellen → 2011 erste Siri
+--s--
 ## Projektwoche
 * [→ Sebastian Cremers](https://www.instagram.com/prillviecelicremers/)
-* Technik intro durch mich
 * Spezialist für Bilder und bildnerische Erzählung – Technik in Lerngruppen
+* Technik intro durch mich
 * Montag bis Freitag
 
 --s--
