@@ -22,8 +22,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
 ## Organisation
+* Prüfung von Laurent erhalten?
 * Nadia hat Prüfung
-
 <br>
 <br>
 **Arbeit an Grids & Modules bis ich zurück bin.**
@@ -31,6 +31,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
 ## News
+* [→ Nintendo Labo ab 20. April 2018](https://labo.nintendo.com/), [→ Bericht](http://www.telegraph.co.uk/gaming/features/nintendo-labo-hands-on-switch-brilliant-barmy-cardboard-toys/)
 * Redesign [→ The Guardian](https://www.theguardian.com/)
 * Start der [→ Republik](https://www.republik.ch/) mit ~3.5mio
 * CES
@@ -211,7 +212,7 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 --s--
 # Abgabe
 
-* Hat jeder seinen Aktuellen Stand auf Github?
+* Hat jeder seinen aktuellen Stand auf Github?
 
 --s--
 # Probleme mit Github
@@ -249,10 +250,11 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 --s--
 ##  Review auf Github
 
-* Code von Partner klonen (Button auf Website)
+* Code von Partner klonen («Fork»-Button auf Website)
+* Auf gh-pages Branch wechseln (in SourceTree Checkout bei orgin)
 * [→ Code Prüfen](https://validator.w3.org/), Schreibfehler, ...
 * Änderungen machen und sinnvoller Kommentar im Commit
-* Pull-Request bis 25.1.2018 (Button auf Website)
+* Pull-Request bis 25.1.2018 («New pull request»-Button auf Website)
 * Merge bis 26.1.2018 (Button auf Website)
 
 --s--
@@ -270,3 +272,4 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 
 * [→ Doc von Foundation](https://foundation.zurb.com/)
 * Kann jemand nicht arbeiten?
+* Abends pushen!
