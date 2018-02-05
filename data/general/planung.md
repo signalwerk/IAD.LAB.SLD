@@ -11,7 +11,8 @@ Semesterplanung
 
 	– HTTP vs HTTPS
 	– Github → pull-request
-
+	– mobile internet
+		– speed of internet
 
 	– Server to Browser
 	– Travis
@@ -22,11 +23,8 @@ Semesterplanung
 
 2.
 	– Fontvorstellung
-	– screen: https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review
-	– mobile internet
-		– speed of internet
-		– CPU
-		– reading spead –– http://iovs.arvojournals.org/article.aspx?articleid=2166061
+	– CPU
+	– reading spead –– http://iovs.arvojournals.org/article.aspx?articleid=2166061
 	– Webfont
 						https://github.com/w3c/csswg-drafts/issues/807
 						Just a slight extension to Dave's comment,
@@ -34,14 +32,13 @@ Semesterplanung
 						On Apple devices, in Adobe apps, in the print world and all international practice of typography, it is 72.
 	– CSS Basics >>> em rem %
 	– css colapsing rule
-	– computing power
-		count of transistors
 	– Slide to unlock 2007 >>> userinterface
-	– Fonts
-		* IBM Plex >>> https://github.com/IBM/type
+	– Separation of concerns >>> https://twitter.com/MicheleBertoli/status/868078729662279680
+
 3.
 	– People on the Net.
-	– Separation of concerns >>> https://twitter.com/MicheleBertoli/status/868078729662279680
+	– computing power
+		count of transistors
 	– JavaScript
 	– siehe vortrag jugend hackt ==> 2016 Jugend Hackt JavaScript
 	– Vorläufer computer/internet
