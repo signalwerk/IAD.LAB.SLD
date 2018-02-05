@@ -129,4 +129,4 @@ gulp.task('watch', function() {
 // });
 
 
-gulp.task('default', ['copyRevealJs', /* 'md', */ 'sass', 'connect', 'watch' /*, possible other tasks... */]);
+gulp.task('default', ['copyRevealJs', 'copyIMG', /* 'md', */ 'sass', 'connect', 'watch' /*, possible other tasks... */]);
