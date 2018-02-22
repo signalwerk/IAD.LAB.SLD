@@ -1,87 +1,78 @@
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var sourcemaps = require('gulp-sourcemaps');
-var autoprefixer = require('gulp-autoprefixer');
+var gulp = require("gulp");
+var sass = require("gulp-sass");
+var sourcemaps = require("gulp-sourcemaps");
+var autoprefixer = require("gulp-autoprefixer");
 //var changed = require('gulp-changed');
-var connect = require('gulp-connect');
+var connect = require("gulp-connect");
 
-
-var inputSCSS = './src/stylesheets/signalwerk.scss';
-var observe = './src/stylesheets/**/*.scss';
-var output = './public';
-var outputCSS = './public/css';
-var revealRoot = './node_modules/reveal.js/'
-var currentWork = '/data/2018/KW06'
+var inputSCSS = "./src/stylesheets/signalwerk.scss";
+var observe = "./src/stylesheets/**/*.scss";
+var output = "./public";
+var outputCSS = "./public/css";
+var revealRoot = "./node_modules/reveal.js/";
+var currentWork = "/data/2018/KW08";
 
 var sassOptions = {
   errLogToConsole: true,
-  outputStyle: 'expanded'
+  outputStyle: "expanded"
 };
 
+gulp.task("copyRevealJs", function() {
+  gulp.src(revealRoot + "/js/*").pipe(gulp.dest(output + "/js/"));
 
-gulp.task('copyRevealJs', function () {
+  gulp.src(revealRoot + "/plugin/**/*").pipe(gulp.dest(output + "/plugin/"));
 
-    gulp.src(revealRoot + '/js/*')
-    .pipe(gulp.dest(output + '/js/'));
+  gulp.src(revealRoot + "/lib/**/*").pipe(gulp.dest(output + "/lib/"));
 
-    gulp.src(revealRoot + '/plugin/**/*')
-    .pipe(gulp.dest(output + '/plugin/'));
+  gulp.src("./src/*.html").pipe(gulp.dest(output + currentWork));
 
-    gulp.src(revealRoot + '/lib/**/*')
-    .pipe(gulp.dest(output + '/lib/'));
+  gulp.src("./src/overview/*.html").pipe(gulp.dest(output));
 
-    gulp.src('./src/*.html')
-    .pipe(gulp.dest(output + currentWork));
+  gulp.src("." + currentWork + "/*.md").pipe(gulp.dest(output + currentWork));
 
-    gulp.src('./src/overview/*.html')
-    .pipe(gulp.dest(output));
-
-    gulp.src('.' + currentWork + '/*.md')
-    .pipe(gulp.dest(output + currentWork));
-
-    gulp.src('.' + currentWork + '/img/**/*')
-    .pipe(gulp.dest(output + currentWork + '/img/'));
+  gulp
+    .src("." + currentWork + "/img/**/*")
+    .pipe(gulp.dest(output + currentWork + "/img/"));
 });
 
-gulp.task('copyIMG', function () {
-
-    gulp.src('.' + currentWork + '/img/**/*')
-    .pipe(gulp.dest(output + currentWork + '/img/'));
+gulp.task("copyIMG", function() {
+  gulp
+    .src("." + currentWork + "/img/**/*")
+    .pipe(gulp.dest(output + currentWork + "/img/"));
 });
 
+gulp.task("sass", function() {
+  return (gulp
+      .src(inputSCSS)
+      // .pipe(sourcemaps.init())
+      .pipe(sass(sassOptions).on("error", sass.logError))
+      .pipe(sourcemaps.write())
+      .pipe(autoprefixer())
+      .pipe(gulp.dest(outputCSS))
+      .pipe(connect.reload())
 
-gulp.task('sass', function () {
-  return gulp
-    .src(inputSCSS)
-    // .pipe(sourcemaps.init())
-    .pipe(sass(sassOptions).on('error', sass.logError))
-    .pipe(sourcemaps.write())
-    .pipe(autoprefixer())
-    .pipe(gulp.dest(outputCSS))
-    .pipe(connect.reload())
-
-    // Release the pressure back and trigger flowing mode (drain)
-    // See: http://sassdoc.com/gulp/#drain-event
-    .resume();
+      // Release the pressure back and trigger flowing mode (drain)
+      // See: http://sassdoc.com/gulp/#drain-event
+      .resume() );
 });
 
-
-gulp.task('connect', function() {
+gulp.task("connect", function() {
   connect.server({
-    root: './public/',
+    root: "./public/",
     livereload: true
   });
 });
 
-
-gulp.task('html', function () {
-    gulp.src('./src/*.html')
+gulp.task("html", function() {
+  gulp
+    .src("./src/*.html")
     .pipe(gulp.dest(output + currentWork))
     .pipe(connect.reload());
 });
 
-gulp.task('overview', function () {
-    gulp.src('./src/overview/*.html')
+gulp.task("overview", function() {
+  gulp
+    .src("./src/overview/*.html")
     .pipe(gulp.dest(output))
     .pipe(connect.reload());
 });
@@ -92,27 +83,24 @@ gulp.task('overview', function () {
 //     .pipe(connect.reload());
 // });
 
+gulp.src(["assets/file.doc"], { base: "." }).pipe(gulp.dest("dist/"));
 
-gulp.src(["assets/file.doc"], {base: "."})
-      .pipe(gulp.dest("dist/"));
-
-
-gulp.task('watch', function() {
-  gulp.watch(observe, ['sass']);
-  gulp.watch(['./src/*.html'], ['html']);
-  gulp.watch(['./src/overview/*.html'], ['overview']);
+gulp.task("watch", function() {
+  gulp.watch(observe, ["sass"]);
+  gulp.watch(["./src/*.html"], ["html"]);
+  gulp.watch(["./src/overview/*.html"], ["overview"]);
 
   // gulp.watch(['.' + currentWork + '/*.md'], ['md']);
   // gulp.watch(["./data/**/*.md"], ['md_new']);
 
-  gulp.watch(["./data/**/*.md"], function (obj) {
-   return gulp.src(obj.path, {base: "."})
-   .pipe(gulp.dest(output))
-   .pipe(connect.reload());
+  gulp.watch(["./data/**/*.md"], function(obj) {
+    return gulp
+      .src(obj.path, { base: "." })
+      .pipe(gulp.dest(output))
+      .pipe(connect.reload());
   });
 
-  gulp.watch(['.' + currentWork + '/img/**/*'], ['copyIMG']);
-
+  gulp.watch(["." + currentWork + "/img/**/*"], ["copyIMG"]);
 });
 
 // gulp.task('watch', function() {
@@ -128,5 +116,10 @@ gulp.task('watch', function() {
 //     });
 // });
 
-
-gulp.task('default', ['copyRevealJs', 'copyIMG', /* 'md', */ 'sass', 'connect', 'watch' /*, possible other tasks... */]);
+gulp.task("default", [
+  "copyRevealJs",
+  "copyIMG",
+  /* 'md', */ "sass",
+  "connect",
+  "watch" /*, possible other tasks... */
+]);
