@@ -1,76 +1,74 @@
-Semesterplanung
----
-1.
-	– Scemantics
-	– HTML/CSS Basics
-	– Internet Basics
-		* arpa
-		* tim burners lee
-		* Gutenberg/Chainded books
-		* The medium is the message
+## Semesterplanung
 
-	– HTTP vs HTTPS
-	– Github → pull-request
+### ToDo
 
+* Change to https://github.com/FormidableLabs/spectacle
 
-	– Server to Browser
-	– Travis
-	– FTP
+### 1\. Semeser
 
-	– 19. Januar 2018 – Dokumentation · Experimentelles Erzählen
+* Scemantics
+* HTML/CSS Basics
+* Internet Basics
 
+  * arpa
+  * tim burners lee
+  * Gutenberg/Chainded books
+  * The medium is the message
 
-2.
-	– Fontvorstellung
-	– screen: https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review
-	– mobile internet
-		– speed of internet
-		– CPU
-		– reading spead –– http://iovs.arvojournals.org/article.aspx?articleid=2166061
-	– Webfont
-						https://github.com/w3c/csswg-drafts/issues/807
-						Just a slight extension to Dave's comment,
-						"Microsoft and Web platforms it is 96, while on Apple it is 72."
-						On Apple devices, in Adobe apps, in the print world and all international practice of typography, it is 72.
-	– CSS Basics >>> em rem %
-	– css colapsing rule
-	– computing power
-		count of transistors
-	– Slide to unlock 2007 >>> userinterface
-	– Fonts
-		* IBM Plex >>> https://github.com/IBM/type
-3.
-	– People on the Net.
-	– Separation of concerns >>> https://twitter.com/MicheleBertoli/status/868078729662279680
-	– JavaScript
-	– siehe vortrag jugend hackt ==> 2016 Jugend Hackt JavaScript
-	– Vorläufer computer/internet
-	– Display Technologie
-	– Guys
-4.
-	– SQL
-	– PHP
-	– CMS
-	– Zeitzonen
-			Australien → Olympia-Zeitzone geändert
-			US → Indianerreservate
-			China zu Afganistan → 4h bei grenzübergang
-	– Lokalisierung
+* HTTP vs HTTPS
+* Github → pull-request
+* mobile internet
+* speed of internet
+* Server to Browser
+* FTP
 
-5.
-	– SVG
-		– Pixelgenaue icons >> Icon-fonts
-	– API (REST/GraphQL)
-6.
-	– Summarize
-	– Gartner Hype Cycle
-	– EU/ch Cookie law
-		– https://hosting.1und1.de/digitalguide/websites/online-recht/die-eu-cookie-richtlinie-teil-1-was-gilt-in-deutschland/
-			Richtlinie 2009/136/EG
-		– https://www.cyon.ch/blog/Opt-in,-Opt-out:-Rechtskonforme-Cookies-auf-Websites-in-der-Schweiz
-				Art. 45c lit. b – Fernmeldegesetzes (FMG)
+### 2\. Semeser
+
+* Fontvorstellung
+* Webfonts einbinden & Webfonts kaufen
+* BEM
+* Separation of concerns >>> https://twitter.com/MicheleBertoli/status/868078729662279680
+* Naming things
+* CSS Basics >>> em rem %
+* css colapsing rule
+* PNG – JPG – SVG
+* reading spead – http://iovs.arvojournals.org/article.aspx?articleid=2166061
+* Travis
+* Webfont
+* Slide to unlock 2007 → userinterface
+
+### 3\. Semeser
+
+* People on the Net.
+* CPU
+* computing power – count of transistors
+* JavaScript
+* siehe vortrag jugend hackt ==> 2016 Jugend Hackt JavaScript
+* Vorläufer computer/internet
+* Display Technologie
+* Guys 4.
+* SQL
+* PHP
+* CMS
+* Zeitzonen >>> siehe doc global-content
+* Lokalisierung
+
+### 5\. Semeser
+
+– SVG
+– Pixelgenaue icons >> Icon-fonts
+– API (REST/GraphQL) 6.
+– Summarize
+– Gartner Hype Cycle
+– EU/ch Cookie law
+– https://hosting.1und1.de/digitalguide/websites/online-recht/die-eu-cookie-richtlinie-teil-1-was-gilt-in-deutschland/
+Richtlinie 2009/136/EG
+– https://www.cyon.ch/blog/Opt-in,-Opt-out:-Rechtskonforme-Cookies-auf-Websites-in-der-Schweiz
+Art. 45c lit. b – Fernmeldegesetzes (FMG)
 keybard
+
 ---
+
 space = go through all
 ESC = overview
 Alt+Click = zoom
@@ -79,6 +77,8 @@ s = speakerdeck
 o = overfiew
 f = fullsize
 
-
 QR-Code Vote
 – https://itunes.apple.com/ch/app/plickers/id701184049?l=en&mt=8
+
+Map:
+– https://www.justinobeirne.com/google-maps-moat/

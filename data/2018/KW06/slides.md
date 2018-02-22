@@ -112,8 +112,4 @@ Earthrise, Apollo 8, Bill Anders <!-- .element: class="footer" -->
 [→ rosettaproject.org](http://rosettaproject.org/)
 
 --s--
-## Rosetta Project
-
-![](./img/Rosetta_Stone.JPG) <!-- .element: class="pic" -->
---s--
 ## Frangen?
