@@ -3,6 +3,7 @@
 # Neues Semester #yay
 
 Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
+
 --s--
 
 ## Übersicht – Vormittag
@@ -32,11 +33,33 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 [→ Umfrage](https://de.surveymonkey.com/r/528MGJK)
 --s--
 
-## Zeugnisse & Bewertung LAB
+## Bewertung
 
-* Rückmeldung Urs
-* Rückmeldung Stefan
-* Zeugnisse
+### Was kostet meine Stunde? · Urs Bernet
+
+--s--
+
+## Bewertung LAB
+
+* Was für tolle Arbeiten!
+* Gestaltung stand nicht im Zentrum
+* Logbuch, Meta-Ebene oder Projektbeschreibung
+* auf 0.5 genaue Note mit kleinem Satz
+* «Positive Punkte» & «Denkanstoss»
+
+--s--
+
+## WOW!
+
+Ich habe mir Zeit genommen, alle Webseiten zu sichten und zu lesen - das ist
+ausserordentlich gut und für meinen Unterricht sehr aufschlussreich (was wurde verstanden).
+Und gerade bei den Studierenden, welche in den Stunden etwas zaghafter waren, haben dies durch die Dokumentation wieder ausgeglichen.
+
+Anbei die Benotung. Sie ist für meine Verhältnisse eher hoch angesetzt, aber die haben wirklich gut geschafft!
+
+--s--
+
+## Zeugnisse
 
 --s--
 
@@ -175,6 +198,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 * Listen Sie alle nötigen Schritte auf
 * Brauche ich von einem bestehenden Dienstleiter noch weitere Angaben/Dateien? Welche?
+* 3er-Gruppen
 
 --s--
 
@@ -195,14 +219,14 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 ## Medien-/Technologiegeschichte
 
-* Möchte eine [→ Timeline](http://timeline.knightlab.com/) machen
 * Nutzt Ulrikes wissen als Vorbereitung zur Thesis
+* Möchte eine [→ Timeline](http://timeline.knightlab.com/) machen
 
 --s--
 
 ## Timeline
 
-* Wir richten [→ Timeline](http://timeline.knightlab.com/) in 3er Teams ein.
+* Wir richten [→ Timeline](http://timeline.knightlab.com/) in 2er-/3er-Teams ein.
 * Pro Team mindestens jemand mit Google-Account
 
 --s--
