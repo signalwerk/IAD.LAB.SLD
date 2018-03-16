@@ -5,6 +5,9 @@
 Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
+## Eierfrage
+
+--s--
 
 ## Übersicht – Vormittag
 
@@ -26,8 +29,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 ## Module
 
 * es gibt einen Wunsch längere Module zu machen
-* Module können durch die Dozierenden bedingt oftmals nicht sehr lange sein
-* wir versuchen unser bestes die Module zu koordinieren. jedes thema soll aber mehrfach angeschnitten werden.
+* Module können durch die Dozierenden bedingt nicht immer verlängert werden
+* Wir versuchen unser bestes die Module zu koordinieren. Jedes Thema soll aber mehrfach angeschnitten werden.
 
 --s--
 ## Semestergebühren
@@ -48,7 +51,7 @@ Drei Personen (von 11) werden vom Arbeitgeber unterstütz.
 ## Lohngleichheit
 
 ### Frauen verdienen 10–20% weniger Lohn! <br>Das geht so nicht!
-* [Lohnunterschied](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/loehne-erwerbseinkommen-arbeitskosten/lohnniveau-schweiz/lohnunterschied.html)
+* [→ Lohnunterschied](https://www.bfs.admin.ch/bfs/de/home/statistiken/arbeit-erwerb/loehne-erwerbseinkommen-arbeitskosten/lohnniveau-schweiz/lohnunterschied.html)
 * Wollt ihr wissen, was die anderen verdienen?
 
 --s--
@@ -61,23 +64,36 @@ Drei Personen (von 11) werden vom Arbeitgeber unterstütz.
 
 --s--
 ## Semestersitzung
-* Zwei Studivertreter
+* Zwei Vertreter der Klasse
 * Do. 31.5.2018 – 18:00 → Sitzungszimmer 110
 --s--
 ## Technik
 
 * MacOS, Adobe CC und Fonts ok?
-* Google Drive ok?
+* Google Drive ok? → alte Daten?
 --s--
 ## Tag der Schrift
 
 --s--
 ## News
-* Abstimmungen digital/analog
 * [→ Museum für Gestaltung](http://www.museum-gestaltung.ch/de/information/ueber-uns/standorte/ausstellungsstrasse/eroeffnungsfest/)
+* [→ Rektorat](https://www.nouvellenoire.ch/)
+* Abstimmungen digital/analog
+--s--
+## Abstimmung (4. März 2018)
+Testbetrieb in einigen St. Galler Gemeinden <br>(zusammen mit Genf).
+
+### Das hohe Gut der demokratischen Abstimmung
+* Stimmgeheimnis
+* Korrektheit
+* Nachvollziehbarkeit
+
+<!-- .element: class="footer" --> [Stellungnahme: Verein Coredump
+](https://www.coredump.ch/stellungnahme-e-voting-pilot-in-der-gemeinde-rapperswil-jona/)
+
 --s--
 ## Agenda
-* 6\. April 2018 ~~HeK~~
+* ~~6\. April 2018 HeK~~
 * 26.–30. April 2018 [→ The Libre Graphics Meeting](https://libregraphicsmeeting.org/2018/)
 * 2.–4. Mai 2018 [→ re:publica](https://re-publica.com/)
 
@@ -114,9 +130,14 @@ Drei Personen (von 11) werden vom Arbeitgeber unterstütz.
 ## Timeline
 
 * Braucht ihr Unterstützung? Gibt es offene Fragen?
+  * [→ keine konkreten Daten](https://docs.google.com/spreadsheets/d/1Jqfkhyp_sn_OGEMgknTVqcSZDiEUNrg8o9wfjz_g01k/edit#gid=0)
+  * Themen in Gruppen zusammenfassen (Unicode Icons?)
 
+<!-- .element: class="footer" --> [→ Beispiel](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Jqfkhyp_sn_OGEMgknTVqcSZDiEUNrg8o9wfjz_g01k&font=Default&lang=en&initial_zoom=2&height=550)
 --s--
 ## Fonts · Eigenschaften & Verwendung
+--s--
+## Was gibt die Schriftgrösse an?
 --s--
 ## Anatomie einer Schrift
 ![DNS](./img/anatomy/SVG/font-lines.svg) <!-- .element: class="pic" -->
@@ -138,12 +159,6 @@ Drei Personen (von 11) werden vom Arbeitgeber unterstütz.
 ## Anatomie einer Schrift
 
 ![DNS](./img/anatomy/SVG/font-character-forms.svg) <!-- .element: class="pic" -->
-
---s--
-## Heimarbeit
-
-# Präsentation · Schrift
-
 --s--
 ## Grundlegende Eigenschaften
 
@@ -153,40 +168,13 @@ Drei Personen (von 11) werden vom Arbeitgeber unterstütz.
 * Horizontale oder vertikale orientierung
 * ...
 --s--
-## Fonts beziehen
-
-* Mieten pro Monat
-* Fonts kaufen
-* Views Kaufen
---s--
-## Mieten (pro Monat)
-* [fonts.com](http://www.fonts.com/subscriptions)
-* [Typekit](https://typekit.com/)
---s--
-## Fonts kaufen
-* [Fontshop](https://www.fontshop.com/)
---s--
-## Views Kaufen
-* [Linotype](http://www.linotype.com)
---s--
-## Gratis-Fonts
-* [google Fonts](https://fonts.google.com)
-* Womit bezahlen wir?
---s--
-## Icon-Fonts & Variable Fonts
-* [Icon-Fonts](http://fontello.com/)
-* [Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
---s--
 ## Heimarbeit
 
-* 3 Schriftmuster
-  * 2 Schrifthersteller
-  * redaktioneller Inhalt
+# Präsentation · Schrift
+
 
 --s--
-## Präsentation · Schrift
-* Dokumentation der Schriftwahl
-* Dokumentation der «digitalen Schriftmuster»
+# Fonts im Web
 --s--
 ## Fonts im Web
 
@@ -205,14 +193,28 @@ p {
 * Fallbacks um mehrere mögliche Schriften ab zu decken
 
 <!-- .element: class="footer" --> [→ sfgz.ch](http://sfgz.ch/)
+
+--s--
+## Fonts mitsenden (Webfonts)
+* mit Internet Explorer seit 1997 möglich
+* 2009 einführung WOFF (Web Open Font Format)
+
 --s--
 ## Fonts mitsenden (Webfonts)
 
 * Verschiedene Formate
-  * .woff2
+  * .woff2 (2014)
   * .woff
   * .eot
   * andere (svg/otf/fft)
+
+--s--
+## Browser mit Webfont-Unterstüzung
+* Chrome 4.0+
+* Internet Explorer 4+
+* Firefox 3.5+
+* Safari 3.1+
+* Opera 10+
 
 --s--
 ## Fonts mitsenden (Webfonts)
@@ -269,18 +271,93 @@ p {
 }
 ```
 --s--
-## Prsxisarbeit – Test
-* [codepen](https://codepen.io/)
-  * Einbinden von google-Fonts in CSS und HTML
-* Lokal
-  * Woff erstellen
-  * Icon-Font erstellen
-  * HTML erstellen und Woff einbinden
---s--
-## Fonts testen
+## Variable Fonts
 
-* [google Fonts](https://fonts.google.com/)
-* [typecast.com](https://www.google.ch/search?q=typecast+google+fonts)
+### Vorläufer
+* [Viewport Sized Typography](https://css-tricks.com/examples/ViewportTypography/)
+* [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
+* [Font‑To‑Width](http://font-to-width.com/)
+--s--
+## Variable Fonts
+
+* [→ Oktober 2016 Standardisiert](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
+* [→ Browser Support](https://caniuse.com/#feat=variable-fonts)
+
+--s--
+## Variable Fonts
+
+Demo [→ nobotoflex](https://www.axis-praxis.org/specimens/nobotoflex)
+
+```CSS
+p {
+  font-variation-settings: "wdth" 600, "wght" 200, "opsz" 48;
+}
+```
+--s--
+# Fonts beziehen
+
+--s--
+## Fonts beziehen
+
+* Kosten mit Kunde klären
+* Keine Lizenzgeschäfte?!
+* Zeichensatz ausreichend
+
+--s--
+## Lizenzen
+
+* Mieten (pro Monat)
+* Fonts einmalig kaufen
+* Views Kaufen
+* Gratis-Fonts
+* Fonts erstellen
+
+--s--
+## Mieten (pro Monat)
+* [fonts.com](https://www.fonts.com/unlimited#pricing)
+* [Typekit](https://typekit.com/plans)
+--s--
+## Fonts einmalig kaufen
+* [→ URW++](https://www.urwpp.de/) (zeitlich beschränkt)
+* [→ Fontshop](https://www.fontshop.com/)
+--s--
+## Views Kaufen
+* [→ linotype.com](https://www.linotype.com/de/)
+--s--
+## Gratis-Fonts
+* [→ google Fonts](https://fonts.google.com)
+* Womit bezahlen wir?
+--s--
+## Fonts erstellen
+* [→ Icon-Fonts](http://fontello.com/)
+--s--
+## Prsxisarbeit
+
+* Woff ab [→ Fontdatei](https://www.dafont.com/) mit [→ fontsquirrel](https://www.fontsquirrel.com/tools/webfont-generator) erstellen
+* [→ Icon-Fonts](http://fontello.com/) erstellen
+* HTML erstellen und beide Schriften anwenden
+
+--s--
+## Heimarbeit
+
+* 3 Schriftmuster
+  * 2 Schrifthersteller
+  * redaktioneller Inhalt
+
+--s--
+## Präsentation · Schrift
+* Dokumentation der Schriftwahl
+* Dokumentation der «digitalen Schriftmuster»
+
+
+--s--
+## Medienneutrale Aufbereitung
+
+* Bilder möglichst grosse Auflösung
+* Bilder möglichst unkomprimiert
+* Vektoren möglichs präzise behalten
+* Farbprofile erhalten
+
 --s--
 ## Hausarbeit
 * SVG-Testdatei korrigieren
