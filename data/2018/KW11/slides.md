@@ -172,7 +172,49 @@ Testbetrieb in einigen St. Galler Gemeinden <br>(zusammen mit Genf).
 
 # Präsentation · Schrift
 
+--s--
+## Test
+![specimen](./img/specimen/font-characteristics.svg) <!-- .element: class="pic" -->
+--s--
+## Marc – Cooper Hewitt
+![specimen](./img/specimen/CooperHewitt.svg) <!-- .element: class="pic" -->
+--s--
+## Pascale – Lato
+![specimen](./img/specimen/Lato.svg) <!-- .element: class="pic" -->
+--s--
+## Nils – Ubuntu
+![specimen](./img/specimen/Ubuntu.svg) <!-- .element: class="pic" -->
+--s--
+## Lars – Mukta Vaani
+![specimen](./img/specimen/MuktaVaani.svg) <!-- .element: class="pic" -->
+--s--
+## Steffi – IBM Plex Mono
+![specimen](./img/specimen/IBMPlexMono.svg) <!-- .element: class="pic" -->
+--s--
+## Nicole – Oswald
+![specimen](./img/specimen/Oswald.svg) <!-- .element: class="pic" -->
+--s--
+## Severin – Faustina
+![specimen](./img/specimen/Faustina.svg) <!-- .element: class="pic" -->
+--s--
+## Tiö – Barlow
+![specimen](./img/specimen/Barlow.svg) <!-- .element: class="pic" -->
+--s--
+## Matthias – Roboto
+![specimen](./img/specimen/Roboto.svg) <!-- .element: class="pic" -->
+--s--
+## Marius – Neuto
+![specimen](./img/specimen/Neuto.svg) <!-- .element: class="pic" -->
+--s--
+## Nadia – Bitter
+![specimen](./img/specimen/Bitter.svg) <!-- .element: class="pic" -->
+--s--
+## Natasha – Open Sans
+![specimen](./img/specimen/OpenSans.svg) <!-- .element: class="pic" -->
 
+--s--
+## Wolfgang – Rambla
+![specimen](./img/specimen/Rambla.svg) <!-- .element: class="pic" -->
 --s--
 # Fonts im Web
 --s--
@@ -271,94 +313,3 @@ p {
 }
 ```
 --s--
-## Variable Fonts
-
-### Vorläufer
-* [Viewport Sized Typography](https://css-tricks.com/examples/ViewportTypography/)
-* [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
-* [Font‑To‑Width](http://font-to-width.com/)
---s--
-## Variable Fonts
-
-* [→ Oktober 2016 Standardisiert](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-* [→ Browser Support](https://caniuse.com/#feat=variable-fonts)
-
---s--
-## Variable Fonts
-
-Demo [→ nobotoflex](https://www.axis-praxis.org/specimens/nobotoflex)
-
-```CSS
-p {
-  font-variation-settings: "wdth" 600, "wght" 200, "opsz" 48;
-}
-```
---s--
-# Fonts beziehen
-
---s--
-## Fonts beziehen
-
-* Kosten mit Kunde klären
-* Keine Lizenzgeschäfte?!
-* Zeichensatz ausreichend
-
---s--
-## Lizenzen
-
-* Mieten (pro Monat)
-* Fonts einmalig kaufen
-* Views Kaufen
-* Gratis-Fonts
-* Fonts erstellen
-
---s--
-## Mieten (pro Monat)
-* [fonts.com](https://www.fonts.com/unlimited#pricing)
-* [Typekit](https://typekit.com/plans)
---s--
-## Fonts einmalig kaufen
-* [→ URW++](https://www.urwpp.de/) (zeitlich beschränkt)
-* [→ Fontshop](https://www.fontshop.com/)
---s--
-## Views Kaufen
-* [→ linotype.com](https://www.linotype.com/de/)
---s--
-## Gratis-Fonts
-* [→ google Fonts](https://fonts.google.com)
-* Womit bezahlen wir?
---s--
-## Fonts erstellen
-* [→ Icon-Fonts](http://fontello.com/)
---s--
-## Prsxisarbeit
-
-* Woff ab [→ Fontdatei](https://www.dafont.com/) mit [→ fontsquirrel](https://www.fontsquirrel.com/tools/webfont-generator) erstellen
-* [→ Icon-Fonts](http://fontello.com/) erstellen
-* HTML erstellen und beide Schriften anwenden
-
---s--
-## Heimarbeit
-
-* 3 Schriftmuster
-  * 2 Schrifthersteller
-  * redaktioneller Inhalt
-
---s--
-## Präsentation · Schrift
-* Dokumentation der Schriftwahl
-* Dokumentation der «digitalen Schriftmuster»
-
-
---s--
-## Medienneutrale Aufbereitung
-
-* Bilder möglichst grosse Auflösung
-* Bilder möglichst unkomprimiert
-* Vektoren möglichs präzise behalten
-* Farbprofile erhalten
-
---s--
-## Hausarbeit
-* SVG-Testdatei korrigieren
-* 1000 Zeichen zur Schrift verfassen

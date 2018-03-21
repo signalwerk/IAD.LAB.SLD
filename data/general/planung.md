@@ -1,5 +1,9 @@
 ## Semesterplanung
 
+
+Department for Digital, Culture, Media & Sport - GOV.UK
+
+
 ### ToDo
 
 * Change to https://github.com/FormidableLabs/spectacle
@@ -39,7 +43,7 @@
 
 ### 3\. Semeser
 
-* People on the Net.
+* People on the Net. >>> werner herzog – Lo And Behold
 * CPU
 * computing power – count of transistors
 * JavaScript
@@ -50,12 +54,16 @@
 * SQL
 * PHP
 * CMS
+
+### 4\. Semester
+
+* Lokalisierung >>> https://www.deepl.com/translator
 * Zeitzonen >>> siehe doc global-content
-* Lokalisierung
+* 3d → https://www.grossmatte-luzern.ch/vtour/
 
 ### 5\. Semeser
 
-– SVG
+– SVG → https://www.svgator.com/
 – Pixelgenaue icons >> Icon-fonts
 – API (REST/GraphQL) 6.
 – Summarize
