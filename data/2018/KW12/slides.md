@@ -139,7 +139,9 @@ Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – 
 
 
 
-
+--s--
+## Prsxisarbeit
+* Webfungs zusammentragen
 --s--
 ## Prsxisarbeit
 
@@ -168,6 +170,7 @@ Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – 
 ## Variable Fonts
 
 Demo [→ nobotoflex](https://www.axis-praxis.org/specimens/nobotoflex)
+[→ Microsoft Demo](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/)
 
 ```CSS
 p {
