@@ -3,7 +3,8 @@
 # Navigation
 
 Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
-
+--s--
+## Demo
 --s--
 ## Wer hatte ein Latinum?
 --s--
@@ -40,22 +41,7 @@ Digital meint eine (mit den Fingern) abzählbare Einordnung von Dingen.
 ## Auswertung Lohn
 
 [→ Grafiken](https://signalwerk.github.io/IAD.Chart/)
---s--
-# Entwerfen · Tools
 
---s--
-## Marc – InDesign
---s--
-## Severin – Code
---s--
-## Stefan – Sketch
---s--
-## Wolfgang – Adobe XD
---s--
-## Matthias – Photoshop
---s--
-## Muse – ?
-Gibt es jemand?
 
 --s--
 # Timeline
@@ -71,7 +57,8 @@ Gibt es jemand?
 
 --s--
 ## News
-
+* [→ Facebook – Cambride Analytica Datenleak](https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/)
+* [→ erster tödlicher Unfall mit selbstfahrendem Auto](https://www.tagesanzeiger.ch/wirtschaft/frau-stirbt-bei-unfall-mit-selbstfahrendem-uberauto/story/12197856)
 --s--
 ## Pabst
 
@@ -133,8 +120,8 @@ Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – 
 
 --s--
 ## Mieten (pro Monat)
-* [fonts.com](https://www.fonts.com/unlimited#pricing)
-* [Typekit](https://typekit.com/plans)
+* [→ fonts.com](https://www.fonts.com/unlimited#pricing)
+* [→ Typekit](https://typekit.com/plans)
 --s--
 ## Fonts einmalig kaufen
 * [→ URW++](https://www.urwpp.de/) (zeitlich beschränkt)
@@ -187,13 +174,43 @@ p {
   font-variation-settings: "wdth" 600, "wght" 200, "opsz" 48;
 }
 ```
+
+--s--
+# Entwerfen · Tools
+
+--s--
+## Marc – InDesign
+--s--
+## Severin – Code
+--s--
+## Stefan – Sketch
+--s--
+## Wolfgang – Adobe XD
+--s--
+## Matthias – Photoshop
+--s--
+## Muse – ?
+Gibt es jemand?
+
 --s--
 ## Navigation · Praxisarbeit
 
 * 4 Gruppen – je Gruppe ein Entwurf
-* 3 Schriftmuster
+* 3 Schriftmuster je Person
   * 2 Schrifthersteller
   * redaktioneller Inhalt
+
+--s--
+## Navigation · Praxisarbeit
+
+* Einander die Schriftmuster zeigen
+* Navigation vorschlagen
+  * Startseite/Home → Detailseite
+  * Detailseite → Startseite/Home
+  * Weitere Verlinkungen unter den Detailseiten?
+
+--s--
+## Präsentation · Navigation
 
 --s--
 ## Präsentation · Schrift
