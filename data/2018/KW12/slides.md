@@ -141,7 +141,8 @@ Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – 
 
 --s--
 ## Prsxisarbeit
-* Webfungs zusammentragen
+* Webfonts zusammentragen
+* SVG noch einmal Abgeben mit Text (ZIP)
 --s--
 ## Prsxisarbeit
 
