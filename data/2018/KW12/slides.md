@@ -155,31 +155,6 @@ Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – 
 
 
 --s--
-## Variable Fonts
-
-### Vorläufer
-* [Viewport Sized Typography](https://css-tricks.com/examples/ViewportTypography/)
-* [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
-* [Font‑To‑Width](http://font-to-width.com/)
---s--
-## Variable Fonts
-
-* [→ Oktober 2016 Standardisiert](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-* [→ Browser Support](https://caniuse.com/#feat=variable-fonts)
-
---s--
-## Variable Fonts
-
-Demo [→ nobotoflex](https://www.axis-praxis.org/specimens/nobotoflex)
-[→ Microsoft Demo](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/)
-
-```CSS
-p {
-  font-variation-settings: "wdth" 600, "wght" 200, "opsz" 48;
-}
-```
-
---s--
 # Entwerfen · Tools
 
 --s--
@@ -217,20 +192,11 @@ Gibt es jemand?
 ## Präsentation · Navigation
 
 --s--
-## Präsentation · Schrift
-* Dokumentation der Schriftwahl
-* Dokumentation der «digitalen Schriftmuster»
-* Dokumentation der Navigation
-
---s--
-## Medienneutrale Aufbereitung
-
-* Bilder möglichst grosse Auflösung
-* Bilder möglichst unkomprimiert
-* Vektoren möglichs präzise behalten
-* Farbprofile erhalten
-
---s--
 ## Hausarbeit
 * Fact-Check für Partner
+* Timeline einfüllen und wo nötig Inhalt aufteilen/anpassen!
+
+### Verschoben!
 * 1000 Zeichen zu Designer/Foundry
+
+### <br>Mitte Marius kommunizieren!

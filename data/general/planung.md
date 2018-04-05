@@ -44,6 +44,8 @@ Department for Digital, Culture, Media & Sport - GOV.UK
 ### 3\. Semeser
 
 * People on the Net. >>> werner herzog – Lo And Behold
+  – john maeda
+  –
 * CPU
 * computing power – count of transistors
 * JavaScript
@@ -60,10 +62,10 @@ Department for Digital, Culture, Media & Sport - GOV.UK
 * Lokalisierung >>> https://www.deepl.com/translator
 * Zeitzonen >>> siehe doc global-content
 * 3d → https://www.grossmatte-luzern.ch/vtour/
-
+* UX >>> https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 & https://blog.marvelapp.com/drag-drop-design-systems/
 ### 5\. Semeser
 
-– SVG → https://www.svgator.com/
+– SVG → https://www.svgator.com/  >>> https://medium.muz.li/icon-set-3b4fc87dc6b5?gi=8e9a175acfe7
 – Pixelgenaue icons >> Icon-fonts
 – API (REST/GraphQL) 6.
 – Summarize

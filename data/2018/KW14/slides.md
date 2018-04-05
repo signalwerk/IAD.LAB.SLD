@@ -1,11 +1,191 @@
-Agenda
+### HF Interactiondesign
 
-https://vimeo.com/robothon
+# Navigation & Schrift
 
-Matthias – Photoshop
+Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
+--s--
+## Übersicht – Vormittag
 
-* PechaKucha 20x20
-* keith jerret → köln
-* DIY material zurück
+* **12:45**
+  * Organisation/News/Agenda
+  * Rückschau & Festigung
+  * Timeline
+  * Navigation
+  * Fonts · Schriftgrössen
+* **16:15** · Ende
 
-https://www.sbb.ch/de/bahnhof-services/bahnhoefe/shopville-zuerich-hauptbahnhof/smart-station.html
+--s--
+# Organisation
+
+--s--
+## DIY
+
+# Bitte bringt Material zurück.
+
+--s--
+## ICC-Farbprofile
+
+--s--
+## Medienneutrale Aufbereitung für CMS
+
+* Bilder möglichst grosse Auflösung
+* Bilder möglichst unkomprimiert
+* Vektoren möglichs präzise behalten
+* Farbprofile erhalten
+
+--s--
+## ICC-Farbprofile
+
+* ICC-Profile werden unterstützt
+* Meist ergibt es noch keinen Sinn
+* sRGB verwenden (ohne Profil einbetten)
+* Thema Farben kommt noch (allenfalls sogar dieses Semester ein Gast)
+
+--s--
+## Arbeitslast
+
+# Umfrage
+* Wie war die Arbeitslast in den letzten Wochen? (😭 💤 ☺️)
+
+--s--
+## News
+* [→ Amazon kommt (endlich) in die Schweiz](https://www.tagesanzeiger.ch/wirtschaft/standard/Amazon-wird-fast-zu-einem-Schweizer-Shop/story/24048329)
+* [→ Adobe Muse ist tot](http://muse.adobe.com/product-announcement-intl.html?red=av)
+* [→ Backofenuhr](https://www.nzz.ch/panorama/warum-ihre-backofenuhr-ploetzlich-nachgeht-und-vielleicht-bald-vorgehen-wird-ld.1362349)
+
+--s--
+## Separation of Concerns (SoC)
+
+In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwortlichkeiten) ein Prinzip zur Trennung eines Programms in verschiedene Teile benannt, so dass jeder Teile ein einzelnes Anliegen adressiert.
+
+--s--
+## Separation of Concerns (SoC)
+
+* Ein Backofen und eine Uhr sollten getrennt funktionieren
+* Eine Uhr und das Stromnetz sollten getrennt funktionieren
+
+--s--
+## SoC – Beispiel Website
+
+### Gängige Unterteilung
+* HTML → Inhalt (Semantik)
+* CSS → Gestalt
+* JS → Interaktion
+
+--s--
+## SoC – Beispiel Website
+
+### Alternative Unterteilung
+* Button
+* Text
+* Eingabeformular
+
+<!-- .element: class="footer" -->  [→ Tweet Michele Bertoli] (https://twitter.com/MicheleBertoli/status/868078729662279680)
+--s--
+## Agenda
+
+* 6.–8. April 2018 [→ criterion](https://criterion.ch/festivalprogramm)
+
+--s--
+# Rückschau
+
+--s--
+## Tools
+
+Profesionelle Layouts/Design wohl am ehesten mit
+
+* Sketch
+* Adobe XD
+
+--s--
+## Lizenzen
+
+* Mieten (pro Monat)
+* Fonts einmalig kaufen
+* Views Kaufen
+* Gratis-Fonts
+* Fonts erstellen
+
+<!-- .element: class="footer" --> [→ Doku](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/font-foundries/)
+--s--
+## Prsxisarbeit
+
+* [→ Fonts einbinden](https://signalwerk.github.io/IAD.LAB.DOC/font-use/)
+
+--s--
+# Variable Fonts
+
+--s--
+## Variable Fonts
+
+### Vorläufer
+* [Viewport Sized Typography](https://css-tricks.com/examples/ViewportTypography/)
+* [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
+* [Font‑To‑Width](http://font-to-width.com/)
+--s--
+## Variable Fonts
+
+* [→ Oktober 2016 Standardisiert](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
+* [→ Browser Support](https://caniuse.com/#feat=variable-fonts)
+
+--s--
+## Variable Fonts
+
+Demo [→ nobotoflex](https://www.axis-praxis.org/specimens/nobotoflex)
+[→ Microsoft Demo](https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/)
+
+```CSS
+p {
+  font-variation-settings: "wdth" 600, "wght" 200, "opsz" 48;
+}
+```
+
+--s--
+# Timeline
+
+--s--
+## Admin – Lars Mäder
+
+* [→ Google-Docs](https://docs.google.com/spreadsheets/d/1qwHri7x55sL5MJaPLbDdESkVu5qX56cG2YwJrG2cBsw/edit?usp=sharing)
+* [→ Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qwHri7x55sL5MJaPLbDdESkVu5qX56cG2YwJrG2cBsw&font=Bitter-Raleway&lang=de&initial_zoom=2)
+* Beide Links über Slack sharen
+* Beide Links an Stefan & Ulrike
+
+
+<!-- .element: class="footer" --> [→ «Ämtli-Liste»](https://github.com/logrinto/IAD2017/wiki/Studenten)
+--s--
+## Qualität?
+
+--s--
+## Korrekturen
+
+* Bilder ergänzen
+* Quellenangaben zu Bildern/Videos/Texten (?)
+* Quellenangaben und Legenden zu Bildern/Videos
+* Datums-Angaben nicht auf den Tag genau
+* Bilder ergänzen (oder reparieren, wo sie nicht funktionieren)
+* Korrekte Zeichensetzung und Formatierung
+
+--s--
+## Hausarbeit
+
+Upload Texte nach Review.
+
+--s--
+## Navigation · Praxisarbeit
+
+* 4 Gruppen – je Gruppe ein Entwurf
+* Einander die Schriftmuster zeigen
+* Navigation vorschlagen
+  * Startseite/Home → Detailseite
+  * Detailseite → Startseite/Home
+  * Weitere Verlinkungen unter den Detailseiten?
+* Mobile/Desktop
+
+--s--
+## Hausarbeit
+* 1000 Zeichen zu Designer/Foundry (nächstes mal Vorstellung)
+* Beispiel-Website(n) suchen mit eigener Schrift mit pro/con
+
+--s--
+## Zeichensetzung · Praxisarbeit
