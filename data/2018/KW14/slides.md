@@ -6,13 +6,13 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## Übersicht – Vormittag
 
-* **12:45**
+* **8:15**
   * Organisation/News/Agenda
   * Rückschau & Festigung
   * Timeline
   * Navigation
   * Fonts · Schriftgrössen
-* **16:15** · Ende
+* **11:40** · Ende
 
 --s--
 # Organisation
@@ -21,6 +21,12 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 ## DIY
 
 # Bitte bringt Material zurück.
+--s--
+## Tag der Schrift
+
+* [→ Unterrichtszeiten](http://www.tagderschrift.org/)
+* Mittagessen extern (nicht inklusive)
+* Material/Skizzen in nächste Lektion bringen
 
 --s--
 ## ICC-Farbprofile
@@ -34,10 +40,17 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 * Farbprofile erhalten
 
 --s--
-## ICC-Farbprofile
+## Medienneutrale Aufbereitung für Browser
+
+* Bilder möglichst passende Auflösung
+* Bilder möglichst idealer Kompromiss zwischen Kompression und Qualität
+* Farbprofile...
+
+--s--
+## ICC-Farbprofile im Browser
 
 * ICC-Profile werden unterstützt
-* Meist ergibt es noch keinen Sinn
+* Meist ergibt es (noch) keinen Sinn
 * sRGB verwenden (ohne Profil einbetten)
 * Thema Farben kommt noch (allenfalls sogar dieses Semester ein Gast)
 
@@ -80,7 +93,7 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 * Text
 * Eingabeformular
 
-<!-- .element: class="footer" -->  [→ Tweet Michele Bertoli] (https://twitter.com/MicheleBertoli/status/868078729662279680)
+<!-- .element: class="footer" -->  [→ Tweet Michele Bertoli](https://twitter.com/MicheleBertoli/status/868078729662279680)
 --s--
 ## Agenda
 
@@ -105,8 +118,7 @@ Profesionelle Layouts/Design wohl am ehesten mit
 * Views Kaufen
 * Gratis-Fonts
 * Fonts erstellen
-
-<!-- .element: class="footer" --> [→ Doku](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/font-foundries/)
+* [→ siehe Doku](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/font-foundries/)
 --s--
 ## Prsxisarbeit
 
@@ -170,6 +182,9 @@ p {
 ## Hausarbeit
 
 Upload Texte nach Review.
+* Marius ausstehend
+* [→ Schriftmuster](https://logrinto.github.io/IAD2017.schriftmuster/)
+* [→ Github Schriftmuster](https://github.com/logrinto/IAD2017.schriftmuster)
 
 --s--
 ## Navigation · Praxisarbeit
