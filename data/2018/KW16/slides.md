@@ -279,6 +279,10 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 ## Prüfung
 
 # Nächstes mal Prüfung über Zeichensetzung!
+* HTML5 Dokumnent erstellen – minimal!
+* CSS extern erstellen
+* Schrift in CSS einbetten
+* Text gemäss Vorlage setzen
 
 --s--
 ## Praxisarbeit
