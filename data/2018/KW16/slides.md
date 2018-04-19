@@ -289,9 +289,12 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 #### (Fr.·9.–)
 --s--
 ## Geschützte Leerzeichen
-# 10␣Liter
-# Seite␣3
-# Grau␣AG
+# 10 Liter
+#### (10␣Liter)
+# Seite 3
+#### (Seite␣3)
+# Grau AG
+#### (Grau␣AG)
 --s--
 ## Geschützte schmales Leerzeichen
 # 18. August 2018
