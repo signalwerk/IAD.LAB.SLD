@@ -33,6 +33,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 * [Google-Fonts – Koreanisch](https://googlefonts.github.io/korean/)
 * [Amstelvar – Beta](https://github.com/TypeNetwork/Amstelvar)
+* [1.1.1.1](https://1.1.1.1/) – [9.9.9.9](https://www.quad9.net/) – [8.8.8.8](https://en.wikipedia.org/wiki/Google_Public_DNS)
+* [siroop](https://www.blick.ch/news/wirtschaft/coop-uebernimmt-komplett-swisscom-gibt-onlineshop-siroop-ch-den-schuh-id8244357.html)
 
 --s--
 ## Agenda
@@ -271,6 +273,80 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 }
 ```
 --s--
+# Zeichensetzung
+--s--
+## Anführungszeichen
+# In der Schweiz nur so: «Zitat»
+
+<br>
+
+# «Ich lese die Site ‹Typo-Nerd› täglich.»
+
+--s--
+## Ziffer-Leerzeichen
+# Fr. 10.–
+# Fr.  9.–
+#### (Fr.·9.–)
+--s--
+## Geschützte Leerzeichen
+# 10␣Liter
+# Seite␣3
+# Grau␣AG
+--s--
+## Geschützte schmales Leerzeichen
+# 18. August 2018
+#### (18.¦August␣2018)
+
+<br>
+
+## falsch
+# 18. August 2018
+--s--
+## Geschützte schmales Leerzeichen
+# 20 000
+#### (20¦000)
+<br>
+
+## falsch
+# 20 000
+# 20000
+--s--
+## Geschützte schmales Leerzeichen
+# 2000
+#### (2000)
+<br>
+
+## falsch
+# 2 000
+
+--s--
+## Halbgeviertstrich
+
+# 14 – 16 Uhr
+#### (14¦–¦16␣Uhr)
+<br>
+
+## falsch
+# 14 – 16 Uhr
+# 14 - 16 Uhr
+--s--
+## Halbgeviertstrich
+
+# Winterthur – Bern
+# Er ging – so glaubten wir – heim.
+<br>
+
+## falsch
+# Winterthur - Bern
+# Er ging - so glaubten wir - heim.
+--s--
+## Divis
+# Kuppel-Wörter
+<br>
+# bei Tren-<br>nung
+#### (nicht manuell einfügen)
+
+--s--
 ## Zeichensetzung · Praxisarbeit
 
 * [→ Webtypo Wiki](https://github.com/logrinto/webtypo/wiki)
@@ -307,5 +383,5 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 ## Hausarbeit
 * Fact-Check für Partner
 * Zwei Schriftmuster (HTML) abgeben – Streng & Frei
-
+* Zeichensetzung – Prüfung
 --s--
