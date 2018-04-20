@@ -31,10 +31,10 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## News
 
-* [Google-Fonts – Koreanisch](https://googlefonts.github.io/korean/)
-* [Amstelvar – Beta](https://github.com/TypeNetwork/Amstelvar)
-* [1.1.1.1](https://1.1.1.1/) – [9.9.9.9](https://www.quad9.net/) – [8.8.8.8](https://en.wikipedia.org/wiki/Google_Public_DNS)
 * [siroop](https://www.blick.ch/news/wirtschaft/coop-uebernimmt-komplett-swisscom-gibt-onlineshop-siroop-ch-den-schuh-id8244357.html)
+* [Google-Fonts – Koreanisch](https://googlefonts.github.io/korean/)
+* [1.1.1.1](https://1.1.1.1/) – [9.9.9.9](https://www.quad9.net/) – [8.8.8.8](https://en.wikipedia.org/wiki/Google_Public_DNS)
+* [Telegram vs. Russia ](https://arstechnica.com/information-technology/2018/04/in-effort-to-shut-down-telegram-russia-blocks-amazon-google-network-addresses/)
 
 --s--
 ## Agenda
@@ -306,6 +306,15 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 # 18. August 2018
 --s--
 ## Geschützte schmales Leerzeichen
+# 18. 8. 2018
+#### 18.¦8.¦2018
+
+<br>
+
+## falsch
+# 18. 8. 2018
+--s--
+## Geschützte schmales Leerzeichen
 # 20 000
 #### (20¦000)
 <br>
@@ -379,12 +388,12 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 * Wie ist die Ordnung?
   * Mehrere Ordungsprizipien
 * Was ist realisierbar?
---s--
-# Merci
-
+* Mobile/Desktop
 --s--
 ## Hausarbeit
 * Fact-Check für Partner
 * Zwei Schriftmuster (HTML) abgeben – Streng & Frei
 * Zeichensetzung – Prüfung
+--s--
+# Merci
 --s--
