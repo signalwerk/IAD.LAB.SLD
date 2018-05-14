@@ -19,7 +19,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## Auswertung 1. Semester  
 
-* ((Details siehe Auswertung))
+* → siehe Auswertung
 
 --s--
 ## Stand 2. Semester
@@ -47,7 +47,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 ## Vorschlag
 
 * Abgabe einer Liste aller bisherig bekannten Dozierenden.
-* Wie soll die Liste erneuert werden für die restlichen Semester? (noch nicht alle Dozierende sind bestimmt)
+* Liste wird laufend erweitert/ergänzt. Es sind noch nicht alle Dozierende definiert bis zum 6. Semester.
 --s--
 ## Indikator 3.1.1.5
 
@@ -81,21 +81,37 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 <!-- .element: style="font-size: 0.8em; width: 100%;" -->
 
 --s--
+<!--
 ## Lernstunden
 
-| Art                   | Rahmenlehrplan | Lehrgang 2017 |
-|-----------------------|----------:|---------------:|
-| Präsenzunterricht     | 1600      | 1700           |
-| Selbststudium         | 320       | 320            |
-| Diplomarbeit          | 480       | 480            |
-| Berufstätigkeit       | 720       | 720            |
-| Sonstige Lernstunden  | 480       | 380            |
-| **Total**                 | **3600**      | **3600**           |
+| Art                   | Rahmenlehrplan   | Lehrgang 2017     |
+|-----------------------|-----------------:|------------------:|
+| Präsenzunterricht     | 1600             | 1700              |
+| Selbststudium         | 320              | 320               |
+| Diplomarbeit          | 480              | 480               |
+| Berufstätigkeit       | 720              | 720               |
+| Sonstige Lernstunden  | 480              | 380               |
+| **Total**             | **3600**         | **3600**          |
+
+-->
+
+## Lernstunden
+
+| Art                   | Rahmenlehrplan   | Lehrgang 2017     | Lehrgang 2019     |
+|-----------------------|-----------------:|------------------:|------------------:|
+| Präsenzunterricht     | 1600             | 2000              | 1700              |
+| Selbststudium         | 320              | 320               | 320               |
+| Diplomarbeit          | 480              | 480               | 480               |
+| Berufstätigkeit       | 720              | 720               | 720               |
+| Sonstige Lernstunden  | 480              | 80                | 380               |
+| **Total**             | **3600**         | **3600**          | **3600**          |
 <!-- .element: style="font-size: 0.8em; width: 100%;" -->
 --s--
+
 # Lehrgang 2019
 
-* Präsenzunterricht reduzieren (1600h)
+<!-- * Präsenzunterricht neu 1600 Lernstunden -->
+* Präsenzunterricht neu 1700 Lernstunden
 * Auswertung aus Lehrgang 2017 einfliessen lassen
 * Dozierende edukativ unterstützen
 * Längerfristig: Wissenserhaltung/Archivierung verstärken
