@@ -87,7 +87,7 @@ Daten)
 * PR
 
 --s--
-## Hausarbeit
+## Hausarbeit (auf heute)
 * Fact-Check für Partner
 * Zwei Schriftmuster (HTML) abgeben – Streng & Frei
 
@@ -133,8 +133,9 @@ Nicole Watrinet macht Fact-Check für Severin Kilchhofer
 ## Vorschau & Hausaufgaben
 
 * Nachmittag Zimmer 515
+* Morgen Jürg Halter
 * Fact-Check für Partner
-* Zwei Schriftmuster (HTML) abgeben – Streng & Frei
+* Schriftmuster erarbeiten
 * Vortrag [→ Bionic Reading](http://bionic-reading.com/) – Renato Casutt
 
 --s--
