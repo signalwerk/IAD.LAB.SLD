@@ -32,13 +32,13 @@ Pause nach eigenem Ermessen.
 * [→ Ist-Zustand](https://etherpad.gnome.org/p/nextpad)
 
 --s--
-## Zu behandelnde Probleme
+## Zu behandelnde Anforderungen
 
-* Persönliche Kommentare/Dokumente/Notizen <br>(öffentlich möglich)
+* Persönliche Kommentare/Diskussionen/Dokumente/Notizen <br>(öffentlich möglich)
 * Aufgabenverteilung & Fortschrittsanzeige
 
 --s--
-## Alternativen
+## Beispiel-Tools
 
 * [Dropbox Paper](https://www.dropbox.com/paper)
 * [HackMD](https://hackmd-ce.herokuapp.com/)
@@ -50,8 +50,8 @@ Pause nach eigenem Ermessen.
 ## Analyse
 
 * 3 Gruppen
-* jede Gruppe analysiert ein bestehendes Tool
-* Es werden in jeder Gruppe mit dem bestehenden Tool 3 mögliche Lösungen gezeigt ohne das Tool zu verändern.
+* jede Gruppe analysiert ein bestehendes Tool, welches Lösungen für diese Anforderungen bietet <br>eigens bekannte oder gem. Liste der Bsp.-Tools
+* Es werden in jeder Gruppe 3 mögliche Lösungen mit dem entsprechenden Tool gezeigt
 
 <br>
 <br>
@@ -61,8 +61,8 @@ Um 9:30 Uhr werden die Gruppen neu gemischt und die Personen stellen sich gegens
 ## Prototyping
 
 ### bis 11:00
-* Darstellung der Interaktion
-* Skizze des neuen Interfaces
+* Funktionsumfang/Informationsarchitektur (basierend auf dem Tool Nextpad)
+* Skizze/Wireframe des neuen Interfaces
 
 ### bis 11:45
 * Präsentation – 10min pro Gruppe
@@ -75,12 +75,12 @@ Um 9:30 Uhr werden die Gruppen neu gemischt und die Personen stellen sich gegens
 * Was nicht gezeigt wird, wird nicht besprochen
 
 --s--
-## En guete!
+## En Guete!
 
 --s--
 ## Übersicht – Nachmittag
 
-* **bis 15:00** · Gestaltung/Entwurf
+* **bis 15:00** · Ausarbeitung des Konzepts / UI-Design
 * **bis 16:00** · Präsentation
 * Zusammenfassung
 
@@ -89,7 +89,7 @@ Pause nach eigenem Ermessen.
 ## Gestaltung/Entwurf
 
 ### bis 15:00
-* Beamer-Präsentation zur visualisierung der <br>Interaktion und Gestaltung
+* Beamer-Präsentation zur Visualisierung der <br>Interaktion und Gestaltung
 * Herzstück/Main-Screen vollständig visualisieren
 
 ### bis 16:00
