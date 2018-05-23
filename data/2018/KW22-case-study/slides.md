@@ -29,7 +29,7 @@ Pause nach eigenem Ermessen.
 --s--
 # Aufgabe & Analyse
 
-* [→ Ist-Zustand](https://etherpad.gnome.org/p/nextpad)
+* [→ Ist-Zustand](https://etherpad.gnome.org/p/interactiondesign)
 
 --s--
 ## Zu behandelnde Probleme
