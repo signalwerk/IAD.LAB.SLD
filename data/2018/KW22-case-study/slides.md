@@ -75,7 +75,7 @@ Um 9:30 Uhr werden die Gruppen neu gemischt und die Personen stellen sich gegens
 * Was nicht gezeigt wird, wird nicht besprochen
 
 --s--
-## En guete!
+## En Guete!
 
 --s--
 ## Übersicht – Nachmittag
@@ -89,7 +89,7 @@ Pause nach eigenem Ermessen.
 ## Gestaltung/Entwurf
 
 ### bis 15:00
-* Beamer-Präsentation zur visualisierung der <br>Interaktion und Gestaltung
+* Beamer-Präsentation zur Visualisierung der <br>Interaktion und Gestaltung
 * Herzstück/Main-Screen vollständig visualisieren
 
 ### bis 16:00
