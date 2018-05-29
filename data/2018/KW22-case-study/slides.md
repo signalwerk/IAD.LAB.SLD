@@ -24,7 +24,10 @@ Pause nach eigenem Ermessen.
 --s--
 ## Vorstellung
 # Michael Scherrer-Kast
+--s--
+# Was machen wir heute?
 
+* [→ Aufgabe](https://github.com/logrinto/nextpad)
 
 --s--
 # Aufgabe & Analyse
@@ -50,7 +53,7 @@ Pause nach eigenem Ermessen.
 ## Analyse
 
 * 3 Gruppen
-* jede Gruppe analysiert ein bestehendes Tool, welches Lösungen für diese Anforderungen bietet <br>eigens bekannte oder gem. Liste der Bsp.-Tools
+* jede Gruppe analysiert ein bestehendes Tool, welches Lösungen für diese Anforderungen bietet <br>eigens bekannte oder gemäss Liste der Beispiel-Tools
 * Es werden in jeder Gruppe 3 mögliche Lösungen mit dem entsprechenden Tool gezeigt
 
 <br>
