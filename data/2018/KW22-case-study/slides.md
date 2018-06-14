@@ -63,18 +63,18 @@ Um 9:30 Uhr werden die Gruppen neu gemischt und die Personen stellen sich gegens
 --s--
 ## Prototyping
 
-### bis 11:00
+### bis 11:20
 * Funktionsumfang/Informationsarchitektur (basierend auf dem Tool Nextpad)
 * Skizze/Wireframe des neuen Interfaces
 
 ### bis 11:45
-* Präsentation – 10min pro Gruppe
+* Präsentation – 8min pro Gruppe
 --s--
 ## Präsentation
 
-* 10min pro Gruppe
-  * max. 5min Präsentation der Idee/Interaktion
-  * 5min Feedback – Dozenten & Studierende
+* 8min pro Gruppe
+  * max. 4min Präsentation der Idee/Interaktion
+  * 4min Feedback – Dozenten & Studierende
 * Was nicht gezeigt wird, wird nicht besprochen
 
 --s--
