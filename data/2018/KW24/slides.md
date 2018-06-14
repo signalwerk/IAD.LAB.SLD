@@ -342,15 +342,10 @@ Beim Aufbau von CSS-Formatierungen empfiehlt es sich vom kleinsten Screen aus zu
 --s--
 # Schriftmuster
 --s--
+# Hausaufgabe
 
+* Überarbeiten Schriftmuster
+* Abfüllen der Inhalte
 
-* https://www.monotype.com/fonts/variable-fonts
-
-
-
-
-
-
-
-* install software
-* fonts interpolation
+--s--
+## Danke
