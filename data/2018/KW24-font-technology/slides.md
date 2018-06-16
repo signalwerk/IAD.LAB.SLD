@@ -98,7 +98,7 @@ Mittag
 --s--
 ## Johann Gensfleisch zum Gutenberg
 
-![](./img/typesetting/Gutenberg.png) <!-- .element: class="pic" -->
+![](./img/typesetting/gutenberg.png) <!-- .element: class="pic" -->
 
 Kupferstich nach André Thevet, 1584. <!-- .element: class="footer" -->
 
@@ -164,7 +164,7 @@ B42 Bd. / Vol. 1 - fol. 102r <!-- .element: class="footer" -->
 
 --s--
 ## Linotype
-![](./img/typesetting/Linotype.png) <!-- .element: class="pic" -->
+![](./img/typesetting/linotype.png) <!-- .element: class="pic" -->
 --s--
 
 
@@ -303,7 +303,7 @@ B42 Bd. / Vol. 1 - fol. 102r <!-- .element: class="footer" -->
 --s--
 ## Quadratische Kurven (TrueType)
 
-![](./img/bezier/Bézier_2_big.gif)
+![](./img/bezier/bezier_2_big.gif)
 --s--
 ## Aufgabe
 
@@ -317,7 +317,7 @@ B42 Bd. / Vol. 1 - fol. 102r <!-- .element: class="footer" -->
 ![](./img/mac/official/Macintosh-Plus.jpg) <!-- .element: class="pic" -->
 --s--
 ## Kubische Kurven (PostScript)
-![](./img/bezier/Bézier_3_big.gif)
+![](./img/bezier/bezier_3_big.gif)
 --s--
 
 ### Laserdrucker
