@@ -1,11 +1,44 @@
-
-
-
-
-
+terminal & git vorstellen
+https://education.github.com/partners/schools
 
 * Prüfung (Rückmeldung 30.6.2018)
 29.6.2018 >>> prüfung Natasha
+
+figma >>> marc stellt Victor
+project maven >>> google
+
+
+Am 15. Juni 1993 wurde in New York Adobe Acrobat 1.0 eingeführt.
+
+
+
+https://swissid.ch/de/form/newsletter-swissid-website-2-0/confirmation?token=TMdA0SGgpkpr43BzSkKPPlSAdB2ExsWappK96cth75A
+
+
+https://developer.apple.com/videos/play/wwdc2017/803/
+https://developer.apple.com/videos/play/wwdc2018/804/
+
+
+
+
+
+Fr. – LAB
+===========================
+– News
+– Fontsize/Mediaquery
+– Fonts variable font
+
+
+SA – Technologiegeschichte der Schrift
+===========================
+
+Praxis
+
+
+
+
+
+
 BBC GEL
 
 Wunsch Bitcoin (Blockchain)

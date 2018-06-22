@@ -349,6 +349,7 @@ B42 Bd. / Vol. 1 - fol. 102r <!-- .element: class="footer" -->
 * Nutzung?
 * Kugelkopf-Schreibmaschine? Bedeutung...
 * Keyboard-Layout?
+* CR LF?
 
 --s--
 ## Übung
