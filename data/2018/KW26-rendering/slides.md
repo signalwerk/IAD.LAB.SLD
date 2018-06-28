@@ -471,3 +471,9 @@ Microsoft Arial Unicode – 24 Pixel Höhe (PPM) – MS-Renderer – Graustufe
 
 * [Film Kathodenstrahlröhre (Cathode ray tube – CRT)](https://youtu.be/3BJU2drrtCM?t=2m17s)
 * [Wikipedia](https://de.wikipedia.org/wiki/Kathodenstrahlr%C3%B6hre)
+
+--s--
+## Parametrische Fonts
+
+* Prototypo
+* metaflop.com

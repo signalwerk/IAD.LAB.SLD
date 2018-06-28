@@ -1,118 +1,284 @@
-* Prüfung (Rückmeldung 30.6.2018)
-29.6.2018 >>> prüfung Natasha
+### HF Interactiondesign
 
-font fragen
-Dinge benennen BEM
-Margins
-OpenType
-micro usb cable verfügbar?
-https://www.gewerbemuseum.ch/en/exhibitions/hello-robot
+# Schriftmuster
 
-wolfgang anmeldung
-Fonts konvertieren!!! Variable fonts
+Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
+--s--
+## Übersicht
 
-terminal & git vorstellen
-https://education.github.com/partners/schools
+* **12:45**
+* Organisation/News/Agenda
+* Rückschau & Festigung
+* Figma
+* Prüfung zurück
+* Schriftmuster
+* Variable Font
+* **16:15** · Ende
+--s--
+# Organisation
+--s--
+# Organisation
+
+* [github education](https://education.github.com/partners/schools)
+
+--s--
+## Arbeitslast
+
+# Umfrage
+* Wie war die Arbeitslast in den letzten Wochen? (😭 💤 ☺️)
+
+--s--
+## News
+* [→ 25 Jahre PDF (15. Juni 1993)](https://theblog.adobe.com/evolution-digital-document-celebrating-adobe-acrobats-25th-anniversary/)
+* [→ SwissID](https://swissid.ch/) & [→ SuisseID](https://www.postsuisseid.ch/)
+* [Yearbook of Type III](https://www.slanted.de/shop/yearbook-type-lll) [→ Fit](https://djr.com/fit/variable.html) [→ Calcula](https://www.typotheque.com/articles/calcula)
+--s--
+## PDF
+
+* 15. Juni 1993 – Adobe Acrobat 1.0 – PDF 1.0
+* WYSIWYG für Dokumenteaustausch
+* Seietenbeschreibung (mit fixer Geometrie)
+* Linearized PDF – «streaming» von Dokumenten ab 1996 ([→ PDF 1.2](http://www.orpalis.com/blog/linearized-pdf/))
+* ISO 32000-1:2008 = PDF 1.7
+* ISO 32000-2:2017 = PDF 2
+* PDF/A (ISO 19005) – PDF/X (ISO 15930)
+
+--s--
+## OAuth2 (Open Authorization)
+
+* Industriestandard (Amazon, Google, Facebook, Microsoft, Twitter, ...)
+* Entkopplung von Identität-Provider und Resoucen-Provider
+* [→ Beispiel](https://youtu.be/zEysfgIbqlg?t=2m21s)
+
+--s--
+## Agenda
+* [27. 5. – 4. 11. – Hello, Robot.](https://www.gewerbemuseum.ch/en/exhibitions/hello-robot)
+
+--s--
+# Rückschau
+
+--s--
+# CSS Units
+--s--
+## Veschiedene Arten von Einheiten
+
+* fixe Einheiten (immer gleich)
+* flexieble Einheiten (abhängig von Kontext)
+* ohne Einheiten
+* Mischung von Einheiten
+
+--s--
+## Gebräuchliche fixe Einheiten
+
+### Fixe CSS-Einheiten für Screens
+* `px` – Pixel (1 px = 1 Inch ÷ 96)
+
+### Fixe CSS-Einheiten (nur für Druck!)
+* `pt` – Punkt (1 pt = 1 Inch ÷ 72)
+* `mm` – Millimeter (25.4 mm = 1 Inch)
+
+--s--
+## Pixel-Werte
+```css
+html {
+  font-size: 16px;
+  line-height: 24px;
+}
+h1 {
+  font-size: 32px;
+  line-height: 48px;
+}
+```
+
+### Nachteil
+* Verhältnis von Schriftgrösse und Zeilenabstand nicht intuitiv (muss errechnet werden)
+* Verhältnis von H1 zur normalen Schriftgrösse schwer ersichtlich
 
 
-figma >>> marc stellt Victor
-project maven >>> google
+--s--
+## CSS Values
+```css
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1 {
+  font-size: 32px;
+}
+```
+
+### Nachteil
+* Verhältnis von H1 zur normalen Schriftgrösse schwer ersichtlich
+
+--s--
+
+## Gebräuchliche flexieble Einheiten
+
+* Dokumenteabhängige CSS-Einheiten
+* Viewportabhängige CSS-Einheiten
+--s--
+## Dokumenteabhängige CSS-Einheiten
+* `%` – Relativ zum Parent-Element
+* `rem` – Entspricht der Schriftgrösse des Root-Elements (`HTML`)
+* `em` – Entspricht der aktuellen Schriftgrösse des Elements
+--s--
+## Viewportabhängige CSS-Einheiten
+* `vh` – 1% der Fensterhöhe (Viewport)
+* `vw` – 1% der Fensterbreite (Viewport)
+* `vmin` – 1% der schmaleren Fensterdimension (Viewport)
+* `vmax` – 1% der grösseren Fensterdimension (Viewport)
+--s--
+# CSS Values
+```css
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1 {
+  font-size: 32px;
+}
+```
+
+### Nachteil
+* Verhältnis von H1 zur normalen Schriftgrösse schwer ersichtlich
+--s--
+# CSS Values
+```css
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1 {
+  font-size: 2rem;
+}
+```
+--s--
+## Mischung
+
+* `calc()` ermöglicht es verschiedene Einheiten im CSS zu mischen
+* nur nutzen, wenn flexieble und variable Einheiten gemischt werden müssen
+--s--
+## Mischung
+
+```css
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.fullsreen {
+  width: calc(100vw - 2rem);
+  height: calc(100vh - 2rem);
+}
+```
+--s--
+# CSS Mediaquery
+
+Je nach Eigenschaft des Ausgabemediums andere CSS-Definition
 
 
-Am 15. Juni 1993 wurde in New York Adobe Acrobat 1.0 eingeführt.
-http://www.planetpdf.com/planetpdf/images/adobeintrosacro61593.gif
+--s--
+# Grössenabhängig
+
+```css
+@media screen and (min-width: 30em) {
+  html {
+    font-size: 16px;
+  }
+}
+```
+Mediaquery wird aktiv, wenn das Ausgabemedium ein Bildschirm ist und die Breite mehr als `30 rem` ist.
+
+--s--
+## Mobile first
+
+```css
+html {
+  font-size: 12px;
+  line-height: 1.5;
+}
+@media screen and (min-width: 30em) {
+  html {
+    font-size: 16px;
+  }
+}
+```
+Beim Aufbau von CSS-Formatierungen empfiehlt es sich vom kleinsten Screen aus zu gehen und die grösseren Screens als «Ausnahmen» zu sehen.
 
 
-https://swissid.ch/de/form/newsletter-swissid-website-2-0/confirmation?token=TMdA0SGgpkpr43BzSkKPPlSAdB2ExsWappK96cth75A
-
-
-https://developer.apple.com/videos/play/wwdc2017/803/
-https://developer.apple.com/videos/play/wwdc2018/804/
-
-
-
-
-
-Fr. – LAB
-===========================
-– News
-– Fontsize/Mediaquery
-– Fonts variable font
-
-
-SA – Technologiegeschichte der Schrift
-===========================
-
-Praxis
+<!-- .element: class="footer" --> [→ MDN Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 
 
 
 
 
-BBC GEL
 
-Wunsch Bitcoin (Blockchain)
 
-Matthias berichtette von Juristin DSGVO
+
+
+
+
+
 
 
 
 --s--
-## Präsentation · Schrift
-* Dokumentation der Schriftwahl
-* Dokumentation der «digitalen Schriftmuster»
-* Dokumentation der Navigation
+## Figma
 
+Marc zeigt uns kurz [figma](https://www.figma.com/)
 
+--s--
+## Prüfung
 
-* [Amstelvar – Beta](https://github.com/TypeNetwork/Amstelvar)
+* Natasha Prüfung
+* Prüfung zurück
 
+--s--
+## Schriftmuster
 
+--s--
+## Rückschau
 
+* Gemeinsam ein Schriftmuster
+* Wie seine Schrift präsentieren
 
+--s--
+## Stand pro Person
 
+* Ein Text zum Font
+* Ein Text zum Designer
+* Review von zwei Texten
+* Zwei Beispiele von eigenem Text
+* Übersichtsbild
+--s--
+## Stand pro Gruppe
 
-Agenda
-https://vimeo.com/robothon
+* Design vorgeschlagen
+* Revisionen gemacht
+--s--
+## Stand als Klasse
 
+* Untersuchung zu bestehenden Papier-Schriftmustern
+* Digitale Schriftmuster einander Vorgestellt
 
+--s--
+## Website
 
+Können wir die alten Texte löschen?
+--s--
+## Revision
 
+* Jede Gruppe macht noch einmal Anweisungen
+* Jeder darf jedem einen Vorschlag machen
 
-* PechaKucha 20x20
-* keith jerret → köln
+--s--
+## Hausaufgaben
 
+* 14.07.2018 – letztes LAB
+* Was macht das Schriftmuster zum Schriftmuster? Was ist gut, was schlecht?
+* Bis wann geben wir noch Feedback?
 
-https://www.sbb.ch/de/bahnhof-services/bahnhoefe/shopville-zuerich-hauptbahnhof/smart-station.html
+--s--
+## Variable Font
 
-
-
-https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/
-
-
-https://github.com/Jolg42/awesome-typography
-
-
-
-
-http://www.gt-super.com/
-
-
-
-https://blog.bramp.net/post/2018/01/21/google-font-features/
-
-
-
-
-
-
-
-https://charakterziffer.github.io/otfeat/index.html
-
-
-
-optical size:
-
-https://www.typenetwork.com/brochure/opentype-variable-fonts-moving-right-along/
-https://djr.com/fit/variable.html
+Praxisarbeit

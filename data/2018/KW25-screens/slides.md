@@ -259,8 +259,8 @@ only screen and ( min-resolution: 75dpcm)
 #### OLED
 
 <video controls>
-  <source src="./img/REC016.mp4" />
-  <source src="./img/REC016.webm" />
+  <source src="./img/REC016.mp4" type="video/mp4" />
+  <source src="./img/REC016.webm" type="video/webm" />
 </video>
 
 --s--
