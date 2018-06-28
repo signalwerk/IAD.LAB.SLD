@@ -20,6 +20,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 # Organisation
 
 * [github education](https://education.github.com/partners/schools)
+* DropBox (2017 verschoben)
 
 --s--
 ## Arbeitslast
