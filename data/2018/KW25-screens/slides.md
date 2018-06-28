@@ -285,29 +285,11 @@ only screen and ( min-resolution: 75dpcm)
 
 
 * Animation flüssig: ab [20 – 30 Frames pro Sekunde (fps)](https://en.wikipedia.org/wiki/Frame_rate#/media/File:Animhorse.gif)
-* Ideal: 60 Frames pro Sekunde
+* Ideal: [60 Frames pro Sekunde](https://www.youtube.com/watch?v=pfiHFqnPLZ4)
 * iPad Pro? Filme? TV? Games?
+
 --s--
 ## Kennzahlen zu Bildschirmen
-* [Lumen](https://de.wikipedia.org/wiki/Lumen)
+* [Lichtstärke – Lumen](https://de.wikipedia.org/wiki/Lumen)
 * [Leuchtdichte – Nits](https://de.wikipedia.org/wiki/Leuchtdichte)
 * [Farbraum](https://de.wikipedia.org/wiki/Farbraum)
-
---s--
-## Übung
-
-* Mach einen Screenshot vom Logo-Löwen auf [→ sfgz.ch](http://sfgz.ch/)
-* Binde mit [→ Codepen](https://codepen.io/) und [→ imgur](https://imgur.com/) den Screenshot ein
---s--
-## Film
-
-<div class='embed-container'>
-  <iframe src="https://player.vimeo.com/video/169809377" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
---s--
-
-## Kathodenstrahlröhre
-
-* [Film Kathodenstrahlröhre (Cathode ray tube – CRT)](https://youtu.be/3BJU2drrtCM?t=2m17s)
-* [Wikipedia](https://de.wikipedia.org/wiki/Kathodenstrahlr%C3%B6hre)

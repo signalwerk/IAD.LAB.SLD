@@ -2984,6 +2984,11 @@ img.pic.upscale {
   width: auto;
 }
 
+img.picWide {
+  width: 100%;
+  height: auto;
+}
+
 .reveal section img.border {
   border: 1px solid #666666;
 }

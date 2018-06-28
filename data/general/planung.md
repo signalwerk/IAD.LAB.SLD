@@ -3,12 +3,49 @@
 
 Department for Digital, Culture, Media & Sport - GOV.UK
 
+Libregraphics 2018
+
+
+
+
+http://pads.osp.kitchen/p/workbook
+
+PPM → pixelgraphic by hand
+SVG → by hand
+Type → asciiart
+
+
+## Libre Graphics workbook sprint
+
+http://pads.osp.kitchen/p/workbook
+
+### brendan's fundamentals
+– pixels and lines
+– reading and writing machines (interaction, text as a medium)
+– camera vision (different roles of the camera)
+– mediation (operate with code)
+
+
+
+
+color
+image
+layout
+text
+motion
+
+
+
+
+
+
+
 
 ### ToDo
 
 * Change to https://github.com/FormidableLabs/spectacle
 
-### 1\. Semeser
+### 1\. Semeser – Basic Technologies
 
 * Scemantics
 * HTML/CSS Basics
@@ -26,7 +63,7 @@ Department for Digital, Culture, Media & Sport - GOV.UK
 * Server to Browser
 * FTP
 
-### 2\. Semeser
+### 2\. Semeser – Type & Read
 
 * Fontvorstellung
 * Webfonts einbinden & Webfonts kaufen
@@ -41,7 +78,7 @@ Department for Digital, Culture, Media & Sport - GOV.UK
 * Webfont
 * Slide to unlock 2007 → userinterface
 
-### 3\. Semeser
+### 3\. Semeser – Compute & Program
 
 * People on the Net. >>> werner herzog – Lo And Behold
   – john maeda
@@ -57,12 +94,18 @@ Department for Digital, Culture, Media & Sport - GOV.UK
 * PHP
 * CMS
 
-### 4\. Semester
+### 4\. Semester – Global Link & Participate
 
+* hamburgermenu
+   →  http://web.archive.org/web/20170721011927/https://sitesforprofit.com/mobile-menu-abtest
+   →  http://web.archive.org/web/20161108151050/http://sitesforprofit.com/mobile-menu-icons
+   →  https://conversionxl.com/blog/testing-hamburger-icon-revenue/
+   →  https://www.nngroup.com/articles/hamburger-menus/
 * Lokalisierung >>> https://www.deepl.com/translator
 * Zeitzonen >>> siehe doc global-content
 * 3d → https://www.grossmatte-luzern.ch/vtour/
 * UX >>> https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 & https://blog.marvelapp.com/drag-drop-design-systems/
+
 ### 5\. Semeser
 
 – SVG → https://www.svgator.com/  >>> https://medium.muz.li/icon-set-3b4fc87dc6b5?gi=8e9a175acfe7
