@@ -1,62 +1,67 @@
-Vortrag bionic-reading.com → Renato Casutt
+### HF Interactiondesign
 
+# Schriftmuster
 
+Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
+--s--
+## Übersicht
+
+* **8:15**
+* Organisation/News/Agenda
+* Rückschau & Festigung
+* Schriftmuster
+* **9:30**
+* Pause
+* **10:00**
+* Vortrag Renato Casutt
+* **11:40** · Ende
 
 --s--
-## Präsentation · Schrift
-* Dokumentation der Schriftwahl
-* Dokumentation der «digitalen Schriftmuster»
-* Dokumentation der Navigation
+# Organisation
+* Info Semestersitzung
 
+--s--
+## Arbeitslast
 
+# Umfrage
+* Wie war die Arbeitslast in den letzten Wochen? (😭 💤 ☺️)
 
-* [Amstelvar – Beta](https://github.com/TypeNetwork/Amstelvar)
+--s--
+## News
+* DSGVO
 
+--s--
+## Agenda
+* 1. & 2. Juni – Informatiktage
+--s--
+## meetups – Technologie
+* 24.08.2018 – Travis CI
+* 05.10.2018 – paper.js
+* 26.10.2018 – ramdajs
+* 09.11.2018 – Typografie vs. Web
+* 23.11.2018 – React.js
+* 07.12.2018 – Git & Github
 
+jeweils 17:00–20:00, um 18:30 Vortrag (20min)
 
+[→ Kalender](webcal://signalwerk.github.io/calendar/IAD-meetup.ics)
 
+--s--
+# Rückschau
+* Prüfung (Rückmeldung 30.6.2018)
+--s--
+## Schriftenmuster
 
+* siehe Repo
+* Zusammentragen der Einzelteile
+* Navigation definieren
 
-Agenda
-https://vimeo.com/robothon
+--s--
+## Hausaufgabe
 
+* Überarbeiten Schriftmuster
+* Abfüllen der Inhalte
 
-
-
-
-* PechaKucha 20x20
-* keith jerret → köln
-
-
-https://www.sbb.ch/de/bahnhof-services/bahnhoefe/shopville-zuerich-hauptbahnhof/smart-station.html
-
-
-
-https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/
-
-
-https://github.com/Jolg42/awesome-typography
-
-
-
-
-http://www.gt-super.com/
-
-
-
-https://blog.bramp.net/post/2018/01/21/google-font-features/
-
-
-
-
-
-
-
-https://charakterziffer.github.io/otfeat/index.html
-
-
-
-optical size:
-
-https://www.typenetwork.com/brochure/opentype-variable-fonts-moving-right-along/
-https://djr.com/fit/variable.html
+--s--
+# Vortrag
+## → Renato Casutt

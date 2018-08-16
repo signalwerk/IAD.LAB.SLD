@@ -1,0 +1,145 @@
+$pPaddingBottom: 0.3rem;
+$pSmallFontSizeFactor: 0.7;
+
+html {
+	font-size: 32px;
+}
+
+.reveal .slides>section,
+.reveal .slides>section>section {
+	line-height: 1.45;
+}
+
+.reveal .slides {
+	text-align: left;
+}
+
+.spacertop {
+	height: 2.0rem;
+}
+
+.reveal li {
+	margin-bottom: 0.35rem;
+}
+.reveal ul {
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: block;
+}
+
+
+.reveal h1 {
+	font-size: 1.6rem;
+	margin-top: 0.7rem;
+	margin-bottom: 0.7rem;
+}
+
+.reveal h2 {
+	font-size: 1.3rem;
+	color: $cGreen;
+	margin-bottom: 0.3rem;
+}
+
+.reveal h3 {
+	font-size: 1rem;
+	// font-weight: 400;
+	// color: $cDarkGray;
+	// color: $cBlue;
+	color: $cGreen;
+	margin-top: 0.8em;
+	margin-bottom: 0.3em;
+}
+
+
+// handling for first title on the slide
+.reveal section {
+
+	& > h1:first-child, & > h2:first-child, & > h3:first-child {
+		margin-top: 0em;
+		margin-bottom: 2em;
+	}
+
+}
+
+
+.reveal code {
+	// font-size: 0.8rem;
+	line-height: 1.2;
+	background-color: #d3d3d3;
+}
+
+.reveal code.hljs {
+	background: #3f3f3f;
+}
+
+.reveal h4 {
+	font-size: 1rem * $pSmallFontSizeFactor;
+	padding-bottom: 0.3rem;
+}
+
+.reveal h5 {
+	font-size: 1rem * $pSmallFontSizeFactor;
+	font-weight: 400;
+	color: $cGreen;
+	padding-bottom: 0.3rem;
+}
+
+.reveal p {
+	color: $cMedBlack;
+	margin-bottom: $pPaddingBottom;
+	line-height: 1.4;
+}
+
+
+.reveal p.small, .reveal span.small {
+	font-size: 1rem * $pSmallFontSizeFactor;
+	margin-bottom: $pPaddingBottom;
+	// padding-top: 0.5em;
+	// color: #888;
+	color: $cDarkGray;
+}
+
+.reveal blockquote {
+ width: 100%;
+ box-shadow: none;
+ padding: 0
+}
+
+p.source {
+	font-size: 60%;
+	padding-top: 0.2rem;
+	color: $cGreen;
+	font-family: $headingFont;
+	text-transform: uppercase;
+
+}
+
+p.source:before
+{
+	content:"Quelle: ";
+}
+
+
+
+// footer
+$footerMargin: 0.7rem;
+
+
+.footer,
+.footer p,
+.footer a,
+p.footer {
+	font-size: 1rem * $pSmallFontSizeFactor;
+}
+
+.footer,
+p.footer {
+  // bottom: $footerMargin;
+  bottom: $footerMargin + $pPaddingBottom * $pSmallFontSizeFactor;
+  position: absolute;
+}

@@ -1,0 +1,242 @@
+@import "../../../node_modules/reveal.js/css/reveal.scss";
+//
+//
+//
+// $cGreen: #004d61;
+// $cBlue: #002f5b;
+// $cMedBlack: rgb(51,51,51);
+// $cDarkGray: rgb(102, 102, 102);
+//
+//
+// // Default mixins and settings -----------------
+// @import "../../node_modules/reveal.js/css/theme/template/mixins";
+// @import "../../node_modules/reveal.js/css/theme/template/settings";
+// // ---------------------------------------------
+//
+//
+// // Include theme-specific fonts
+// // @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+// @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,400italic,800italic);
+// // @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+//
+// // Override theme settings (see ../template/settings.scss)
+//
+//
+// $backgroundColor: #fff;
+//
+// // Primary/body text
+// $mainFont: 'Open Sans', sans-serif;
+// $mainFontSize: 1rem;
+// $mainColor: $cMedBlack;
+//
+// // Headings
+// $headingMargin: 0 0 20px 0;
+// $headingFont: 'Open Sans', Impact, sans-serif;
+// $headingFontWeight: 800;
+// $headingColor: $cBlue;
+// $headingLineHeight: 125%;
+// $headingLetterSpacing: 0.0em;
+// $headingTextTransform: none;
+// $headingTextShadow: none;
+// $heading1TextShadow: $headingTextShadow;
+//
+// // Links and actions
+// $linkColor: $cBlue;
+// $linkColorHover: lighten( $linkColor, 20% );
+//
+// // Text selection
+// $selectionBackgroundColor: #FF5E99;
+// $selectionColor: #fff;
+//
+//
+//
+//
+// // Theme template ------------------------------
+// @import "../../node_modules/reveal.js/css/theme/template/theme";
+// // ---------------------------------------------
+//
+// @import 'mixins';
+// @import 'typography';
+// @import 'chart';
+//
+//
+//
+// // lines on top and bottom
+//
+// $borderSlideWidth: 0.5rem;
+// $paddingSlideTop: $borderSlideWidth;
+// $paddingSlideBottom: $paddingSlideTop*1.1;
+// $paddingSlideLeftRight: $paddingSlideTop;
+// $textStart: 1.55rem;
+//
+// // set size of the slide
+// .reveal .slides>section {
+// 	height: calc(100% - #{$textStart} );
+// 	width: calc(100% - #{$paddingSlideLeftRight*2} );
+// 	padding: 0;
+// 	padding-top: $textStart;
+// 	margin-left: $paddingSlideLeftRight;
+// }
+//
+// // also if its a stacked slide
+// .reveal .slides > section.stack {
+// 	padding: 0;
+// 	padding-top: $textStart;
+// }
+//
+// // border tob bottom
+// .reveal .slides>section:before,
+// .reveal .slides>section:after {
+// 	width: 100%;
+// 	content: " ";
+// 	display: block;
+// 	border-top: $borderSlideWidth solid $cBlue;
+//     position: absolute;
+// }
+// .reveal .slides>section:before {
+// 	top: $paddingSlideTop;
+// }
+// .reveal .slides>section:after {
+// 	bottom: $paddingSlideBottom;
+// }
+//
+//
+//
+//
+//
+// /*
+// .reveal h3.space.bottom {
+// 	padding-bottom: 0.5em;
+// }
+// */
+//
+//
+//
+//
+//
+//
+//
+// .reveal section img {
+// 	margin: 0px;
+// 	background: transparent;
+// 	border: 0px solid #eeeeee;
+// 	box-shadow: none;
+//
+// }
+//
+// img.stats {
+// 	width: 930px;
+// 	min-width: 930px;
+// 	height: 930px/4*3;
+// 	min-height: 930px/4*3;
+// }
+//
+// img.pic {
+//
+// 		height: 100%;
+// 		max-height: 450px;
+// 		width: auto;
+// 	}
+//
+// img.pic.upscale {
+//
+// 		height: 480px;
+// 		width: auto;
+// 	}
+//
+// .reveal section img.border {
+// 	border: 1px solid #666666;
+// }
+//
+//
+// iframe.browser {
+//     border: 6px solid #666666;
+//     border-top: 30px solid #666666;
+//     width: 800px;
+//     height: 410px;
+// }
+//
+// .reveal pre {
+// 	margin-left: 0;
+// 	margin-right: 0;
+// 	margin-top: 0.1rem;
+// 	margin-bottom: 0.1rem;
+//
+// }
+//
+// .reveal .chart-caption {
+// 	font-size: 16px;
+// 	position: absolute;
+// 	right: 0;
+// 	top: 220px;
+// }
+// .reveal .chart-caption span {
+// 	padding-left: 0.5em;
+// }
+//
+// //
+// // iframe.browsernodimension {
+// //     border: 6px solid #666666;
+// //     border-top: 30px solid #666666;
+// // }
+// //
+// //
+// //
+// // .reveal section img.border {
+// //     border: 1px solid #666666;
+// //
+// // }
+// //
+// //
+// // img.w35 {
+// // 	width: 35%;
+// // }
+// // img.w55 {
+// // 	width: 55%;
+// // }
+// // img.w60 {
+// // 	width: 60%;
+// // }
+// // img.w65 {
+// // 	width: 65%;
+// // }
+// // img.w75 {
+// // 	width: 75%;
+// // }
+// // img.pl5 {
+// // 	padding-left: 5%;
+// // }
+// // .floatL {
+// // 	float: left;
+// // }
+// // .clear {
+// // 	clear: both;
+// // }
+// //
+// //
+// // .crop {
+// // 	overflow: hidden;
+// // 	width: 960px;
+// // 	height: 700px;
+// // 	width: 100%;
+// // 	height: 500px;
+// //
+// // }
+// // html .reveal div.cropimg {
+// // 	overflow: hidden;
+// // 	height: 645px;
+// // 	margin-top: -25px;
+// //
+// // 	img {
+// // 		width: 930px;
+// // 		min-width: 930px;
+// // 		height: 930px/4*3;
+// // 		min-height: 930px/4*3;
+// // 	}
+// //
+// // }
+// //
+// // html .reveal video {
+// // 	max-width: 100%;
+// // 	max-height: 100%;
+// // }
