@@ -23,11 +23,33 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
 # Organisation
+--s--
+## Dropbox
+
+* [→ Aufgabe](https://signalwerk.github.io/IAD.LAB.DOC/exercise-dropbox-handling/)
 
 --s--
 ## Nadia
 
 * Unterbricht ihre Ausbildung bis 2019
+
+--s--
+# Case Study
+* [→ Bewertung](http://logrinto.ch/posts/case-study-redesign-etherpad/)
+* OK zum an die Mailingliste zu submitten?
+--s--
+# Lab
+* Bewertung
+--s--
+## Zeugnisse
+
+* Ab Semester 3 jeweils vor Semesterende
+
+--s--
+## Umfrage
+
+* Gibt es Redebedarf? Wünsche?
+* [→ Umfrage zum 2. Semester](https://de.surveymonkey.com/r/RL8RC98)
 
 --s--
 ## 3. Semester
@@ -71,6 +93,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
 ## Lab
+
 * [→ Lernziele](https://github.com/logrinto/IAD2017/blob/master/lernziele/2018HS/lab.md)
   * JavaScript
   * CLI
@@ -101,30 +124,11 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
   * **26.10.2018** – Lightning Talk – [ramdajs](https://ramdajs.com/)
   * **09.11.2018** – Lightning Talk – Typografie vs. Web
   * **23.11.2018** – Lightning Talk – [React.js](https://reactjs.org/)
-  * **07.12.2018** – Lightning Talk – [Git](https://git-scm.com/  ) & [Github](https://github.com/)
-
-
---s--
-# Case Study
-* [→ Bewertung](http://logrinto.ch/posts/case-study-redesign-etherpad/)
-* OK zum an die Mailingliste zu submitten?
---s--
-# Lab
-* Bewertung
---s--
-## Zeugnisse
-
-* Ab Semester 3 jeweils vor Semesterende
-
---s--
-## Umfrage
-
-* Gibt es Redebedarf? Wünsche?
-* [→ Umfrage zum 2. Semester](https://de.surveymonkey.com/r/RL8RC98)
+  * **07.12.2018** – Lightning Talk – [Git](https://git-scm.com/  ) & [→ Github](https://github.com/)
 
 --s--
 ## News
-* [gamescom – Köln](http://www.gamescom.global/)
+* [→ amescom – Köln](http://www.gamescom.global/)
 * Twitter schliesst (brauchbare) API
 --s--
 ## Neue API Einschränkungen
@@ -159,7 +163,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## Agenda
 * Digital Festivals
-* [gameZfestival 18](http://www.gamezfestival.ch/)
+* [→ gameZfestival 18](http://www.gamezfestival.ch/)
 
 --s--
 ## Cookie Clicker
@@ -196,37 +200,49 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 * Interaktion auf Cookies
 * Zähler
-
---s--
-## JavaScript
-
-* Programmiersprache
-* Interpretiert und nicht Kompiliert
-* Meist verwendet in Browser
-* Kann auch auf Server verwendet werden
-* Diverse Revisionen (ES3, ES5, ES2017, ...)
 --s--
 # Fokus
 
 * Der Bedarf soll die Neugier wecken
 * Kein Vollständiger JavaScript-Kurs
-* Touringcomplete → man kann alles machen
+* Turing Complete → man kann alles machen
 * Hannah wird in Code & Design auf den Grundlagen aufbauen
 
 --s--
-## Standardisierung
+## JavaScript (ECMAScript)
+
+* Programmiersprache (1997)
+* Brendan Eich – Netscape (bis 2014 CEO Mozilla)
+* 1. Version in 10 Tagen entwickelt
+* Interpretiert und nicht Kompiliert
+* Meist verwendet in Browser
+* Kann auch auf Server verwendet werden
+* Diverse Revisionen (ES3, ES5, ES2015, ES2016, …)
+
+--s--
+## Standardisierung JavaScript
+
+* [→ Prozess auf GitHub](https://github.com/tc39/ecma262)
+* [→ Firmen sind Stakeholder](http://www.ecma-international.org/flat/memento/tc39-rf-tg%20-%20members.htm)
+--s--
+## Standardisierung HTML
+
+* [→ W3C (1994)](https://www.w3.org/) – Idealisten/Kerngruppe
+* [→ WHATWG (2004)](https://whatwg.org/) – Browser vendors
 
 --s--
 ## Referenzen
 
-* [Codecademy](https://www.codecademy.com/learn/learn-javascript)
-* [MDN Web Do](https://developer.mozilla.org/)
-* [Stackoverflow](https://stackoverflow.com/)
+* [→ Codecademy](https://www.codecademy.com/learn/learn-javascript)
+* [→ MDN Web Do](https://developer.mozilla.org/)
+* [→ Stackoverflow](https://stackoverflow.com/)
+
 --s--
 ## Libraries
 
 * Vereinfacht gewisse Arbeitsschritte (Abstraction)
 * Erweitert Funktionsumfang
+* Werden wir später anschauen
 
 --s--
 ## Datentypen
@@ -287,6 +303,7 @@ console.log(counter);
 ### use
 `alert("hello world");`  
 → Aufruf der Funktion alert mit dem String als Parameter.
+
 --s--
 ## Funktion speichern
 
@@ -323,7 +340,6 @@ cookie.classList.remove("round");
 --s--
 ## Event Listener
 
-
 `cookie.addEventListener("click", clicker)`  
 → bei einem klick auf das Element (`cookie`), wird die funktion `clicker` ausgeführt;
 
@@ -342,16 +358,17 @@ cookie.addEventListener("click", clicker);
 `counter.innerHTML = "Hello world";`  
 → schreibt in das Element (`counter`) einen HTML-String.
 
---s--
-## Animation
-
-* [Korrekte Animation in JS](https://javascript.info/js-animation)
 
 --s--
 ## Font für Laserung aufbereiten
 * Box um Font
 * Alles in Pfad umgewandelt
 
+--s--
+## Animation
+
+* Demo mit Keyframes
+* [→ Korrekte Animation in JS](https://javascript.info/js-animation)
 
 --s--
 # CLI
@@ -379,7 +396,7 @@ cookie.addEventListener("click", clicker);
 --s--
 ## Demo
 
-* [sfgz.ch](http://sfgz.ch)
+* [→ sfgz.ch](http://sfgz.ch)
 ```
 ssh berufssc@sfgz.ch
 cd ./www/sfgz.ch/main/Web
@@ -392,30 +409,39 @@ cd ./www/sfgz.ch/main/Web
 * BSD/MacOS sind POSIX kompatibel (Standard)
 * MacOS hat viele der Unix-Tools im Standardlieferumfang
 * MacOS verwendet bash als CLI andere CLI können installiert werden
-
 --s--
 ## Wichtige Befehle
+
+* Nicht vollständig
+--s--
+## Navigation in Verzeichnis
 
 * `cd ...` → in ein Verzeichnis wechseln (change directory)
 * `ls` → inhalt im aktuellen Verzeichnis anzeigen
 --s--
 ## Flags
 
-* `ls`
-* `ls -l`
-* `ls -a`
-* `ls -l -a`
-* `ls -la`
+* `ls` → inhalt im aktuellen Verzeichnis anzeigen
+* `ls -l` → `ls` als Liste
+* `ls -a` → `ls` zeigt versteckte Dateien
+* `ls -l -a` → `ls` zeigt versteckte Dateien & als Liste
+* `ls -la` → `ls` zeigt versteckte Dateien & als Liste
 
 --s--
 ## Parameter
-* `ls .`
-* `ls test`
-* `open test`
+* `ls .` → `ls` aktuelles Verzeichnis
+* `ls test` → `ls` vom Verzeichnis `test`
+* `open test` → `open` von `test`
 
 --s--
-## manual pages
-* `man ls`
+## Hilfe
+* `man ls` → zeigt Hilfe zu `ls`
+
+--s--
+## history
+
+* `history` → zeigt die letzten Befehle
+* `Pfeil nach oben` → navigiert durch die history
 
 --s--
 ## Laufzeit
@@ -450,20 +476,20 @@ cd ./www/sfgz.ch/main/Web
 
 * `git clone ...` → Klonen eines Repositories
 * `git status` → zeigt veränderte Files
-* `git add test` → fügt ein File zum Tracken hinzu
+* `git add test.txt` → fügt ein File zum Tracken hinzu
 * `git commit -m Test` → macht einen Commit (Eintrag) mit dem Kommentar `Test`
-* `git push orgin` → Publiziert die Commits auf einen anderen Server namens `orgin`
+* `git push origin` → Publiziert die Commits auf einen anderen Server namens `orgin`
 
 --s--
 ## Erweiterung
 
-* [Brew]() erweitert um neue Tools
+* [→ Brew](https://brew.sh/) erweitert um neue Tools
 * Mit `brew cask instal ...` können viele GUI tools installiert ewrden
 
 --s--
 ## Beispiel – Bilder skallieren
 
-* `brew cask instal convert`
+* `brew instal convert`
 
 ```
 convert test.tiff -resize 2000 -quality 80 -colorspace sRGB test.jpg
@@ -488,6 +514,11 @@ done
 
 --s--
 ## Variable Fonts aufbereiten
+* [→ GIT-Repo](https://github.com/logrinto/IAD2017.variable-fonts)
+* [→ vfb2ufo](https://blog.fontlab.com/font-utility/vfb2ufo/)
 * gleiche Anzahl Punkte
 * gleiche Reihenfolge der Konturen
 * Prüfen ob alles stimmt
+
+--s--
+# Cookie Clicker
