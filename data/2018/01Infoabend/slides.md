@@ -5,21 +5,17 @@
 
 
 Schule für Gestaltung, Zürich – 2018 <!-- .element: class="footer" -->
+
 --s--
 ## Stefan Huber – Praxis & Dozent
-
 --s--
-## Übersicht
+## Dozierende
 
-* Grundsatz
-* Aufbau
-* Beispiele aus zwei Semestern
-* Fragen
-
-
+* Berufsleute mit Lehrauftrag
+* Spezialisten vor Generalisten
+* Diversität durch Vielfallt
 --s--
-# Grundsatz
-
+# Warum?
 --s--
 ## Das Physische Medium wird überflüssig
 
@@ -29,7 +25,6 @@ Schule für Gestaltung, Zürich – 2018 <!-- .element: class="footer" -->
 ">
 
 Börsentelegrafen, Thomas Edison, 1869 <!-- .element: class="footer" -->
-
 
 --s--
 ## Information reist schneller als ein Medium
@@ -48,22 +43,83 @@ A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Pri
 --s--
 ## Fragestellungen
 # Wie unterstützt eine Gestaltung den User im digitalen Medium?
---s--
-## Fragestellungen
-# Welche Veränderungen erwarten wir mit der digitalisierung von Kulturtechniken und wie reagieren wir darauf?
 
 --s--
-# Aufbbau
---s--
-## Laotse
-# Lernen ist wie Rudern gegen <br> den Strom. Hört man damit auf, treibt man zurück.
+## Grundsatz – Inhalt steht im Zentrum
+
+
+<iframe
+class="browser" src="http://info.cern.ch/hypertext/WWW/TheProject.html" frameborder="0"></iframe>
+
+
+Erste Website – Tim Berners-Lee, 1991 <!-- .element: class="footer" -->
 
 --s--
-## Inhalt & Form
+## Gestaltung & Technologie folgen Inhalt
+
+
+![](./img/1935-ebook-sm.jpg)
+
+Book Reader – Everyday Science and Mechanics, April, 1935 – Mikrofilm ab 1859 <!-- .element: class="footer" -->
+
+
+--s--
+## Mobile Technologie
+
+
+Steve Ballmer – Reaktion auf iPhone von CEO Microsoft – 2007 <!-- .element: class="footer" -->
+
+
+<div class="w90">
+  <div class="videoWrapper">
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/eywi0h_Y5_U?start=7&end=27"
+      frameborder="0"
+      allowfullscreen
+    />
+  </div>
+</div>
+
+
+
+
+--s--
+# Fremdbild
+
+![nerd](./img/nerd.gif)
+
+--s--
+# Selbstbild
+
+
+![iad](./img/design-tradition-kill.png)
+
+--s--
+# Selbstbild
+
+
+![iad](./img/design-new.png)
+
+
+--s--
+## IAD in Zürich
 * Der Inhalt steht im Zentrum
 * Typografie und Struktur sind zentrale Themen
 * Die Gestaltung und Technologie soll den User unterstützen
 * Fokus auf Webtechnologie
+
+--s--
+## Beispiel
+
+* [→ Schriftmuster HF 2017](https://logrinto.github.io/IAD2017.schriftmuster/)
+
+HF IAD, 2017 <!-- .element: class="footer" -->
+
+--s--
+## Laotse
+# Lernen ist wie Rudern gegen <br> den Strom. Hört man damit auf, treibt man zurück.
 
 
 --s--
@@ -86,6 +142,10 @@ A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Pri
 * Laptop erforderlich
 * Ausbildungskosten & Arbeitslast
 
+--s--
+## Lehrgang 2019
+* **Anmeldeschluss** – 15. März 2019
+* **Start** – 23. August 2019
 --s--
 ## Aufnahmeverfahren
 * Anmeldung mit Portfolio
@@ -191,8 +251,23 @@ HF IAD, 2017 <!-- .element: class="footer" -->
 HF IAD, 2017 <!-- .element: class="footer" -->
 
 
+--s--
+# Meetup – Web‑Worknights
 
+![](./img/web‑worknights.png)
+--s--
+# Meetup – Web‑Worknights
 
+* **05.10.2018** – Lightning Talk – [paper.js](http://paperjs.org/)
+* **26.10.2018** – Lightning Talk – [ramdajs](https://ramdajs.com/)
+* **09.11.2018** – Lightning Talk – Typografie vs. Web
+* **23.11.2018** – Lightning Talk – [React.js](https://reactjs.org/)
+* **07.12.2018** – Lightning Talk – [Git](https://git-scm.com/  ) & [Github](https://github.com/)
+
+Jeweils 17 – 20 Uhr, um 18:30 Uhr Lightning Talk (15 – 20 min) <!-- .element: class="footer" -->
+
+--s--
+# logrinto.ch
 --s--
 # Fragen?
 
