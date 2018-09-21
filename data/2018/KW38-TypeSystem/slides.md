@@ -19,8 +19,12 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 * [CSS Zen Garden](http://www.csszengarden.com/)
 * **16:15** · Ende
 
-
-
+--s--
+## Lernziele
+* können Mengentext typografisch korrekt Aufbereiten und Formatieren. K3
+* können mit mittels typografischer Gestaltung inhaltliche Strukturen unterstützen. K3
+* können die Grundlagen der Satztechnik bezogen auf digitale Medien anwenden, beurteilen und bewerten. K6
+* verstehen, wie die Leseführung in verschiedenen Ausgabegeräten zu gewährleisten ist. K4
 --s--
 ## Grundlagen – Aufgabe
 ![iad](./img/design-tradition.png)
