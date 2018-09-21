@@ -6,16 +6,16 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 ## Übersicht
 
-* **12:45**
+* **08:15**
 * Organisation/News/Agenda
 * Rückschau & Festigung
 * Variable Fonts
 * Cookie Clicker
-* **16:15** · Ende
+* **11:45** · Ende
 
 --s--
 # Organisation
-* 5. Oktober 2018 – Git mit Alex
+* 5\. Oktober 2018 – Git mit Alex
 
 --s--
 ## Arbeitslast
