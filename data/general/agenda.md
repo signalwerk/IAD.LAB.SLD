@@ -21,4 +21,5 @@ World Web forum?
 – ~ Mai «re:publica»
 – ~ Juni https://ampersandconf.com/
 – ~ Juni ZHdK Diplomausstellung
+– ~ Oktober ZHdK Digitaltag
 – 8.–10.11.2019 | Typo St.Gallen
