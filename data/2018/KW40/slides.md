@@ -108,11 +108,13 @@ button.addEventListener("click", clicker);
 ## Agenda
 * 25. – 27. 10. 2018 – [Digitaltag](https://digitaltag.zhdk.ch/)
 * 9. November 2018 – [Swiss Interactive Media Design Day](http://www.imdsg.ch/)
-* 9. - 11. November 2018 – [→ gameZfestival 18](http://www.gamezfestival.ch/)
+* 9. – 11. November 2018 – [→ gameZfestival 18](http://www.gamezfestival.ch/)
 
 
 --s--
 ## Variable Font
+
+
 --s--
 ## Cookie Clicker
 
