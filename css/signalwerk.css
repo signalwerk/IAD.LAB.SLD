@@ -2016,7 +2016,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #c44875;
+  color: #268394;
   text-decoration: none;
   transition: color .15s ease;
 }
@@ -2029,7 +2029,7 @@ body {
 
 .reveal .roll span:after {
   color: #fff;
-  background: #912f52;
+  background: #164d57;
 }
 
 /*********************************************
@@ -2053,7 +2053,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #c44875;
+  border-color: #268394;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
 }
 
@@ -2061,7 +2061,7 @@ body {
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #c44875;
+  color: #268394;
 }
 
 /*********************************************
@@ -2069,7 +2069,7 @@ body {
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #c44875;
+  color: #268394;
 }
 
 .reveal .progress span {
