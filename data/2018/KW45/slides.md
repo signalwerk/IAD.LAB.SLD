@@ -89,6 +89,15 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 <!-- .element: class="footer" --> Quelle: [grammy.com](https://www.grammy.com/grammys/news/pianist-keith-jarrett-story-k%C3%B6ln-concert) & [Wikipedia](https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert)
 --s--
 ## Cookie Clicker
+--s--
+## Learnings
+--s--
+## Arbeitsweise
+* Zuerst ein fertiges Game machen, dann ausbauen
+* Immer Einchecken
+* Bei Fragen immer mit Code auf Github Fragen
+--s--
+## Cookie Clicker
 ### Alle
 * Variablen
 * if/else

@@ -1,5 +1,6 @@
 – slack cursor tilt when mentioning >>> bold tilt
 
+samsung foldable device
 
 
 problem mit nadia
