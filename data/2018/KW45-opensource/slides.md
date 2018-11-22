@@ -226,6 +226,24 @@ vs
 
 
 --s--
+## Eigenes Projekt OpenSource machen
+
+* [Dokumentieren](https://github.com/signalwerk/colorlab/issues/2)
+* [Lizenz klären](https://github.com/signalwerk/colorlab/blob/master/LICENSE.txt)
+* [Demo](https://github.com/signalwerk/colorlab)
+* [Cool URL](https://colorlab.js.org/)
+
+--s--
+## Übung
+* Publiziere dein Cookie-Clicker via GitHub
+* Erstelle ein Readme.md im `master`-Branch
+* Lizenz für Code vermerken → [MIT](https://opensource.org/licenses/MIT) für Code
+* Lizenz für die Assets vermerken → [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* Wiki-Seite erstellen, die es dem Reviewer ermöglicht zu verstehen, was geschieht.
+
+
+
+--s--
 ## Semantic versioning
 
 * [Semantic Versioning](https://semver.org/)
@@ -257,21 +275,6 @@ Neue Funktion ergänzt (non breaking)
 Neue Schnittstelle (breaking)
 
 
---s--
-## Eigenes Projekt OpenSource machen
-
-* [Dokumentieren](https://github.com/signalwerk/colorlab/issues/2)
-* [Lizenz klären](https://github.com/signalwerk/colorlab/blob/master/LICENSE.txt)
-* [Demo](https://github.com/signalwerk/colorlab)
-* [Cool URL](https://colorlab.js.org/)
-
---s--
-## Übung
-* Publiziere dein Cookie-Clicker via GitHub
-* Erstelle ein Readme.md im `master`-Branch
-* Lizenz für Code vermerken → [MIT](https://opensource.org/licenses/MIT) für Code
-* Lizenz für die Assets vermerken → [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-* Wiki-Seite erstellen, die es dem Reviewer ermöglicht zu verstehen, was geschieht.
 --s--
 ## Feedback & Zuständigkeit
 
