@@ -59,4 +59,5 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 ## Präsentationen
 --s--
 ## Neue Aufgabe
+* [Aufgabenbeschreibung](https://signalwerk.github.io/IAD.LAB.DOC/exercise-mobile-menu/)
 --s--
