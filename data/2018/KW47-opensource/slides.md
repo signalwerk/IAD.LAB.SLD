@@ -27,7 +27,9 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 **Ulrich Lantermann** (Lantus)
 --s--
 ## Design Walz
-[**Alexander Boenninger**](http://walz.alexanderboenninger.de/)
+
+* [Eigenes Projekt](http://caminantes-grafico.org/)
+* [**Alexander Boenninger**](http://walz.alexanderboenninger.de/)
 --s--
 #  Theorie
 --s--
