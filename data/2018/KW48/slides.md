@@ -29,7 +29,7 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 --s--
 # Organisation
-* Auswertung «OpenSource und Communities»
+* [Auswertung](https://umfragen.sfgz.ch/kurs/782744) «OpenSource und Communities»
 
 --s--
 ## Git Probleme
@@ -56,15 +56,29 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 
 --s--
-
-
-
-
 ## Präsentationen
 
+* [Games](https://logrinto.github.io/IAD2017.clicker-game/)
 
+<!--
+Stephie
+Severin
+Lars
+Nils
+Matthias
+ -->
+
+--s--
+## Neue Aufgabe
+--s--
+# Klauen!
 --s--
 ## Neue Aufgabe
 * [Aufgabenbeschreibung](https://signalwerk.github.io/IAD.LAB.DOC/exercise-mobile-menu/)
 * Abgabe: 18. Januar 2019
 --s--
+## Infos
+
+* [Navigation](https://signalwerk.github.io/IAD.LAB.DOC/navigation/#navigation-auf-mobilen-geraten)
+* [Beispiel Logrinto](https://logrinto.ch/)
+* [Beispiel Schriftmuster](https://logrinto.github.io/IAD2017.schriftmuster/)
