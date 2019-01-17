@@ -41,11 +41,11 @@ $headingTextShadow: none;
 $heading1TextShadow: $headingTextShadow;
 
 // Links and actions
-$linkColor: $cBlue;
-$linkColorHover: lighten( $linkColor, 20% );
+$linkColor: #268394;
+$linkColorHover: $cBlue;
 
 // Text selection
-$selectionBackgroundColor: #FF5E99;
+$selectionBackgroundColor: red;
 $selectionColor: #fff;
 
 
