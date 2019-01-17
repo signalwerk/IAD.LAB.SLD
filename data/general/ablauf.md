@@ -1,8 +1,28 @@
+
+
+news:
+– slack cursor tilt when mentioning >>> bold tilt
+–
+
+
+neues semester
+  - travis
+  - bekannte internet personen
+
+  * Falsche Farben >>>
+    https://logrinto.github.io/IAD2017.schriftmuster/  → Roboto
+    internezzo.ch → color
+
+    typografie am mobilen gerät!
+
+
+
+
 ### HF Interactiondesign
 
 # {{title}}
 
-Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
+Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 --s--
 ## Übersicht
 
