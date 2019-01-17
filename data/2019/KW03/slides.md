@@ -84,14 +84,21 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 --s--
 # Mobile-Menü
 
+--s--
+## Hamburgermenü
 
+* Konvention die oft verstanden wird.
+* Viele Seiten verzeichten heute auf zwingende Menüs.
+* In Apps häufig [Bottom navigation](https://material.io/design/components/bottom-navigation.html)
+* [Untersuchung 2016](http://web.archive.org/web/20170721011927/https://sitesforprofit.com/mobile-menu-abtest)
+* [Untersuchung 2017](https://conversionxl.com/blog/testing-hamburger-icon-revenue/)
 --s--
 ## Mobile-Menü
 
 * [Beispiel Slack](https://slackhq.com/say-hello-new-logo)
-* Links updaten → Slack
 * [Unterlagen Navigation](https://signalwerk.github.io/IAD.LAB.DOC/navigation/#navigation-auf-mobilen-geraten)
 * [Aufgabenbeschreibung](https://signalwerk.github.io/IAD.LAB.DOC/exercise-mobile-menu/)
+* Links updaten → Slack
 
 --s--
 ## Mobile-Menü

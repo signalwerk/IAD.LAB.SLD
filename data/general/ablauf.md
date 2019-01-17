@@ -1,13 +1,10 @@
 
 
-news:
-– slack cursor tilt when mentioning >>> bold tilt
-–
+
 
 
 neues semester
   - travis
-  - bekannte internet personen
 
   * Falsche Farben >>>
     https://logrinto.github.io/IAD2017.schriftmuster/  → Roboto
