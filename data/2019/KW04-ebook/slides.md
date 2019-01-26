@@ -572,7 +572,6 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 --s--
 ## Titelabstufung
 
-![](./img/headings.svg)
 ![](../../media/data/typography/headings-scale/headings.svg) <!-- .element: style="width: 70%;" -->
 
 --s--
