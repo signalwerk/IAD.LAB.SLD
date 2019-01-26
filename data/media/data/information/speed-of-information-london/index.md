@@ -1,0 +1,1 @@
+Quelle: [A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Princeton University Press, 2007](https://beebo.org/lately/2009-07-12_speed-of-information-travel.html)
