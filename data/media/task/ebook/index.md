@@ -1,7 +1,7 @@
 # Aufgabe eBook
 
 ## Abgabe
-Am 1. Februar 20919 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.
+Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.
 
 ## Technologie
 Für die Auflösung ist die Spezifikation von iPad 9,7" (2018) zu konsultieren. Auch die Dimension muss selber ermittelt werden und der Text muss auf dem Gerät gut lesbar sein.
