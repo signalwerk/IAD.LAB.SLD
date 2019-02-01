@@ -158,7 +158,7 @@ Vom Lateinischen:
 Digital meint eine (mit den Fingern) **abzählbare Einordnung** von Dingen.
 --s--
 ## Apple · 1984
-![](../../media/data/__not_ordered/mac/official/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg)  <!-- .element: style="width: 90%;" -->
+![](../../media/data/not_ordered/mac/official/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg)  <!-- .element: style="width: 90%;" -->
 
 
 
@@ -169,20 +169,20 @@ Digital meint eine (mit den Fingern) **abzählbare Einordnung** von Dingen.
 Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="small" -->
 
 
-![](../../media/data/__not_ordered/mac/fonts/Original_Mac_fonts.png)
+![](../../media/data/not_ordered/mac/fonts/Original_Mac_fonts.png)
 
 <!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare#/media/File:Original_Mac_fonts.png)
 
 --s--
 ## MacOS 7 – TrueType · 1991
-![](../../media/data/__not_ordered/mac/apple/3065804-inline-i-2-how-apple-helped-democratize-type.png)
+![](../../media/data/not_ordered/mac/apple/3065804-inline-i-2-how-apple-helped-democratize-type.png)
 
 
 --s--
 ## Adobe und PostScript · 1982
 
 
-![](../../media/data/__not_ordered/mac/official/Macintosh-Plus.jpg) <!-- .element: class="pic" -->
+![](../../media/data/not_ordered/mac/official/Macintosh-Plus.jpg) <!-- .element: class="pic" -->
 
 --s--
 ## PDF · 1993
@@ -220,7 +220,7 @@ Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="smal
 	<br>www.asymco.com – <a href="http://www.asymco.com/2014/01/03/on-the-future-of-the-internet-and-everything/">On the future of the Internet and everything, Jan. 2014</a>
 </p> -->
 
-![iad](../../media/data/__not_ordered/internet-coverage/internet-coverage.svg) <!-- .element: style="width: 80%;" -->
+![iad](../../media/data/not_ordered/internet-coverage/internet-coverage.svg) <!-- .element: style="width: 80%;" -->
 
 
 
@@ -230,7 +230,7 @@ Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="smal
 --s--
 ## Mobiles Internet
 #### Schweiz – Internetnutzung nach Gerätetypen in %
-![Internetnutzung nach Gerätetypen – Schweiz](../../media/data/__not_ordered/mobile-internet/CH_device.svg) <!-- .element: class="stats" -->
+![Internetnutzung nach Gerätetypen – Schweiz](../../media/data/not_ordered/mobile-internet/CH_device.svg) <!-- .element: class="stats" -->
 
 
 <div class="chart-caption">
@@ -259,7 +259,7 @@ Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="smal
 ## Mobiles Internet
 #### Weltweit – Internetnutzung nach Gerätetypen in %
 
-![Internetnutzung nach Gerätetypen – Weltweit](../../media/data/__not_ordered/mobile-internet/ALL_device.svg) <!-- .element: class="stats" -->
+![Internetnutzung nach Gerätetypen – Weltweit](../../media/data/not_ordered/mobile-internet/ALL_device.svg) <!-- .element: class="stats" -->
 
 <div class="chart-caption">
   <div class="svg ct-series-a chartist-legend">
@@ -287,7 +287,7 @@ Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="smal
 ##  Smartphone
 
 #### Weltweit – Verkaufte Smartphones in Mio.
-![Verkaufte Smartphones weltweit](../../media/data/__not_ordered/mobile-internet/smartphones.svg) <!-- .element: class="stats" -->
+![Verkaufte Smartphones weltweit](../../media/data/not_ordered/mobile-internet/smartphones.svg) <!-- .element: class="stats" -->
 
 
 Zum Vergleich: Im Jahr 2014 wurden weltweit 308 Millionen Computer verkauft. <!-- .element: class="footer" -->
@@ -296,7 +296,7 @@ Zum Vergleich: Im Jahr 2014 wurden weltweit 308 Millionen Computer verkauft. <!-
 ##  Mobiles Internet – Datenübertragung
 
 #### Mobilfunk-Standards – 3G und neuer
-![Mobiles Internet – Datenübertragung](../../media/data/__not_ordered/mobile-internet/mobile-datatransfer.svg) <!-- .element: class="stats" -->
+![Mobiles Internet – Datenübertragung](../../media/data/not_ordered/mobile-internet/mobile-datatransfer.svg) <!-- .element: class="stats" -->
 
 
 <div class="chart-caption">
@@ -318,7 +318,7 @@ Zum Vergleich: Im Jahr 2014 wurden weltweit 308 Millionen Computer verkauft. <!-
 
 
 
-![Mobiles Internet – Datenübertragung](../../media/data/__not_ordered/mobile-internet/mobile-datatransfer.svg) <!-- .element: class="stats" -->
+![Mobiles Internet – Datenübertragung](../../media/data/not_ordered/mobile-internet/mobile-datatransfer.svg) <!-- .element: class="stats" -->
 
 Angaben in MBit/s  <!-- .element: class="footer" -->
 
@@ -572,7 +572,6 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 --s--
 ## Titelabstufung
 
-![](./img/headings.svg)
 ![](../../media/data/typography/headings-scale/headings.svg) <!-- .element: style="width: 70%;" -->
 
 --s--
@@ -702,134 +701,5 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 * [→ Paper Prototype](https://www.youtube.com/watch?v=x48qOA2Z_xQ)
 
 
-
---s--
-
-## Vertrieb und Kopierschutz
-* DRM
-* Wasserzeichen und «social DRM»
-
---s--
-
-## Preisgestaltung · Economy of scale
-
-
-* Grösse des Bildschirmes
-* Art des Bildschirmes
-* Proportion des Bildschirmes
-* Auflösung des Bildschirmes
-* Orientierung des Geräts (Hoch-/Querformat)
-* Lesesoftware
-* Einstellungen in der Software
-* Verfügbarkeit von Schriften
-
-
-
-
---s--
-## eBook · Formate
-<table class="table table-striped table-bordered" style="font-size: 0.65em">
-<thead>
-<tr>
-<th>Eigenschaft</th>
-<th>ePub</th>
-<th>PDF/ePDF</th>
-<th>Kindle</th>
-<th>Apps</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Fixes Layout</td>
-<td>möglich</td>
-<td>Ja</td>
-<td>beschränkt</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Fliessender Text</td>
-<td>Ja</td>
-<td>beschränkt</td>
-<td>Ja</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Verweise im Werk</td>
-<td>Ja</td>
-<td>beschränkt</td>
-<td>Ja</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Schriftwahl/Schriftgrösse (vom Leser)</td>
-<td>Ja</td>
-<td>beschränkt</td>
-<td>Ja</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Navigation im Werk</td>
-<td>sehr gut</td>
-<td>möglich</td>
-<td>sehr gut</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Aktualisierung</td>
-<td>möglich</td>
-<td>nein</td>
-<td>möglich</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Vertrieb</td>
-<td>offen</td>
-<td>offen</td>
-<td>Amazon</td>
-<td>Stores</td>
-</tr>
-<tr>
-<td>Filme/Ton</td>
-<td>möglich</td>
-<td>beschränkt</td>
-<td>möglich</td>
-<td>Ja</td>
-</tr>
-<tr>
-<td>Verschlüsselung (Kopierschutz)</td>
-<td>über Umwege</td>
-<td>Ja</td>
-<td>Ja</td>
-<td>Ja</td>
-</tr>
-</tbody>
-</table>
-
---s--
-
-## ePub erstellen
-* InDesign CC
-* pandoc zum konvertieren
-* Fachperson (HTML)
-
---s--
-
-## Kriterien für ein eBook?
-* Typ der Publikation (Zielpublikum)
-* Dateiformat/Technologie
-* Vertriebskanal
-* Erscheinungsweise
-
-
---s--
-## Lesen eines eBooks
-
-* **eReader** → mehrere Tage
-* **Tablet/Smartphone** → mehrere Stunden
-* **Desktop** → (nicht mobil)
-
---s--
-
-## Danke
 
 --s--
