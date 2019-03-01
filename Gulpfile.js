@@ -10,7 +10,7 @@ var observe = "./src/stylesheets/**/*.scss";
 var output = "./public";
 var outputCSS = "./public/css";
 var revealRoot = "./node_modules/reveal.js/";
-var currentWork = "/data/2018/KW08";
+var currentWork = "/data/2019/KW05-ebook";
 
 var sassOptions = {
   errLogToConsole: true,
@@ -39,6 +39,10 @@ gulp.task("copyIMG", function() {
   gulp
     .src("." + currentWork + "/img/**/*")
     .pipe(gulp.dest(output + currentWork + "/img/"));
+
+  gulp
+    .src("./data/media/**/*")
+    .pipe(gulp.dest(output + "/data/media/"));
 });
 
 gulp.task("sass", function() {
@@ -94,6 +98,14 @@ gulp.task("watch", function() {
   // gulp.watch(["./data/**/*.md"], ['md_new']);
 
   gulp.watch(["./data/**/*.md"], function(obj) {
+    return gulp
+      .src(obj.path, { base: "." })
+      .pipe(gulp.dest(output))
+      .pipe(connect.reload());
+  });
+
+
+  gulp.watch(["./data/media/**/*"], function(obj) {
     return gulp
       .src(obj.path, { base: "." })
       .pipe(gulp.dest(output))
