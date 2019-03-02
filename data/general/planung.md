@@ -80,6 +80,9 @@ motion
 
 ### 3\. Semeser – Compute & Program
 
+
+* terminal & git vorstellen
+* BBC GEL
 * People on the Net. >>> werner herzog – Lo And Behold
   – john maeda
   –
@@ -89,27 +92,32 @@ motion
 * siehe vortrag jugend hackt ==> 2016 Jugend Hackt JavaScript
 * Vorläufer computer/internet
 * Display Technologie
-* Guys 4.
-* SQL
-* PHP
-* CMS
-
-### 4\. Semester – Global Link & Participate
-
+* keith jerret → köln
+* http://www.gt-super.com/
 * hamburgermenu
    →  http://web.archive.org/web/20170721011927/https://sitesforprofit.com/mobile-menu-abtest
    →  http://web.archive.org/web/20161108151050/http://sitesforprofit.com/mobile-menu-icons
    →  https://conversionxl.com/blog/testing-hamburger-icon-revenue/
    →  https://www.nngroup.com/articles/hamburger-menus/
+
+
+
+### 4\. Semester – Global Link & Participate
+* PechaKucha 20x20
 * Lokalisierung >>> https://www.deepl.com/translator
 * Zeitzonen >>> siehe doc global-content
+* [Amstelvar – Beta](https://github.com/TypeNetwork/Amstelvar)
+* Wunsch Bitcoin (Blockchain)
+* SQL
+* PHP
+* CMS
 * 3d → https://www.grossmatte-luzern.ch/vtour/
 * UX >>> https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 & https://blog.marvelapp.com/drag-drop-design-systems/
+* SVG → https://www.svgator.com/  >>> https://medium.muz.li/icon-set-3b4fc87dc6b5?gi=8e9a175acfe7
+– Pixelgenaue icons >> Icon-fonts
 
 ### 5\. Semeser
 
-– SVG → https://www.svgator.com/  >>> https://medium.muz.li/icon-set-3b4fc87dc6b5?gi=8e9a175acfe7
-– Pixelgenaue icons >> Icon-fonts
 – API (REST/GraphQL) 6.
 – Summarize
 – Gartner Hype Cycle
