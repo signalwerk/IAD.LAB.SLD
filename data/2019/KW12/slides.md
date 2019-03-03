@@ -1,6 +1,7 @@
 Lohnumfrage
   * Eine Person hat Geschlecht nicht hin geschrieben
   * 2 Personen fehlen (noch)
+  * eine Person hat (aus Versehen) Name vermerkt
 
 
 
