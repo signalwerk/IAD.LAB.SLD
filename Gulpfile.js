@@ -10,7 +10,7 @@ var observe = "./src/stylesheets/**/*.scss";
 var output = "./public";
 var outputCSS = "./public/css";
 var revealRoot = "./node_modules/reveal.js/";
-var currentWork = "/data/2019/KW05-ebook";
+var currentWork = "/data/2019/KW09";
 
 var sassOptions = {
   errLogToConsole: true,
