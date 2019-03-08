@@ -91,6 +91,9 @@ p {
 * [Auswertung](https://de.surveymonkey.com/r/S9VSGTV)
 
 --s--
+## Umfrage
+# 🤺
+--s--
 ## Neues/Laufendes Semester
 
 * Accessibility (Boris)
