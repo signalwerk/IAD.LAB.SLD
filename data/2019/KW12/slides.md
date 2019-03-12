@@ -6,7 +6,7 @@ Lohnumfrage
   * 2 Personen fehlen (noch)
   * eine Person hat (aus Versehen) Name vermerkt
 
-
+Natasha > stell huawai app vo
 
 video
 – Arbeitgeber und Adresse auf Adressliste
