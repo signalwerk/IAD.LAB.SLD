@@ -1,3 +1,6 @@
+– Google region cloud
+– chrome bug
+
 Lohnumfrage
   * Eine Person hat Geschlecht nicht hin geschrieben
   * 2 Personen fehlen (noch)
