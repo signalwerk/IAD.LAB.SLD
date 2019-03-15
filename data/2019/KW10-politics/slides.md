@@ -185,6 +185,10 @@ Sehr vereinfacht. ID, Wallets und Coins alles nicht so einfach...
 ## Hilfe
 
 * [Blockchain](https://docs.google.com/spreadsheets/d/1gwlj9iS4x3neJnJfIENQKRpmLjkWCXovvK323hStnbI/edit?usp=sharing)
+* [Gruppe A](https://docs.google.com/spreadsheets/d/12CmhIgvjXh1OP1N-mNVNHJK9T9ymS30zePjnt2ZOD-c/edit?usp=sharing)
+* [Gruppe B](https://docs.google.com/spreadsheets/d/12wRQrVtGj1xlLlxtzR2Mz69PUZL2bAswbfgTWqKEdEA/edit?usp=sharing)
+* [Gruppe C](https://docs.google.com/spreadsheets/d/199O_qWGtM0KARkN0OkRUgUme41n3I2aofAn9hFV4Ew8/edit?usp=sharing)
+
 --s--
 ## Bestandteile
 * Personen
