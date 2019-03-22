@@ -24,3 +24,16 @@ vorbereitung nächste politik & gesellschaft
 ## Newsletter
 
 Kann jeder einen Newsletter/Feed auf nächstes Mal mitbringen, den man kennen muss?
+
+finite state machine
+
+
+natasha tool zeien
+
+News
+  google
+  wikipedia
+
+Internationalisation
+  * Sprache & Typografie
+  * Rest
