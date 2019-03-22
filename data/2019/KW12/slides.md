@@ -74,7 +74,7 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 --s--
 ## Agenda
 * [29. Mai – 2. Juni 2019 · The Libre Graphics Meeting](https://libregraphicsmeeting.org/2019/)
-* [11. Mai 2019](http://uxcamp.ch/)
+* [11. Mai 2019 – uxcamp](http://uxcamp.ch/)
 --s--
 ## Huawai-App Natasha
 --s--
@@ -83,7 +83,7 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 --s--
 ## Lokalisierung (l10n)
 
-Mit «Lokalisierung» meint man den Vorgang, wie man Content und Produkte an einen Kulturkreis anpasst.
+Mit «Lokalisierung» meint man den Vorgang, wie man Content und Produkte **an einen Kulturkreis anpasst**.
 --s--
 ## Lokalisierung (l10n)
 
@@ -97,7 +97,7 @@ Mit «Lokalisierung» meint man den Vorgang, wie man Content und Produkte an ein
 ## Internationalisierung (i18n)
 
 
-Bei der «Internationalisierung» geht es darum ein System oder Produkt so zu gestalten, dass später eine Lokalisierung möglich ist.
+Bei der «Internationalisierung» geht es darum **ein System oder Produkt so zu gestalten**, dass später **eine Lokalisierung möglich** ist.
 --s--
 ## Internationalisierung (i18n)
 
@@ -107,15 +107,24 @@ Bei der «Internationalisierung» geht es darum ein System oder Produkt so zu ge
 
 --s--
 
+## Text
+
+* Was habt Ihr für Erfahrungen gemacht?
+* Andere Sprachen?
+* Andere Kulturkreise?
+
+--s--
 ## Text – Dimensionen
-
-
-![](./img/text/skyscanner.png)
 
 --s--
 
+![](./img/text/skyscanner.png) <!-- .element: class="pic" -->
+
+<!-- .element: class="footer" --> Quelle: [skyscanner](https://www.skyscanner.ch)
+--s--
+
 ## Text – Individualisierung
-![](./img/text/macOS_10.14.png)
+![](./img/text/macOS_10.14.png) <!-- .element: class="pic" -->
 
 
 --s--
@@ -123,7 +132,7 @@ Bei der «Internationalisierung» geht es darum ein System oder Produkt so zu ge
 
 ## Unicode
 
-Das Unicode Konsortium wurde geschaffen um eine Standardisierung zu erreichen, welcher Wert/Zeichencode (Codepoint) welchem Schriftzeichen (Glyph) entspricht.
+Das Unicode Konsortium wurde geschaffen um eine Standardisierung zu erreichen, welcher **Wert/Zeichencode (Codepoint)** welchem **Schriftzeichen (Glyph)** entspricht.
 
 --s--
 
@@ -132,12 +141,12 @@ Das Unicode Konsortium wurde geschaffen um eine Standardisierung zu erreichen, w
 * [ASCII](http://ascii-table.com/) diente für die ersten 127 Zeichen des späteren Unicode
 --s--
 
-## Unicode Version 1 · (Oktober 1991)
+## Unicode Version 1 · Oktober 1991
 * 7161 Zeichen
 * 24 Schriftsysteme
 --s--
 
-## Unicode Version 12 · (März 2018)
+## Unicode Version 12 · März 2018
 * 137 993 Zeichen
 * 150 Schriftsysteme
 --s--
@@ -204,7 +213,7 @@ W□rter – W�rter
 
 ## ß oder ss
 <div class="example example--h1">
-Grösse: 80 m
+Grösse: 80 m <br />
 Größe: 80 m
 </div>
 
@@ -341,7 +350,7 @@ Hebräisch ist eine häufig verwendete rtl Sprache (Wortbedeutung: Hebräisch)
 
 --s--
 
-## DIN 5007 Variante 1
+## DIN 5007 Variante 2
 * Göbel
 * Goethe
 * Göthe
@@ -353,7 +362,7 @@ Hebräisch ist eine häufig verwendete rtl Sprache (Wortbedeutung: Hebräisch)
 **ö = oe**
 --s--
 
-## DIN 5007 Variante 1
+## Österreichische Sortierung
 * Goethe
 * Goldmann
 * Göbel
@@ -370,6 +379,13 @@ Hebräisch ist eine häufig verwendete rtl Sprache (Wortbedeutung: Hebräisch)
 ![](./img/text/titel-small.png)
 
 <!-- .element: class="footer" --> Beispiel der [Wiener Staatsoper](https://www.wiener-staatsoper.at/)
+--s--
+## Was noch Fehlt
+
+* Masseinheiten
+* Datum/Zeit
+* Geografie/Adressen
+* Geld/Bank
 
 --s--
 ## Arbeit · Human-centered design
