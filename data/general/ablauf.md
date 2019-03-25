@@ -3,6 +3,43 @@
 
 
 
+
+
+
+
+
+
+News
+
+–
+
+Gruppenarbeiten? wie? gespräch
+Lohnumfrage
+  * Eine Person hat Geschlecht nicht hin geschrieben
+  * 2 Personen fehlen (noch) >> Lars & Marius
+  * eine Person hat (aus Versehen) Name vermerkt
+
+Plagiat
+
+
+– Arbeitgeber und Adresse auf Adressliste
+– Lohnauswertung
+
+
+Newsletter
+
+https://mailchi.mp/68f07c3a5247/web-typography-news-1659549
+
+
+--s--
+## Newsletter
+
+Kann jeder einen Newsletter/Feed auf nächstes Mal mitbringen, den man kennen muss?
+
+
+
+
+
 neues semester
   - travis
 
