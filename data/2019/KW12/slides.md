@@ -64,6 +64,8 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 --s--
 
 ## Lohnumfrage
+
+* [Auswertung](https://signalwerk.github.io/IAD.Chart/)
 --s--
 ## News
 
