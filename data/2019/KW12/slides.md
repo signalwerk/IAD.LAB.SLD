@@ -148,7 +148,7 @@ Das Unicode Konsortium wurde geschaffen um eine Standardisierung zu erreichen, w
 * 24 Schriftsysteme
 --s--
 
-## Unicode Version 12 · März 2018
+## Unicode Version 12 · März 2019
 * 137 993 Zeichen
 * 150 Schriftsysteme
 --s--
