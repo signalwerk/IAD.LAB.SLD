@@ -276,6 +276,7 @@ Jean a dit : « C'est la ‹ morale du film › »
 * Regionen/politische Einheiten zum Teil zusammen (China/Afganistan «Zeitsprung»)
 * Können temporär ändern (Jahr 2000 Olymischen Sommerspiele in Australien)
 
+
 --s--
 
 ### Zeitzonen
@@ -284,6 +285,19 @@ Jean a dit : « C'est la ‹ morale du film › »
 ![Zeitzonen](https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png) <!-- .element: class="pic" -->
 
 <!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/File:World_Time_Zones_Map.png)
+
+--s--
+## Übung
+
+* Paper-Prototype
+* Macht eine Kalenderansicht eines Tages
+* Darin eingetragen ein Flug von Zürich nach London
+* Flug-Start: 13:15 Uhr (Zürich)
+* Flug-End: 13:45 Uhr (London)
+* Gruppenarbeit 4 Gruppen
+  * Nur jemand spricht
+  * Alle sollen/dürfen/müssen sprechen
+
 --s--
 
 
@@ -346,6 +360,18 @@ Jean a dit : « C'est la ‹ morale du film › »
 
 --s--
 
+## Übung
+
+* Paper-Prototype
+* Macht eine Kalenderansicht eines Tages
+* Darin eingetragen einen Termin
+* Start: 27.10.2019 – 3:00 Uhr (Zürich)
+* End: 27.10.2019 – 3:01 Uhr (Zürich) 
+* Gruppenarbeit 4 Gruppen
+  * Nur jemand spricht
+  * Alle sollen/dürfen/müssen sprechen
+
+--s--
 
 
 ## Datum & Kalender
