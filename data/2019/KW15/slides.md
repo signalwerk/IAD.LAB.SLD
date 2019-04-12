@@ -219,7 +219,7 @@ CSS-Klassen sind nach [BEM](https://cssguidelin.es/#bem-like-naming) benannt.
 
 --s--
 ## Updates
-* Video-Posts
+* Am 10. Mai 2019 wird es ein Update der Aufgabe geben
 
 --s--
 ## Start
