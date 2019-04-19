@@ -3,6 +3,23 @@
 
 
 
+Node installieren
+SVG
+
+Einheitenfrei
+* PNG – JPG – SVG
+
+Text
+
+
+https://medium.freecodecamp.org/how-to-build-a-react-js-chat-app-in-10-minutes-c9233794642b
+
+* SVG → https://www.svgator.com/  >>> https://medium.muz.li/icon-set-3b4fc87dc6b5?gi=8e9a175acfe7
+– Pixelgenaue icons >> Icon-fonts
+
+
+
+
 
 
 
