@@ -7,11 +7,11 @@ const path = require("path");
 var flatmap = require("gulp-flatmap");
 const connect = require("gulp-connect");
 
-const output = "./public";
+const output = "./build";
 const revealRoot = "./node_modules/reveal.js/";
 
 var themeSCSS = "./src/stylesheets/index.scss";
-var outputCSS = "./public/css";
+var outputCSS = "./build/css";
 var indexHTML = "./src/*.html";
 var imagePath = "./data/**/img/**/*";
 
@@ -33,7 +33,7 @@ gulp.task("copyIMG", function() {
 
 gulp.task("connect", function() {
   connect.server({
-    root: "./public/",
+    root: "./build/",
     livereload: true
   });
 });

@@ -1,4 +1,4 @@
-/public
+/build
 /node_modules
 drone/.ssh/id_rsa
 drone/.ssh/secret.key
