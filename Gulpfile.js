@@ -1,16 +1,19 @@
-var gulp = require("gulp");
-var sass = require("gulp-sass");
-var sourcemaps = require("gulp-sourcemaps");
-var autoprefixer = require("gulp-autoprefixer");
-//var changed = require('gulp-changed');
-var connect = require("gulp-connect");
+const gulp = require("gulp");
+const sass = require("gulp-sass");
+const sourcemaps = require("gulp-sourcemaps");
+const autoprefixer = require("gulp-autoprefixer");
+const watch = require("gulp-watch");
+const path = require("path");
+var flatmap = require("gulp-flatmap");
+const connect = require("gulp-connect");
 
-var inputSCSS = "./src/stylesheets/signalwerk.scss";
-var observe = "./src/stylesheets/**/*.scss";
-var output = "./public";
+const output = "./public";
+const revealRoot = "./node_modules/reveal.js/";
+
+var themeSCSS = "./src/stylesheets/index.scss";
 var outputCSS = "./public/css";
-var revealRoot = "./node_modules/reveal.js/";
-var currentWork = "/data/2019/KW15-TypeSystem";
+var indexHTML = "./src/*.html";
+var imagePath = "./data/**/img/**/*";
 
 var sassOptions = {
   errLogToConsole: true,
@@ -19,45 +22,13 @@ var sassOptions = {
 
 gulp.task("copyRevealJs", function() {
   gulp.src(revealRoot + "/js/*").pipe(gulp.dest(output + "/js/"));
-
   gulp.src(revealRoot + "/plugin/**/*").pipe(gulp.dest(output + "/plugin/"));
-
   gulp.src(revealRoot + "/lib/**/*").pipe(gulp.dest(output + "/lib/"));
-
-  gulp.src("./src/*.html").pipe(gulp.dest(output + currentWork));
-
-  gulp.src("./src/overview/*.html").pipe(gulp.dest(output));
-
-  gulp.src("." + currentWork + "/*.md").pipe(gulp.dest(output + currentWork));
-
-  gulp
-    .src("." + currentWork + "/img/**/*")
-    .pipe(gulp.dest(output + currentWork + "/img/"));
 });
 
 gulp.task("copyIMG", function() {
-  gulp
-    .src("." + currentWork + "/img/**/*")
-    .pipe(gulp.dest(output + currentWork + "/img/"));
-
-  gulp
-    .src("./data/media/**/*")
-    .pipe(gulp.dest(output + "/data/media/"));
-});
-
-gulp.task("sass", function() {
-  return (gulp
-      .src(inputSCSS)
-      // .pipe(sourcemaps.init())
-      .pipe(sass(sassOptions).on("error", sass.logError))
-      .pipe(sourcemaps.write())
-      .pipe(autoprefixer())
-      .pipe(gulp.dest(outputCSS))
-      .pipe(connect.reload())
-
-      // Release the pressure back and trigger flowing mode (drain)
-      // See: http://sassdoc.com/gulp/#drain-event
-      .resume() );
+  gulp.src(imagePath).pipe(gulp.dest(output + "/data/"));
+  gulp.src("./data/media/**/*").pipe(gulp.dest(output + "/data/media/"));
 });
 
 gulp.task("connect", function() {
@@ -67,71 +38,79 @@ gulp.task("connect", function() {
   });
 });
 
-gulp.task("html", function() {
+gulp.task("md", function() {
   gulp
-    .src("./src/*.html")
-    .pipe(gulp.dest(output + currentWork))
+    .src("./data/*/*/*.md")
+    .pipe(gulp.dest(output + "/data/"))
+    .pipe(
+      // do a subtask based on the md
+      flatmap(function(stream, file) {
+        var currentDirectory = path.dirname(file.path);
+        var relativePath = path.relative(process.cwd(), currentDirectory);
+
+        gulp.src("./src/slides/index.html").pipe(gulp.dest(relativePath));
+
+        return stream;
+      })
+    )
     .pipe(connect.reload());
 });
 
-gulp.task("overview", function() {
+gulp.task("index", function(obj) {
   gulp
-    .src("./src/overview/*.html")
+    .src(indexHTML)
     .pipe(gulp.dest(output))
     .pipe(connect.reload());
 });
 
-// gulp.task('md', function () {
-//     gulp.src('./data/**/*.md')
-//     .pipe(gulp.dest(output + './data/'))
-//     .pipe(connect.reload());
-// });
+gulp.task("sass", function() {
+  return (
+    gulp
+      .src(themeSCSS)
+      // .pipe(sourcemaps.init())
+      .pipe(sass(sassOptions).on("error", sass.logError))
+      .pipe(sourcemaps.write())
+      .pipe(autoprefixer())
+      .pipe(gulp.dest(outputCSS))
+      .pipe(connect.reload())
 
-gulp.src(["assets/file.doc"], { base: "." }).pipe(gulp.dest("dist/"));
-
-gulp.task("watch", function() {
-  gulp.watch(observe, ["sass"]);
-  gulp.watch(["./src/*.html"], ["html"]);
-  gulp.watch(["./src/overview/*.html"], ["overview"]);
-
-  // gulp.watch(['.' + currentWork + '/*.md'], ['md']);
-  // gulp.watch(["./data/**/*.md"], ['md_new']);
-
-  gulp.watch(["./data/**/*.md"], function(obj) {
-    return gulp
-      .src(obj.path, { base: "." })
-      .pipe(gulp.dest(output))
-      .pipe(connect.reload());
-  });
-
-
-  gulp.watch(["./data/media/**/*"], function(obj) {
-    return gulp
-      .src(obj.path, { base: "." })
-      .pipe(gulp.dest(output))
-      .pipe(connect.reload());
-  });
-
-  gulp.watch(["." + currentWork + "/img/**/*"], ["copyIMG"]);
+      // Release the pressure back and trigger flowing mode (drain)
+      // See: http://sassdoc.com/gulp/#drain-event
+      .resume()
+  );
 });
 
-// gulp.task('watch', function() {
-//   return gulp
-//     // Watch the input folder for change,
-//     // and run `sass` task when something happens
-//     .watch(observe, ['sass'])
-//     // .watch(themeFiles, ['copyTheme'])
-//     // When there is a change,
-//     // log a message in the console
-//     .on('change', function(event) {
-//       console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
-//     });
-// });
+gulp.task("watch", function() {
+  gulp.watch(themeSCSS, ["sass"]);
+  gulp.watch(indexHTML, ["index"]);
 
-gulp.task("default", [
-  "copyRevealJs",
-  "copyIMG",
-  /* 'md', */ "sass",
-  "connect",
-  "watch" /*, possible other tasks... */
-]);
+  gulp.watch(imagePath).on("change", function(file) {
+    gulp
+      .src(file.path, { base: "." })
+      .pipe(gulp.dest(output))
+      .pipe(connect.reload());
+  });
+
+  gulp
+    .watch(["./data/*/*/*.md"])
+    .on("change", function(file) {
+      gulp
+        .src(file.path, { base: "." })
+        .pipe(gulp.dest(output))
+        .pipe(connect.reload());
+    })
+    .on("change", function(file) {
+      // Workaround to keep original folder structure
+      var currentDirectory = path.dirname(file.path);
+      var relativePath = path.relative(process.cwd(), currentDirectory);
+
+      gulp
+        .src("./src/slides/index.html")
+        .pipe(gulp.dest(output + "/" + relativePath))
+        .pipe(connect.reload());
+    });
+});
+
+gulp.task("default", ["build", "connect", "watch"]);
+
+gulp.task("build", ["copyRevealJs", "sass", "md", "index", "copyIMG"]);
