@@ -4,8 +4,8 @@
   "description": "slides for stefan huber",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/gulp",
-    "build": "./node_modules/.bin/gulp build",
+    "start": "npx gulp",
+    "build": "npx gulp build",
     "publish": "node ./src/publish.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
