@@ -2,6 +2,11 @@ kind: pipeline
 name: default
 
 steps:
+  - name: submodules
+    image: docker:git
+    commands:
+      - git submodule update --init --recursive --remote
+
   - name: build
     image: node:latest
     commands:
