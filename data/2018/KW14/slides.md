@@ -168,7 +168,7 @@ p {
 
 
 [→ «Ämtli-Liste»](https://github.com/logrinto/IAD2017/wiki/Studenten)
-<!-- .element: class="footer" --> 
+<!-- .element: class="footer" -->
 --s--
 ## Qualität?
 

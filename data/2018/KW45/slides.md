@@ -33,9 +33,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 ![Statistik messanger-apps](./img/messanger-apps.png) <!-- .element: class="pic" -->
 
 
-
-<!-- .element: class="footer" --> Quelle: [statista.com](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/)
-
+Quelle: [statista.com](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/)
+<!-- .element: class="footer" -->
 --s--
 #### Altersgruppe 13 – 24 Jahre – Februar 2017
 ## Messanger – Social Media Nutzung – USA
@@ -43,7 +42,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 ![Statistik USA social-media](./img/usa-social-media.png) <!-- .element: class="pic" -->
 
 
-<!-- .element: class="footer" --> Quelle: [statista.com](https://www.statista.com/statistics/199242/social-media-and-networking-sites-used-by-us-teenagers/)
+Quelle: [statista.com](https://www.statista.com/statistics/199242/social-media-and-networking-sites-used-by-us-teenagers/)
+<!-- .element: class="footer" -->
 --s--
 #### 2015
 ## Marktverteilung Messanger
@@ -52,8 +52,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 
 
-<!-- .element: class="footer" --> Quelle: [ondeviceresearch.com](https://ondeviceresearch.com/blog/messenger-wars-how-facebook-climbed-number-one)
-
+Quelle: [ondeviceresearch.com](https://ondeviceresearch.com/blog/messenger-wars-how-facebook-climbed-number-one)
+<!-- .element: class="footer" -->
 --s--
 ## Stickers
 
@@ -86,7 +86,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 * erst 1990 autorisiertes Transkript
 
 
-<!-- .element: class="footer" --> Quelle: [grammy.com](https://www.grammy.com/grammys/news/pianist-keith-jarrett-story-k%C3%B6ln-concert) & [Wikipedia](https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert)
+Quelle: [grammy.com](https://www.grammy.com/grammys/news/pianist-keith-jarrett-story-k%C3%B6ln-concert) & [Wikipedia](https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert)
+<!-- .element: class="footer" -->
 --s--
 ## Cookie Clicker
 --s--

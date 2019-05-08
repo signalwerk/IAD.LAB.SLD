@@ -100,7 +100,8 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 * Text
 * Eingabeformular
 
-<!-- .element: class="footer" -->  [→ Tweet Michele Bertoli](https://twitter.com/MicheleBertoli/status/868078729662279680)
+[→ Tweet Michele Bertoli](https://twitter.com/MicheleBertoli/status/868078729662279680)
+<!-- .element: class="footer" -->
 --s--
 # Schriftvorstellung
 

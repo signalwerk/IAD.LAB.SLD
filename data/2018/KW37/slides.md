@@ -79,23 +79,23 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 
 ![](./img/foerderung-tab.png) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Abstimmungszeitung Staatskanzlei Zürich – 23.09.2018](https://sk.zh.ch/internet/staatskanzlei/de/die_staatskanzlei/veroeffentlichungen/abstimmungszeitung/_jcr_content/contentPar/downloadlist/downloaditems/_09_abstimmungszeitu.spooler.download.1533798603445.pdf/Abstimmungszeitung_23_September_2018.pdf)
-
+Quelle: [Abstimmungszeitung Staatskanzlei Zürich – 23.09.2018](https://sk.zh.ch/internet/staatskanzlei/de/die_staatskanzlei/veroeffentlichungen/abstimmungszeitung/_jcr_content/contentPar/downloadlist/downloaditems/_09_abstimmungszeitu.spooler.download.1533798603445.pdf/Abstimmungszeitung_23_September_2018.pdf)
+<!-- .element: class="footer" -->
 --s--
 ## Förderbereiche Kanton Zürich
 
 ![](./img/foerderung-split.png) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Abstimmungszeitung Staatskanzlei Zürich – 23.09.2018](https://sk.zh.ch/internet/staatskanzlei/de/die_staatskanzlei/veroeffentlichungen/abstimmungszeitung/_jcr_content/contentPar/downloadlist/downloaditems/_09_abstimmungszeitu.spooler.download.1533798603445.pdf/Abstimmungszeitung_23_September_2018.pdf)
-
+Quelle: [Abstimmungszeitung Staatskanzlei Zürich – 23.09.2018](https://sk.zh.ch/internet/staatskanzlei/de/die_staatskanzlei/veroeffentlichungen/abstimmungszeitung/_jcr_content/contentPar/downloadlist/downloaditems/_09_abstimmungszeitu.spooler.download.1533798603445.pdf/Abstimmungszeitung_23_September_2018.pdf)
+<!-- .element: class="footer" -->
 --s--
 ## Förderbereiche Kanton Zürich
 
 > Damit künftig auch andere **audiovisuelle Darstellungsformen gefördert werden**, hat die **Kommission** für Bildung und Kultur des Kantonsrates **am 12. Dezember 2017** ein Postulat eingereicht. Das Postulat verlangt, dass der kantonale Beitrag  an die Zürcher Filmstiftung ab 2022 an die Bedingung geknüpft wird, **einen angemessenen Anteil des kantonalen Geldes für die Förderung neuer audiovisueller Formate** und Darstellungsformen (wie Videospiele und andere interaktive Formate) einzusetzen.
 
 
-<!-- .element: class="footer" --> Quelle: [Abstimmungszeitung Staatskanzlei Zürich – 23.09.2018](https://sk.zh.ch/internet/staatskanzlei/de/die_staatskanzlei/veroeffentlichungen/abstimmungszeitung/_jcr_content/contentPar/downloadlist/downloaditems/_09_abstimmungszeitu.spooler.download.1533798603445.pdf/Abstimmungszeitung_23_September_2018.pdf)
-
+Quelle: [Abstimmungszeitung Staatskanzlei Zürich – 23.09.2018](https://sk.zh.ch/internet/staatskanzlei/de/die_staatskanzlei/veroeffentlichungen/abstimmungszeitung/_jcr_content/contentPar/downloadlist/downloaditems/_09_abstimmungszeitu.spooler.download.1533798603445.pdf/Abstimmungszeitung_23_September_2018.pdf)
+<!-- .element: class="footer" -->
 
 --s--
 ## Agenda

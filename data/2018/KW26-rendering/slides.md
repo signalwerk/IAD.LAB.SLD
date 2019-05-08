@@ -89,7 +89,8 @@ only screen and ( min-resolution: 2dppx)
   /* Definitionen hier */
 }
 ```
-<!-- .element: class="footer" --> [Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
+[Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
+<!-- .element: class="footer" -->
 
 --s--
 ## Media-Query mit DPI
@@ -102,8 +103,8 @@ only screen and ( min-resolution: 75dpcm)
   /* Definitionen hier */
 }
 ```
-<!-- .element: class="footer" --> [Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
-
+[Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
+<!-- .element: class="footer" -->
 --s--
 
 ## Display Technologien
@@ -137,7 +138,8 @@ only screen and ( min-resolution: 75dpcm)
 
 ![](../KW25-screens/img/OLED_detail.jpg)
 
-<!-- .element: class="footer" --> Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
+Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
+<!-- .element: class="footer" -->
 
 
 --s--
@@ -377,14 +379,15 @@ Microsoft Arial Unicode – 24 Pixel Höhe (PPM) – MS-Renderer – Graustufe
 ![Ohne Subpixel-Rendering](./img/normal/W-enlargement-subpixel-no-antialias.png)
 
 
-<!-- .element: class="footer" --> Bildquelle: [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
-
+Bildquelle: [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
+<!-- .element: class="footer" -->
 --s--
 ## Subpixel-Rendering
 
 ![Mit Subpixel-Rendering](./img/normal/W-enlargement-subpixel-rendering.png)
 
-<!-- .element: class="footer" --> Bildquelle: [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
+Bildquelle: [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
+<!-- .element: class="footer" -->
 --s--
 ## Hochauflösende Darstellung & OLED
 
@@ -392,14 +395,14 @@ Microsoft Arial Unicode – 24 Pixel Höhe (PPM) – MS-Renderer – Graustufe
 ![](./img/iOS11_SanFranciscoProText17ptReg_IMG_5010@100x.png) <!-- .element: class="pic" -->
 
 
-<!-- .element: class="footer" --> iOS 11 San Francisco Pro Text Regular 17pt
+iOS 11 San Francisco Pro Text Regular 17pt <!-- .element: class="footer" -->
 --s--
 ## Hochauflösende Darstellung & OLED
 
 ![](./img/normal/iPhoneX_iOS11_SanFranciscoProText17ptReg_IMG_5010.jpg) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
-
+iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
+<!-- .element: class="footer" -->
 
 
 --s--

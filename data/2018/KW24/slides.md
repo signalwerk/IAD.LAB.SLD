@@ -97,7 +97,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 >> Durch den Gesetzentwurf soll sichergestellt werden, dass Presseverleger im Onlinebereich nicht schlechter gestellt sind als andere Werkvermittler. Um den Schutz von Presseerzeugnissen im Internet zu verbessern, soll ein Leistungsschutzrecht für Presseverleger eingeführt werden.
 
 
- <!-- .element: class="footer" --> Quelle: [Gesetzentwurf Deutscher Bundestag](http://dipbt.bundestag.de/dip21/btd/17/114/1711470.pdf)
+Quelle: [Gesetzentwurf Deutscher Bundestag](http://dipbt.bundestag.de/dip21/btd/17/114/1711470.pdf)
+<!-- .element: class="footer" -->
 --s--
 ## Wirkung
 
@@ -152,7 +153,8 @@ Die Betreiber von Plattformen können mit Rechtssicherheit rechnen, wenn bei Urh
 
 >> «Öffentliche Daten nützen, private Daten schützen.»
 
- <!-- .element: class="footer" --> Quelle: [CCC Hackerethik](https://www.ccc.de/hackerethics)
+Quelle: [CCC Hackerethik](https://www.ccc.de/hackerethics)
+<!-- .element: class="footer" -->
 --s--
 ## Wo?
 * Fokus oftmals auf öffentliche Verwaltung
@@ -160,7 +162,8 @@ Die Betreiber von Plattformen können mit Rechtssicherheit rechnen, wenn bei Urh
 * Opendata kann auch in der Privatwirtschaft eine Rolle spielen (Beispiel: [→ Mapbox](https://www.mapbox.com/))
 
 
-<!-- .element: class="footer" --> [→ GIS = Geographic information system](https://de.wikipedia.org/wiki/Geoinformationssystem)
+[→ GIS = Geographic information system](https://de.wikipedia.org/wiki/Geoinformationssystem)
+<!-- .element: class="footer" -->
 --s--
 ## Lizenzen
 * Puristen: ganz freie Lizenz ([→ CC0 – public domain](https://creativecommons.org/share-your-work/public-domain/cc0/))
@@ -336,7 +339,8 @@ html {
 Beim Aufbau von CSS-Formatierungen empfiehlt es sich vom kleinsten Screen aus zu gehen und die grösseren Screens als «Ausnahmen» zu sehen.
 
 
-<!-- .element: class="footer" --> [→ MDN Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+[→ MDN Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+<!-- .element: class="footer" -->
 --s--
 # Übung CSS
 --s--

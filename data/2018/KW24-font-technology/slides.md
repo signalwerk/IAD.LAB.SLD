@@ -126,7 +126,8 @@ B42 Bd. / Vol. 1 - fol. 102r <!-- .element: class="footer" -->
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8e/Cutting_a_punch_for_a_Qu_ligature.jpg)
 
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Punchcutting#/media/File:Cutting_a_punch_for_a_Qu_ligature.jpg)
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Punchcutting#/media/File:Cutting_a_punch_for_a_Qu_ligature.jpg)
+<!-- .element: class="footer" -->
 --s--
 
 ## Stempel schlagen
@@ -139,14 +140,15 @@ B42 Bd. / Vol. 1 - fol. 102r <!-- .element: class="footer" -->
 
 ![](./img/punch/dutchtypelibrary/Flamande_news_2.jpg) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Dutchtypelibrary](https://www.dutchtypelibrary.nl/index_desktop.html)
-
+Quelle: [Dutchtypelibrary](https://www.dutchtypelibrary.nl/index_desktop.html)
+<!-- .element: class="footer" -->
 --s--
 ## Matrizen schlagen
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/86/De_Vinne_1904_-_Punch_and_matrix.jpg) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Punchcutting#/media/File:De_Vinne_1904_-_Punch_and_matrix.jpg)
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Punchcutting#/media/File:De_Vinne_1904_-_Punch_and_matrix.jpg)
+<!-- .element: class="footer" -->
 --s--
 
 ## Handsatz

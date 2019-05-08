@@ -86,7 +86,8 @@ Verbreitete Standards für Unicode:
 * UTF-32 (nur verwenden, wenn UTF-8 nicht möglich)
 
 
- <!-- .element: class="footer" --> siehe auch [→ ASCII-Table](http://ascii-table.com/)
+siehe auch [→ ASCII-Table](http://ascii-table.com/)
+<!-- .element: class="footer" -->
 
 --s--
 ## HTML Encoding
@@ -103,7 +104,8 @@ Verbreitete Standards für Unicode:
   </body>
 </html>
 ```
- <!-- .element: class="footer" --> siehe auch [→ Verbreitung](https://googleblog.blogspot.com/2012/02/unicode-over-60-percent-of-web.html)
+siehe auch [→ Verbreitung](https://googleblog.blogspot.com/2012/02/unicode-over-60-percent-of-web.html)
+<!-- .element: class="footer" -->
 
 --s--
 ## Agenda
@@ -173,7 +175,8 @@ Verbreitete Standards für Unicode:
 * Gemeinsam ein Schriftmuster
 * Wie seine Schrift präsentieren
 
-<!-- .element: class="footer" --> [→ siehe Aufgabe](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/)
+[→ siehe Aufgabe](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/)
+<!-- .element: class="footer" -->
 --s--
 ## Anforderung
 
@@ -213,8 +216,8 @@ Hausaufgaben: 30 Stunden
 * Zitate als solche markeirt
 
 
- <!-- .element: class="footer" --> [→ siehe Aufgabe](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/)
-
+[→ siehe Aufgabe](https://signalwerk.github.io/IAD.LAB.DOC/exercise-webfont/)
+<!-- .element: class="footer" -->
 --s--
 ## Links
 
