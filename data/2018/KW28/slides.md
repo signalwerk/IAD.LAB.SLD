@@ -114,7 +114,7 @@ Verbreitete Standards für Unicode:
 --s--
 # CSS-Boxmodel
 
-* Beispiel
+* [→ Beispiel](https://codepen.io/anon/pen/MBaRbm)
 * [Weitere Edge-Cases](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 
 

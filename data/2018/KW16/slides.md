@@ -373,23 +373,6 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 * Text gemäss Vorlage setzen
 
 --s--
-## Praxisarbeit
-* 3 Gruppen
-* 1\. Gruppe → Übersicht
-* 2\. Gruppe → Detailansicht
-* 3\. Gruppe → Menü & Navigation
-
---s--
-# Augenmerk
-
-* Welche Information?
-  * Details in Inhalt
-  * Details in Struktur
-* Wie ist die Ordnung?
-  * Mehrere Ordungsprizipien
-* Was ist realisierbar?
-* Mobile/Desktop
---s--
 ## Hausarbeit
 * Fact-Check für Partner
 * Zwei Schriftmuster (HTML) abgeben – Streng & Frei

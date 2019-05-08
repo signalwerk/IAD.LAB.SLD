@@ -201,8 +201,3 @@ Upload Texte nach Review.
 ## Hausarbeit
 * 1000 Zeichen zu Designer/Foundry (nächstes mal Vorstellung)
 * Beispiel-Website(n) suchen mit eigener Schrift mit pro/con
-
---s--
-## Zeichensetzung · Praxisarbeit
-
-* [→ Webtypo Wiki](https://github.com/logrinto/webtypo/wiki)

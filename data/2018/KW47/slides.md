@@ -39,25 +39,5 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 --s--
 # Wie machen wir künftige Abgaben von Hausaufgaben?
 --s--
-## Git Probleme
-
-* SourceTree – Terminal – ...
-* Rechte
-* Handling
-
---s--
-## Git-Fähigkeit
-
-* Repo erstellen
-* Klonen auf lokalen Rechner
-* Änderungen commiten
-* Änderungen pushen
-* Einen Branch namens `gh-pages` erstellen
-* Dateien in `gh-pages` commiten und pushen
-
---s--
 ## Präsentationen
---s--
-## Neue Aufgabe
-* [Aufgabenbeschreibung](https://signalwerk.github.io/IAD.LAB.DOC/exercise-mobile-menu/)
 --s--

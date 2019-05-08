@@ -105,8 +105,3 @@ Ermöglicht diverse Zwischenschritte der Animation.
 
 --s--
 ## Cookie Clicker
-
-
-
-
-```
