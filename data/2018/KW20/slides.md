@@ -44,8 +44,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 * Speicherbegrenzung
 * Integrität und Vertraulichkeit
 
-<!-- .element: class="footer" --> Quelle: [→ infosec.ch](https://www.infosec.ch/downloads/referate/MSI20180122/MSI_20180122_02_Balthasar_00.pdf)
-
+Quelle: [→ infosec.ch](https://www.infosec.ch/downloads/referate/MSI20180122/MSI_20180122_02_Balthasar_00.pdf)
+<!-- .element: class="footer" -->
 
 --s--
 ## Sonstiges (nicht vollständig)
@@ -55,7 +55,8 @@ Stefan Huber, Zürich – 2018 <!-- .element: class="footer" -->
 * Recht auf Löschung (Art. 17, DSGVO)
 * Recht auf Datenübertragbarkeit (Art. 20, DSGVO)
 
-<!-- .element: class="footer" --> Quelle: [→ Datenschutzsbeauftragte](http://www.viscom.ch/upload/die_eu_dsgvo_und_ihre_auswirkungen_auf_die_schweiz_de_def_2633810.pdf)
+Quelle: [→ Datenschutzsbeauftragte](http://www.viscom.ch/upload/die_eu_dsgvo_und_ihre_auswirkungen_auf_die_schweiz_de_def_2633810.pdf)
+<!-- .element: class="footer" -->
 
 --s--
 

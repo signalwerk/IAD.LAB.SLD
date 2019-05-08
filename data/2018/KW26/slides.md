@@ -206,20 +206,8 @@ html {
 Beim Aufbau von CSS-Formatierungen empfiehlt es sich vom kleinsten Screen aus zu gehen und die grösseren Screens als «Ausnahmen» zu sehen.
 
 
-<!-- .element: class="footer" --> [→ MDN Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-
-
-
-
-
-
-
-
-
-
-
-
-
+[→ MDN Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+<!-- .element: class="footer" -->
 
 
 

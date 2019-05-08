@@ -88,9 +88,9 @@ Testbetrieb in einigen St. Galler Gemeinden <br>(zusammen mit Genf).
 * Korrektheit
 * Nachvollziehbarkeit
 
-<!-- .element: class="footer" --> [Stellungnahme: Verein Coredump
+[Stellungnahme: Verein Coredump
 ](https://www.coredump.ch/stellungnahme-e-voting-pilot-in-der-gemeinde-rapperswil-jona/)
-
+<!-- .element: class="footer" -->
 --s--
 ## Agenda
 * ~~6\. April 2018 HeK~~
@@ -133,7 +133,8 @@ Testbetrieb in einigen St. Galler Gemeinden <br>(zusammen mit Genf).
   * [→ keine konkreten Daten](https://docs.google.com/spreadsheets/d/1Jqfkhyp_sn_OGEMgknTVqcSZDiEUNrg8o9wfjz_g01k/edit#gid=0)
   * Themen in Gruppen zusammenfassen (Unicode Icons?)
 
-<!-- .element: class="footer" --> [→ Beispiel](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Jqfkhyp_sn_OGEMgknTVqcSZDiEUNrg8o9wfjz_g01k&font=Default&lang=en&initial_zoom=2&height=550)
+[→ Beispiel](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Jqfkhyp_sn_OGEMgknTVqcSZDiEUNrg8o9wfjz_g01k&font=Default&lang=en&initial_zoom=2&height=550)
+<!-- .element: class="footer" -->
 --s--
 ## Fonts · Eigenschaften & Verwendung
 --s--
@@ -234,8 +235,8 @@ p {
 * Schrift ist bei Host installiert
 * Fallbacks um mehrere mögliche Schriften ab zu decken
 
-<!-- .element: class="footer" --> [→ sfgz.ch](http://sfgz.ch/)
-
+[→ sfgz.ch](http://sfgz.ch/)
+<!-- .element: class="footer" -->
 --s--
 ## Fonts mitsenden (Webfonts)
 * mit Internet Explorer seit 1997 möglich
@@ -282,8 +283,8 @@ p {
 }
 ```
 
-<!-- .element: class="footer" --> [→ Webfont konvertieren](http://www.fontsquirrel.com/tools/webfont-generator)
-
+[→ Webfont konvertieren](http://www.fontsquirrel.com/tools/webfont-generator)
+<!-- .element: class="footer" -->
 
 --s--
 ## Fonts vom CDN

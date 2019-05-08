@@ -215,14 +215,15 @@ html {
 ### 100 % ÷ 1 × 1.414 = 141.4 %
 # `h3` = 1 rem
 
-<!-- .element: class="footer" --> Rechner: [Geometrisches Mittel](https://www.hackmath.net/en/calculator/geometric-mean)
-
+Rechner: [Geometrisches Mittel](https://www.hackmath.net/en/calculator/geometric-mean)
+<!-- .element: class="footer" -->
 --s--
 ## Titelabstufung
 
 ![Interpolation Theory](https://www.lucasfonts.com/fileadmin/user_upload/about/interpolation-theory/extra-Interpol.gif)
 
-<!-- .element: class="footer" --> Quelle: [Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory/)
+Quelle: [Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory/)
+<!-- .element: class="footer" -->
 --s--
 ## CSS-Preprocessor
 

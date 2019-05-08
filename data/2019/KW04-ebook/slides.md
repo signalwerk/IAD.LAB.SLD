@@ -93,8 +93,8 @@ Marshall McLuhan
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/Fortbewegung_um_1800.svg)
 
-<!-- .element: class="footer" --> Quelle: [wikimedia.org](https://commons.wikimedia.org/wiki/File:Fortbewegung_um_1800.svg)
-
+Quelle: [wikimedia.org](https://commons.wikimedia.org/wiki/File:Fortbewegung_um_1800.svg)
+<!-- .element: class="footer" -->
 
 --s--
 ## Information reist schneller als ein Medium
@@ -112,8 +112,8 @@ Informationsübertragung nach London in km/h <!-- .element: class="small" -->
 
 
 
-<!-- .element: class="footer" --> Börsentelegrafen, Thomas Edison, 1869
-
+Börsentelegrafen, Thomas Edison, 1869
+<!-- .element: class="footer" -->
 
 --s--
 
@@ -122,7 +122,8 @@ Informationsübertragung nach London in km/h <!-- .element: class="small" -->
 
 ![](../../media/data/device/reader-microfilm/1935-ebook-sm.jpg) <!-- .element: style="width: 60%;" -->
 
-<!-- .element: class="footer" -->  Quelle: [Everyday Science and Mechanics, April 1935](http://www.smithsonianmag.com/history/the-ipad-of-1935-115653218/)
+Quelle: [Everyday Science and Mechanics, April 1935](http://www.smithsonianmag.com/history/the-ipad-of-1935-115653218/)
+<!-- .element: class="footer" -->
 
 --s--
 
@@ -133,9 +134,9 @@ Informationsübertragung nach London in km/h <!-- .element: class="small" -->
 
 
 
-<!-- .element: class="footer" --> Quelle: [«As We May Think», Vannevar Bush, 1945, «The Atlantic Monthly»](http://www.computerhistory.org/revolution/the-web/20/370/2111?position=0)
+Quelle: [«As We May Think», Vannevar Bush, 1945, «The Atlantic Monthly»](http://www.computerhistory.org/revolution/the-web/20/370/2111?position=0)
 
-
+<!-- .element: class="footer" -->
 
 --s--
 
@@ -171,8 +172,8 @@ Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="smal
 
 ![](../../media/data/not_ordered/mac/fonts/Original_Mac_fonts.png)
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare#/media/File:Original_Mac_fonts.png)
-
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare#/media/File:Original_Mac_fonts.png)
+<!-- .element: class="footer" -->
 --s--
 ## MacOS 7 – TrueType · 1991
 ![](../../media/data/not_ordered/mac/apple/3065804-inline-i-2-how-apple-helped-democratize-type.png)
@@ -226,7 +227,8 @@ Fonts von Susan Kare für Apple Macintosh entwickelt. <!-- .element: class="smal
 
 
 
-<!-- .element: class="footer" --> Quelle: [The World Bank Group](http://data.worldbank.org/indicator/SP.POP.TOTL) & [asymco.com](http://www.asymco.com/2014/01/03/on-the-future-of-the-internet-and-everything/)
+Quelle: [The World Bank Group](http://data.worldbank.org/indicator/SP.POP.TOTL) & [asymco.com](http://www.asymco.com/2014/01/03/on-the-future-of-the-internet-and-everything/)
+<!-- .element: class="footer" -->
 --s--
 ## Mobiles Internet
 #### Schweiz – Internetnutzung nach Gerätetypen in %
@@ -598,14 +600,15 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 ### 100 % ÷ 1 × 1.414 = 141.4 %
 # `h3` = 1 rem
 
-<!-- .element: class="footer" --> Rechner: [Geometrisches Mittel](https://www.hackmath.net/en/calculator/geometric-mean)
-
+Rechner: [Geometrisches Mittel](https://www.hackmath.net/en/calculator/geometric-mean)
+<!-- .element: class="footer" -->
 --s--
 ## Titelabstufung
 
 ![Interpolation Theory](https://www.lucasfonts.com/fileadmin/user_upload/about/interpolation-theory/extra-Interpol.gif)
 
-<!-- .element: class="footer" --> Quelle: [Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory/)
+Quelle: [Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory/)
+<!-- .element: class="footer" -->
 --s--
 
 
