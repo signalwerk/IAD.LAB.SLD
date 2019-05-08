@@ -113,38 +113,35 @@ gulp.task(
 
     gulp.watch(imagePath).on(
       "change",
-      gulp.parallel(function(file) {
+      gulp.parallel(function(path, stats) {
         gulp
-          .src(file.path, { base: "." })
+          .src(path, { base: "." })
           .pipe(gulp.dest(output))
           .pipe(connect.reload());
       })
     );
 
-    gulp
-      .watch(["./data/*/*/*.md"])
-      .on(
-        "change",
-        gulp.parallel(function(file) {
-          gulp
-            .src(file.path, { base: "." })
-            .pipe(gulp.dest(output))
-            .pipe(connect.reload());
-        })
-      )
-      .on(
-        "change",
-        gulp.parallel(function(file) {
-          // Workaround to keep original folder structure
-          var currentDirectory = path.dirname(file.path);
-          var relativePath = path.relative(process.cwd(), currentDirectory);
+    var md = gulp.watch(["./data/*/*/*.md"]);
 
-          gulp
-            .src("./src/slides/index.html")
-            .pipe(gulp.dest(output + "/" + relativePath))
-            .pipe(connect.reload());
-        })
-      );
+    md.on("change", function(path, stats) {
+      console.log("File " + path + " was changed");
+
+      gulp
+        .src(path, { base: "." })
+        .pipe(gulp.dest(output))
+        .pipe(connect.reload());
+    });
+
+    md.on("change", function(_path, stats) {
+      // Workaround to keep original folder structure
+      var currentDirectory = path.dirname(_path);
+      var relativePath = path.relative(process.cwd(), currentDirectory);
+
+      gulp
+        .src("./src/slides/index.html")
+        .pipe(gulp.dest(output + "/" + relativePath))
+        .pipe(connect.reload());
+    });
     done();
   })
 );
