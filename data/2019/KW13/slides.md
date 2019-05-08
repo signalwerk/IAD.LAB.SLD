@@ -284,8 +284,8 @@ Jean a dit : « C'est la ‹ morale du film › »
 
 ![Zeitzonen](https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/File:World_Time_Zones_Map.png)
-
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/File:World_Time_Zones_Map.png)
+<!-- .element: class="footer" -->
 --s--
 ## Übung
 
@@ -310,8 +310,8 @@ Jean a dit : « C'est la ‹ morale du film › »
 
 ![Nullmeridian](https://upload.wikimedia.org/wikipedia/commons/e/e2/Breitenkreis-und-Nullmeridian.png)
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Nullmeridian)
-
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Nullmeridian)
+<!-- .element: class="footer" -->
 --s--
 
 ## CET – Central European Time
@@ -323,8 +323,8 @@ Jean a dit : « C'est la ‹ morale du film › »
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/71/Time_zones_of_Europe.svg) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Mitteleurop%C3%A4ische_Zeit)
-
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Mitteleurop%C3%A4ische_Zeit)
+<!-- .element: class="footer" -->
 --s--
 
 ## Zeitzonen der USA
@@ -340,7 +340,8 @@ Jean a dit : « C'est la ‹ morale du film › »
 ![](https://upload.wikimedia.org/wikipedia/commons/3/32/US-Timezones-post-2007.png) <!-- .element: class="pic" -->
 
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/File:US-Timezones-post-2007.png)
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/File:US-Timezones-post-2007.png)
+<!-- .element: class="footer" -->
 --s--
 
 ## Computer & Zeitzonen
@@ -356,8 +357,8 @@ Jean a dit : « C'est la ‹ morale du film › »
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/DST_Countries_Map.png) <!-- .element: class="pic" -->
 
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Daylight_saving_time)
-
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Daylight_saving_time)
+<!-- .element: class="footer" -->
 --s--
 
 ## Übung
@@ -366,7 +367,7 @@ Jean a dit : « C'est la ‹ morale du film › »
 * Macht eine Kalenderansicht eines Tages
 * Darin eingetragen einen Termin
 * Start: 27.10.2019 – 3:00 Uhr (Zürich)
-* End: 27.10.2019 – 3:01 Uhr (Zürich) 
+* End: 27.10.2019 – 3:01 Uhr (Zürich)
 * Gruppenarbeit 4 Gruppen
   * Nur jemand spricht
   * Alle sollen/dürfen/müssen sprechen
@@ -420,8 +421,8 @@ Kann sich noch jemand erinnern?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Year_2038_problem.gif)
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Jahr-2038-Problem)
-
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Jahr-2038-Problem)
+<!-- .element: class="footer" -->
 --s--
 
 
@@ -499,16 +500,16 @@ Kann sich noch jemand erinnern?
 ![Mercator-Projektionen](https://upload.wikimedia.org/wikipedia/commons/f/fa/Mercator-proj.png) <!-- .element: class="pic" -->
 
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Mercator-Projektion#/media/File:Mercator-proj.png)
-
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Mercator-Projektion#/media/File:Mercator-proj.png)
+<!-- .element: class="footer" -->
 --s--
 ## Mercator-Projektion – Verzerrung
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Worlds_animate.gif) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Mercator_projection#/media/File:Worlds_animate.gif)
-
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Mercator_projection#/media/File:Worlds_animate.gif)
+<!-- .element: class="footer" -->
 --s--
 
 ## Alternativen

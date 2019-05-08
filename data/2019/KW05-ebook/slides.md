@@ -35,7 +35,8 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 * Amazone in den USA ~80 % Marktanteil von eBooks
 * Was geschieht im Edu-Bereich? <br/>(~ 5 – 8 % vom Schweizer Markt)
 
- <!-- .element: class="footer" --> Quelle: [sbvv](https://www.sbvv.ch/userfiles/file/Marktreport/Marktreport_2017_Buchhandel_DS_final2.pdf) · [publishdrive](https://publishdrive.com/amazon-ebook-market-share/)
+Quelle: [sbvv](https://www.sbvv.ch/userfiles/file/Marktreport/Marktreport_2017_Buchhandel_DS_final2.pdf) · [publishdrive](https://publishdrive.com/amazon-ebook-market-share/)
+<!-- .element: class="footer" -->
 
 --s--
 
@@ -288,8 +289,8 @@ Höhe oder Breite des Bildes in Pixel <br>÷<br> Höhe oder Breite in Ausgabe (i
 
 ![](../../2018/KW25-screens/img/OLED_detail.jpg)
 
-<!-- .element: class="footer" --> Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
-
+Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
+<!-- .element: class="footer" -->
 
 --s--
 ## Bildwiederholrate

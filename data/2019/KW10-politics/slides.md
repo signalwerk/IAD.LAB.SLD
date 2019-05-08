@@ -239,7 +239,8 @@ Ein Block gilt dann als abgeschlossen, wenn jedes Zeichen der ersten x-Zeichen v
 * Reward nimmt ab
 * Transaction-Fee möglich
 
-<!-- .element: class="footer" --> Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
+Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
+<!-- .element: class="footer" -->
 
 --s--
 ## Bedeutung global
@@ -248,7 +249,8 @@ Ein Block gilt dann als abgeschlossen, wenn jedes Zeichen der ersten x-Zeichen v
 * Gewisse Regierungen wehren sich
 * Initial Coin Offering (ICO)
 
-<!-- .element: class="footer" --> Quelle: [MME Legal](https://www.mme.ch/de/magazin/wie_muessen_bitcoins_deklariert_werden/)
+Quelle: [MME Legal](https://www.mme.ch/de/magazin/wie_muessen_bitcoins_deklariert_werden/)
+<!-- .element: class="footer" -->
 --s--
 ## Bedeutung Schweiz
 * Crypto-Valley → Zug

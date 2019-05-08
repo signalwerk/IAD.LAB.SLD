@@ -122,7 +122,8 @@ Bei der «Internationalisierung» geht es darum **ein System oder Produkt so zu 
 
 ![](./img/text/skyscanner.png) <!-- .element: class="pic" -->
 
-<!-- .element: class="footer" --> Quelle: [skyscanner](https://www.skyscanner.ch)
+Quelle: [skyscanner](https://www.skyscanner.ch)
+<!-- .element: class="footer" -->
 --s--
 
 ## Text – Individualisierung
@@ -380,7 +381,8 @@ Hebräisch ist eine häufig verwendete rtl Sprache (Wortbedeutung: Hebräisch)
 
 ![](./img/text/titel-small.png)
 
-<!-- .element: class="footer" --> Beispiel der [Wiener Staatsoper](https://www.wiener-staatsoper.at/)
+Beispiel der [Wiener Staatsoper](https://www.wiener-staatsoper.at/)
+<!-- .element: class="footer" -->
 --s--
 ## Was noch Fehlt
 

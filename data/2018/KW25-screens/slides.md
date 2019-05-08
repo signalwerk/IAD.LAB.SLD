@@ -217,8 +217,9 @@ only screen and ( min-resolution: 2dppx)
   /* Definitionen hier */
 }
 ```
-<!-- .element: class="footer" --> [Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
 
+[Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
+<!-- .element: class="footer" -->
 --s--
 ## Media-Query mit DPI
 
@@ -230,7 +231,8 @@ only screen and ( min-resolution: 75dpcm)
   /* Definitionen hier */
 }
 ```
-<!-- .element: class="footer" --> [Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
+[Support-Matrix für Browser](https://caniuse.com/#feat=css-media-resolution)
+<!-- .element: class="footer" -->
 --s--
 ## Demo
 
@@ -269,15 +271,16 @@ only screen and ( min-resolution: 75dpcm)
 
 ![](./img/OLED_detail.jpg)
 
-<!-- .element: class="footer" --> Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
-
+Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
+<!-- .element: class="footer" -->
 
 --s--
 #### OLED
 
 ![](./img/OLED.png)
 
-<!-- .element: class="footer" --> Bildquelle: [Gamezone/LG](https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx)
+Bildquelle: [Gamezone/LG](https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx)
+<!-- .element: class="footer" -->
 
 
 --s--

@@ -236,7 +236,7 @@ p {
 * Fallbacks um mehrere mögliche Schriften ab zu decken
 
 [→ sfgz.ch](http://sfgz.ch/)
-<!-- .element: class="footer" --> 
+<!-- .element: class="footer" -->
 --s--
 ## Fonts mitsenden (Webfonts)
 * mit Internet Explorer seit 1997 möglich
@@ -283,8 +283,8 @@ p {
 }
 ```
 
-<!-- .element: class="footer" --> [→ Webfont konvertieren](http://www.fontsquirrel.com/tools/webfont-generator)
-
+[→ Webfont konvertieren](http://www.fontsquirrel.com/tools/webfont-generator)
+<!-- .element: class="footer" -->
 
 --s--
 ## Fonts vom CDN

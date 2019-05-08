@@ -53,8 +53,8 @@ Digital meint eine (mit den Fingern) abzählbare Einordnung von Dingen.
 * Beide Links an Stefan & Ulrike
 
 
-<!-- .element: class="footer" --> [→ «Ämtli-Liste»](https://github.com/logrinto/IAD2017/wiki/Studenten)
-
+[→ «Ämtli-Liste»](https://github.com/logrinto/IAD2017/wiki/Studenten)
+<!-- .element: class="footer" -->
 --s--
 ## News
 * [→ Facebook – Cambride Analytica Datenleak](https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/)
@@ -66,7 +66,8 @@ Digital meint eine (mit den Fingern) abzählbare Einordnung von Dingen.
 
 Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – Verlag Herder – 2018 <!-- .element: class="small" -->
 
-<!-- .element: class="footer" -->  [→ Augsburger Allgemeine ](https://www.augsburger-allgemeine.de/politik/Exklusiv-Hier-schreibt-heute-Papst-Franziskus-fuer-Sie-id50677546.html)
+[→ Augsburger Allgemeine ](https://www.augsburger-allgemeine.de/politik/Exklusiv-Hier-schreibt-heute-Papst-Franziskus-fuer-Sie-id50677546.html)
+<!-- .element: class="footer" -->
 --s--
 ## Agenda
 
@@ -150,9 +151,8 @@ Papst Franziskus <br> «Gott ist jung. Ein Gespräch mit Thomas Leoncini.» – 
 * [→ Icon-Fonts](http://fontello.com/) erstellen
 * HTML erstellen und beide Schriften anwenden
 
-<!-- .element: class="footer" --> [→ Doku](https://signalwerk.github.io/IAD.LAB.DOC/font-use/)
-
-
+[→ Doku](https://signalwerk.github.io/IAD.LAB.DOC/font-use/)
+<!-- .element: class="footer" -->
 
 --s--
 # Entwerfen · Tools
