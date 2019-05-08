@@ -93,7 +93,10 @@ In der Informatik wird als «Separation of Concerns» (~ Trennung der Verantwort
 * Text
 * Eingabeformular
 
-<!-- .element: class="footer" -->  [→ Tweet Michele Bertoli](https://twitter.com/MicheleBertoli/status/868078729662279680)
+
+[→ Tweet Michele Bertoli](https://twitter.com/MicheleBertoli/status/868078729662279680)
+<!-- .element: class="footer" -->
+
 --s--
 ## Agenda
 
@@ -164,7 +167,8 @@ p {
 * Beide Links an Stefan & Ulrike
 
 
-<!-- .element: class="footer" --> [→ «Ämtli-Liste»](https://github.com/logrinto/IAD2017/wiki/Studenten)
+[→ «Ämtli-Liste»](https://github.com/logrinto/IAD2017/wiki/Studenten)
+<!-- .element: class="footer" --> 
 --s--
 ## Qualität?
 

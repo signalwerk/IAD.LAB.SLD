@@ -89,7 +89,8 @@ Phil Karlton/Leon Bambrick
 * Andere (other)
 
 
-<!-- .element: class="footer" --> [→ Wikipedia – File system permissions](https://en.wikipedia.org/wiki/File_system_permissions#Numeric_notation)
+[→ Wikipedia – File system permissions](https://en.wikipedia.org/wiki/File_system_permissions#Numeric_notation)
+<!-- .element: class="footer" -->
 --s--
 ## Unix-Rechte
 
@@ -171,7 +172,8 @@ Phil Karlton/Leon Bambrick
 * [→ DNS A-Record erstellen](https://help.github.com/articles/setting-up-an-apex-domain/)
 
 
-<!-- .element: class="footer" --> [→ Wikipedia – List of DNS record types](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
+[→ Wikipedia – List of DNS record types](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
+<!-- .element: class="footer" -->
 --s--
 ## Hoster
 
