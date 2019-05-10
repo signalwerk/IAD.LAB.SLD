@@ -18,6 +18,7 @@ World Web forum?
 – ~ April https://www.polymesse.ch/
 – ~ Mai http://uxcamp.ch/
 – ~ Mai «re:publica»
+– ~ Mai videoex
 – ~ Juni https://ampersandconf.com/
 – ~ Juni ZHdK Diplomausstellung
 – ~ September [→ Maker Faire Zürich](https://www.makerfairezurich.ch/de/)
