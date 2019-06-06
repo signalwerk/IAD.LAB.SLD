@@ -27,8 +27,6 @@ Alex R. Jenter, Zürich – 2019 <!-- .element: class="footer" -->
 # Rückschau
 
 --s--
-
-
 ## Chat-Präsentieren
 
 * Jede Gruppe/Person zeigt Entwurf
