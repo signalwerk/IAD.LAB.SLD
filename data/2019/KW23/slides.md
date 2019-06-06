@@ -22,9 +22,7 @@ Alex R. Jenter, Zürich – 2019 <!-- .element: class="footer" -->
 * siehe [Status online/offline](https://github.com/logrinto/IAD2017.chat/issues/6)
 * siehe [Markierung von eigener Person](https://github.com/logrinto/IAD2017.chat/issues/12)
 * Pull von `master`
---s--
 
-# Rückschau
 
 --s--
 ## Chat-Präsentieren
