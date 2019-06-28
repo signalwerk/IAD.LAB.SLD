@@ -17,6 +17,7 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 # Organisation
 
 * Krankheit
+* [Case Study](https://logrinto.ch/posts/case-study-interface-the-kitchen/)
 --s--
 # Blog
 * Heute – Blog aufbereiten – Schwierigkeiten ausmachen
@@ -191,7 +192,7 @@ body {
 ## Website Logrinto
 
 * [Repository](https://github.com/logrinto/website)
-* Installieren
+* Installieren (Achtung! node < 12)
 * Starten
-* Blog in `/src/pages/articles` gemäss <br />`2017-10-26---Test`
+* Blog in `/src/pages/articles` gemäss <br />`2022-12-31---Test`
 * [Zusammenfassung einbauen](https://hackmd.io/bxGr1STTTlmpe-r_Q5UhEw?view)
