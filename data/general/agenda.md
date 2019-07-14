@@ -22,7 +22,13 @@ World Web forum?
 – ~ Juni https://ampersandconf.com/
 – ~ Juni ZHdK Diplomausstellung
 – ~ September [→ Maker Faire Zürich](https://www.makerfairezurich.ch/de/)
-– ~ September https://vrdays.ch/
 – ~ Oktober ZHdK Digitaltag
 – ~ November Swiss Interactive Media Design Day
 – 8.–10.11.2019 | Typo St.Gallen
+
+
+
+
+2020
+======
+– ~ September https://vrdays.ch/
