@@ -1,12 +1,4 @@
 
-# sound-test!
-# hdmi-adapter – iPhone
-# Karten – Oblique Strategies
-# Papier (technik)
-
-
-
---s--
 # Projektwoche
 ### HF VG17A
 
@@ -26,14 +18,6 @@
 ## Aufgabestellung
 
 # Bitte lesen. <br>Die Aufgabestellung ist verbindlich.
---s--
-## Aufgabestellung · Interaktion
-
-* Interaktiver Screen
-* Eingangsbereich
-* Mehrwert gegenüber der Signaletik
-* Interaktion und Aktualisierbarkeit nutzen
-* verschiedene Schichten der Informationserschliessung
 
 --s--
 ## Aufgabestellung · Signaletik
@@ -44,6 +28,14 @@
 * Richtungsweisung Funktionen/Service
 * Identifikation Funktionen
 * Identifikation Verbote/Gebote
+--s--
+## Aufgabestellung · Interaktion
+
+* Interaktiver Screen
+* Eingangsbereich
+* Mehrwert gegenüber der Signaletik
+* Interaktion und Aktualisierbarkeit nutzen
+* verschiedene Schichten der Informationserschliessung
 
 --s--
 ## Praxis-Übung
@@ -194,6 +186,10 @@ Die Studierenden stellen in je 90 Sekunden Ihr Konzept der Klasse vor.
 --s--
 <video controls >
   <source src="./img/video/map-apple.mp4" type="video/mp4" />
+</video>
+--s--
+<video controls loop>
+  <source src="./img/video/glatt.mp4" type="video/mp4" />
 </video>
 --s--
 ### Interaktion
