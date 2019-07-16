@@ -211,7 +211,83 @@ Die Studierenden stellen in je 90 Sekunden Ihr Konzept der Klasse vor.
   <source src="./img/video/IMG_1610.mp4" type="video/mp4" />
 </video>
 
-
 --s--
 ## Yeah!
 > Es gibt auf jeden Fall viele Chancen!
+
+--s--
+
+# Projektwoche
+### Interaktion und Informationstiefe
+--s--
+## Mittwoch
+* **12:45 – 13:15** · Interaktion und Informationstiefe
+* **13:15 – 14:45** · Besprechung mit jeder Person einzeln
+* **14:45 – 15:45** · Besprechungen nach Bedarf/Wunsch
+* **15:45 – 16:15** · Daily
+--s--
+## Interaktion und Informationstiefe
+--s--
+## Low-/High-fidelity prototyping
+
+
+* [→ Weitere Infos](https://www.invisionapp.com/inside-design/low-fi-vs-hi-fi-prototyping/)
+* Interaktion und Struktur soll immer sichtbar sein
+* Ablauf und Entwicklung der Interaktion → LoFi
+* Design → HiFi
+
+--s--
+## Low-fidelity prototyping
+
+![](./img/lofi-highfi/lofi.png) <!-- .element: class="pic border" -->
+--s--
+## High-fidelity prototyping
+
+![](./img/lofi-highfi/hifi.png) <!-- .element: class="pic border" -->
+--s--
+## Beispiele · Informationstiefe
+* [Anreicherung](https://abstimmungen.tagesanzeiger.ch/2019-05-19)
+* [Links & Tiefe](https://goingdigital.oecd.org/en/)
+
+--s--
+## Beispiele · Die Geschichte
+* [2012 · Info & Story](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)
+* [2014 · Info & Story](https://storytelling.nzz.ch/2014/iouri-in-sotschi/)
+* [2018 · Info & Story](https://www.srf.ch/static/srf-data/data/2018/federer/#/en)
+--s--
+## Beispiele · Zeitliche Ordnung
+
+* [Timeline · zeitliche Positionierung](http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/)
+* [Timeline · Ordnung nach Entstehung](https://twitter.com/bglaettli)
+* [→ Weitere Infos](https://signalwerk.github.io/webdesign.IAD/navigation/)
+
+--s--
+## Information
+
+* Tagesablauf
+* Statische Infos (Häuser/Gehege/Service)
+* Anreichernde Infos (Wetter)
+
+--s--
+## «Absprung» vom Screen zum Mobile
+
+* QR-Code
+* (Google-)Maps
+* App
+* ...
+
+--s--
+## Besprechung
+* Besprechung mit jeder Person/Gruppe einzeln
+* Kommt mit offener Datei vom Ist-Stand
+--s--
+## Besprechungen
+* Besprechungen nach Bedarf/Wunsch
+* Ich möchte bis Donnerstagabend jede Person mindestens 2× gesprochen haben
+--s--
+## 15:45 · Daily
+* Daily
+  * Was habe ich getan?
+  * Was werde ich noch tun?
+* Standup
+--s--
