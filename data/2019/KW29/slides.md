@@ -277,17 +277,54 @@ Die Studierenden stellen in je 90 Sekunden Ihr Konzept der Klasse vor.
 * ...
 
 --s--
-## Besprechung
+## Erste Besprechung
 * Besprechung mit jeder Person/Gruppe einzeln
 * Kommt mit offener Datei vom Ist-Stand
+
 --s--
-## Besprechungen
-* Besprechungen nach Bedarf/Wunsch
-* Ich möchte bis Donnerstagabend jede Person mindestens 2× gesprochen haben
+# Donnerstag
+
 --s--
-## 15:45 · Daily
+## 8:15 · Daily
 * Daily
   * Was habe ich getan?
   * Was werde ich noch tun?
 * Standup
 --s--
+## Besprechungen
+* Besprechungen nach Bedarf/Wunsch
+* Ich möchte bis Donnerstagabend jede Person mindestens 2× gesprochen haben
+--s--
+## Organisation
+* bis 16:15 in Zimmer
+* ab 16:15 in Kantine
+* bis 20:00 in Kantine
+--s--
+# Freitag
+--s--
+## Präsentationen
+
+--s--
+## Freitag
+* **08:15 – 11:45** · Freies Arbeiten ohne Lehrpersonen
+
+* **13:00 – 16:00** · Präsentation vor Klasse
+* **16:00 – 16:15** · Rückschau
+--s--
+## Präsentation
+
+* **7 min** · Präsentation → Akzeptanzkriterien
+* **1 min** · Review
+* **7 min** · Feedback & Einrichten
+
+--s--
+## Präsentation
+* Unterschiedliche Ausgangslagen · Unterschiedliche Präsentationen
+* Abgabe auf Server
+
+--s--
+## Rückschau
+--s--
+## Rückschau
+
+# [bit.ly/sfgz-zoo](https://umfragen.sfgz.ch/kurs/639249)
