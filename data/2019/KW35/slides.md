@@ -586,6 +586,9 @@ Semantisch muss zwischen Listen-Eintrag und Liste unterschieden werden.
 * Sonstige Dienste (Wiki, Issues, ...) dazu
 --s--
 ## Neues Repo erstellen
+
+* Neues file unter `/docs/index.html`
+
 --s--
 ## Installation
 # Atom (Text-Editor)
