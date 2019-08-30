@@ -579,6 +579,17 @@ Semantisch muss zwischen Listen-Eintrag und Liste unterschieden werden.
 ```
 --s--
 # Go online!
+--s--
+# Repository
+* Eine Zusammenstellung an Dateien
+* Versionsverwaltung als Ziel
+* Sonstige Dienste (Wiki, Issues, ...) dazu
+--s--
+## Neues Repo erstellen
+--s--
+## Installation
+# Atom (Text-Editor)
+* [Download](https://atom.io/)
 
 --s--
 ## Lohnumfrage
