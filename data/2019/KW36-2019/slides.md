@@ -20,7 +20,7 @@ Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
 # Organisation
 * [Case Study – Interface](https://logrinto.github.io/IAD2019.timetable/#KW37-2019)
   * Schulzimmer per Slack
-  * Zusemmen mit IAD2017
+  * Zusammen mit IAD2017
 
 --s--
 ## Dropbox/Google-Drive
