@@ -33,8 +33,6 @@ Christof Täschler & Stefan Huber, Zürich – 2019 <!-- .element: class="footer
 * für breite Bevölkerung nutzbar
 * Individualisierung möglich
 
-((Fiktive Aufgabe))
-
 ## [Aufgabestellung](https://github.com/logrinto/IAD2017-2019.self-service) vor Übung lesen!
 
 --s--
