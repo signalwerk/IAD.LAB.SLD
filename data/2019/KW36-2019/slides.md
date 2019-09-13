@@ -1,6 +1,6 @@
 ### HF Interactiondesign
 
-# HTML & CSS 1×1
+# HTML & CSS 1 × 1
 
 Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
 --s--
