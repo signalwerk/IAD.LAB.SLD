@@ -286,16 +286,13 @@ HTTP = Hypertext Transfer Protocol  <!-- .element: class="footer" -->
 ## Kommunikation hat sich verschoben
 Briefpost in den USA seit 2001 rückläufig  <!-- .element: class="small" -->
 
+![](https://signalwerk.github.io/IAD.Chart/charts/letters_usa.svg) <!-- .element: class="pic" -->
 
-((chart))
 
 [First-Class Mail Volume Since 1926](http://about.usps.com/who-we-are/postal-history/first-class-mail-since-1926.htm)
 </div> <!-- .element: class="footer" -->
 
 
-
---s--
-## Aufgabe
 
 --s--
 ## Rückschau
