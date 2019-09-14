@@ -295,9 +295,6 @@ Briefpost in den USA seit 2001 rückläufig  <!-- .element: class="small" -->
 
 
 --s--
-## Aufgabe
-
---s--
 ## Rückschau
 
 * GIT-Client
