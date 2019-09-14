@@ -351,12 +351,32 @@ Datei `main.css` im Ordner `styles` erstellen.
     <link rel="stylesheet" type="text/css" href="./styles/main.css">
   </head>
 ```
+--s--
 
+## Aufbau CSS
+
+
+### Aufbau je Regel
+```css
+selektor {
+  property: value;
+}
+```
+### Beispiel
+```css
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+```
 --s--
 ## Selektoren
 * Tag
 * Klasse (class)
 * ID (id)
+
 --s--
 ## Tag-Selektoren
 
@@ -396,11 +416,28 @@ p {
 ```
 
 ### CSS
-```
+```css
 #text {
   color: green;
 }
 ```
+--s--
+## Property & Value
+
+
+
+### Aufbau je Property
+```css
+  property: value;
+```
+### Beispiel
+```css
+p {
+  color: red;
+  font-size: 20px;
+}
+```
+
 
 --s--
 ## Cascading Style Sheets (CSS)
@@ -426,8 +463,6 @@ Definitionen können sich ergänzen!
 }
 ```
 
-
-
 --s--
 ## Tags zum Strukturieren
 * `div` um Blöcke zu bilden
@@ -445,12 +480,8 @@ Definitionen können sich ergänzen!
 
 ### CSS
 ```
-.blau {
-  color: blue;
-}
-.green {
-  color: green;
-}
+.blau { color: blue; }
+.green { color: green; }
 .big { font-size: 4em; }
 
 ```
@@ -486,5 +517,5 @@ html {
 
 --s--
 ## Hausaufgabe
-* Text erstellen & in HTML abfüllen
-* Präsentation
+* Text erstellen & in HTML abfüllen (work in Progress)
+* Präsentation von Konzept/Aufbau

@@ -1,6 +1,6 @@
 
 ### HF Interactiondesign
-# Internet 1×1
+# Internet 1 × 1
 
 
 
@@ -67,7 +67,7 @@ oder gar
 ## Beispiel
 {Titel}(Text)  
 --s--
-## HTML 1×1
+## HTML 1 × 1
 --s--
 ## Wenige Regeln
 * Inhalt steht zwischen zwei Tags (`<p>`Inhalt`</p>`)
@@ -130,15 +130,15 @@ oder gar
 ## Übersicht – Nachmittag
 
 * **12:45**
-  * Internet · 1×1
-  * HTML · 1×1 («Experimentelles Erzählen»)
+  * Internet · 1 × 1
+  * HTML · 1 × 1 («Experimentelles Erzählen»)
     * CSS
     * Git-Client · Installation
     * Pull Requests
   * DNS · Domains
 * **16:15** · Ende
 --s--
-# Internet · 1×1
+# Internet · 1 × 1
 * Informationsausbreitung
 * Entwicklung vom «modernen» Internet
 --s--
@@ -360,7 +360,7 @@ Briefpost in den USA seit 2001 rückläufig – Angaben in Millionen <!-- .eleme
 
 
 --s--
-# HTML · 1×1
+# HTML · 1 × 1
 
 
 
