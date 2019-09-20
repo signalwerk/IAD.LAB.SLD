@@ -2,7 +2,7 @@
 
 # Case Study · Self-Service
 
-Christof Täschler & Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
+Christof Täschler & Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
 --s--
 ## Übersicht
 
