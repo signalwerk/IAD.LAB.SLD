@@ -238,6 +238,15 @@ ISP = Internet Service Provider <!-- .element: class="footer" -->
 
 ## Vorgehen
 
+* Server bei neuem Hoster mieten
+* Website installieren & testen
+* Jetziger DNS-Hoster ausfindig machen
+* Zonefile vom jetzigen DNS-Hoster anfordern
+* Zonefile an neuen DNS-Hoster – Tests
+* Bei Registrar neuen DNS eintragen
+* 24h warten
+* Bei neuem DNS auf den neuen Hoster zeigen
+
 --s--
 ## Praxisarbeit
 

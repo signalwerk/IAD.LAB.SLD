@@ -47,13 +47,6 @@ Kurzer Rückblick
 
 
 
-
-
-
-
-
-
-
 --s--
 ## News
 
@@ -242,17 +235,7 @@ Stelle deinem Gegenüber 3 Fragen um zu Prüfen, ob sich diese Person auf den Jo
 * [Walt-Disney-Methode](https://de.wikipedia.org/wiki/Walt-Disney-Methode)
 * [BarCamp](https://de.wikipedia.org/wiki/Barcamp)
 * ...
---s--
-## Oblique Strategies
 
-* **1975** · erste Publikation
-* **Brian Eno** – Musikproduzent, Künstler, Musiker
-* **Peter Schmidt** – Künstler, Musiker
-* Die Karten werden wohl nicht passen!
---s--
-## Oblique Strategies
-* eine Karte ziehen und anwenden
-* danach kurz in der Klasse vorstellen
 --s--
 ## Hausaufgabe
 
