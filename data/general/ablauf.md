@@ -13,7 +13,6 @@ Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
 
 * **8:15**
 * Organisation/News/Agenda
-* Rückschau & Festigung
 * ...
 * **11:45** · Ende
 
