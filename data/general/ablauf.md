@@ -34,7 +34,3 @@ Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
 
 --s--
 ## Agenda
-
-
---s--
-# Rückschau
