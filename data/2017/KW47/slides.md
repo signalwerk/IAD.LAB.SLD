@@ -81,6 +81,7 @@ Nur bei Bezahlung können Inhalte konsumiert werden.
 Inhalte können unter bestimmten Bedingungen auch hinter der Pay-Wall betrachtet werden.
 
 <br>
+
 ### Beispiele
 * bei direkter Verlinkung
 * bei Links aus Social-Media
