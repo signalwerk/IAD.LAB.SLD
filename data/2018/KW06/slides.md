@@ -97,6 +97,7 @@ Earthrise, Apollo 8, Bill Anders <!-- .element: class="footer" -->
 * Langzeitdenken
 
 <br>
+
 [→ longnow.org](http://longnow.org/)
 
 --s--
@@ -109,6 +110,7 @@ Earthrise, Apollo 8, Bill Anders <!-- .element: class="footer" -->
 1500 Sprachen erhalten/dokumentieren
 
 <br>
+
 [→ rosettaproject.org](http://rosettaproject.org/)
 
 --s--
