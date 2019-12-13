@@ -66,11 +66,13 @@ Pause nach eigenem Ermessen.
 ## Prototyping
 
 <br>
+
 ### bis 11:00
 * Darstellung der Interaktion
 * [→ Paper Prototype](https://www.youtube.com/watch?v=x48qOA2Z_xQ)
 
 <br>
+
 ### bis 11:45
 * Präsentation – 10min pro Gruppe
 --s--

@@ -71,6 +71,7 @@ Stefan Huber, Zürich – 2017 <!-- .element: class="footer" -->
 Nur bei Bezahlung können Inhalte konsumiert werden.
 
 <br>
+
 ### Beispiele
 * Zeitungen
 * Streaming-Dienste
