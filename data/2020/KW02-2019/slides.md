@@ -209,6 +209,10 @@ Angaben in MBit/s  <!-- .element: class="footer" -->
 
 Optimierung wann werden welche Daten benötigt für eine sinnvolle Anzeige.
 
+
+--s--
+## Freenom
+* [Siehe Anleitung](https://signalwerk.github.io/IAD2019/freenom/)
 --s--
 ## Werkschau
 
