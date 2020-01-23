@@ -27,6 +27,8 @@ Verteidigung Thesis: 31. Januar 2020
 
 --s--
 # Organisation
+* Semester-Anmeldung 
+
 --s--
 ## Verteidigung
 * Gibt es fragen?
