@@ -7,7 +7,7 @@
 
 # {{title}}
 
-Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
+Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 --s--
 ## Übersicht
 
