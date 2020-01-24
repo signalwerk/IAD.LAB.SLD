@@ -27,7 +27,7 @@ Verteidigung Thesis: 31. Januar 2020
 
 --s--
 # Organisation
-* Semester-Anmeldung 
+* Semester-Anmeldung
 
 --s--
 ## Verteidigung
@@ -42,7 +42,7 @@ Verteidigung Thesis: 31. Januar 2020
 
 --s--
 ## Präsentation CV
-* Was würde ich ander tun?
+* Was würde ich anders machen?
 * Auf was bin ich stolz?
 
 
