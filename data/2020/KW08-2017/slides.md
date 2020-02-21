@@ -145,7 +145,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 * [Van Gogh Alive](https://vangogh-alive.ch/) · 18. 2. – 9. 4. 2020
 * [Der Mensch erscheint im Holozän - Schauspielhaus Zürich](https://neu.schauspielhaus.ch/de/kalender/742/der-mensch-erscheint-im-holozn) · ab Fr. 10.–
 * [Olafur Eliasson - Kunsthaus Zürich](https://www.kunsthaus.ch/besuch-planen/ausstellungen/olafur-eliasson/) · bis 22. 3. 2020
-
+* [Raven Kwok – MuDa](https://muda.co/ravenkwoktalk/) · 21. 2. 2020 · 18 Uhr
 
 --s--
 ## Diplomarbeit
