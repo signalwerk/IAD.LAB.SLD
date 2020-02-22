@@ -8,7 +8,6 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 * **8:15**
 * Organisation
-* **10:30** · Gespräch
 * Portfolio
 * Diplomarbeit
 * Besprechung Thesis
@@ -40,7 +39,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 * Thesis – Noten werden abgegeben, Rückmeldung ist mündlich
 * Ausschau 6. Semester
-* Noten & Case Study 5. Semester
+* Noten & [Case Study 5. Semester](https://logrinto.ch/posts/case-study-self-Service/)
 
 --s--
 ## LAB · 6. Semester
