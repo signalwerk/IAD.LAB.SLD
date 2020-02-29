@@ -72,7 +72,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 * [Games – Landesmuseum](https://www.landesmuseum.ch/games) · 17. 1. – 13. 4. 2020
 * [Van Gogh Alive](https://vangogh-alive.ch/) · 18. 2. – 9. 4. 2020
 * [Der Mensch erscheint im Holozän - Schauspielhaus Zürich](https://neu.schauspielhaus.ch/de/kalender/742/der-mensch-erscheint-im-holozn) · ab Fr. 10.–
-* [Olafur Eliasson - Kunsthaus Zürich](https://www.kunsthaus.ch/besuch-planen/ausstellungen/olafur-eliasson/) · bis 22. 3. 2020
+* [Olafur Eliasson – Kunsthaus Zürich](https://www.kunsthaus.ch/besuch-planen/ausstellungen/olafur-eliasson/) · bis 22. 3. 2020
 * [Raven Kwok](https://muda.co/ravenkwokopening/) · ab  7. 3. 2020
 
 
