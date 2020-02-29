@@ -16,6 +16,7 @@ World Web forum?
 ======
 – ~ April «The Libre Graphics Meeting»
 – ~ April https://www.polymesse.ch/
+– ~ April Internet Health Report
 – ~ Mai http://uxcamp.ch/
 – ~ Mai «re:publica»
 – ~ Mai videoex
