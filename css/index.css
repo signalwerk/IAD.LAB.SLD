@@ -2124,12 +2124,18 @@ html {
   line-height: 1.45;
 }
 
+hr {
+  height: 0.1em;
+  border: none;
+  background-color: #002f5b;
+}
+
 .reveal .slides {
   text-align: left;
 }
 
 .spacertop {
-  height: 2.0rem;
+  height: 2rem;
 }
 
 .reveal li {
@@ -2166,7 +2172,9 @@ html {
   margin-bottom: 0.3em;
 }
 
-.reveal section > h1:first-child, .reveal section > h2:first-child, .reveal section > h3:first-child {
+.reveal section > h1:first-child,
+.reveal section > h2:first-child,
+.reveal section > h3:first-child {
   margin-top: 0em;
   margin-bottom: 2em;
 }
@@ -2198,7 +2206,8 @@ html {
   line-height: 1.4;
 }
 
-.reveal p.small, .reveal span.small {
+.reveal p.small,
+.reveal span.small {
   font-size: 0.7rem;
   margin-bottom: 0.3rem;
   color: #666666;
