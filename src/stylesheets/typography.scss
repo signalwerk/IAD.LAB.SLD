@@ -10,6 +10,12 @@ html {
 	line-height: 1.45;
 }
 
+hr {
+  height: 0.1em;
+  border: none;
+  background-color: $cBlue;
+}
+
 .reveal .slides {
 	text-align: left;
 }
