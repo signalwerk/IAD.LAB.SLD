@@ -413,32 +413,6 @@ Ermöglicht diverse Zwischenschritte der Animation.
 
 
 --s--
-
-## Fonts · Eigenschaften & Verwendung
---s--
-
-## Anatomie einer Schrift
-![DNS](../../2018/KW11/img/anatomy/SVG/font-lines.svg) <!-- .element: class="pic" -->
-
---s--
-## Anatomie einer Schrift
-
-![DNS](../../2018/KW11/img/anatomy/SVG/font-anatomy-01.svg) <!-- .element: class="pic" -->
-
-
---s--
-## Anatomie einer Schrift
-
-
-![DNS](../../2018/KW11/img/anatomy/SVG/font-anatomy-02.svg) <!-- .element: class="pic" -->
-
-
---s--
-## Anatomie einer Schrift
-
-![DNS](../../2018/KW11/img/anatomy/SVG/font-character-forms.svg) <!-- .element: class="pic" -->
-
---s--
 ## Font einbauen
 
 * Jede Person wählt ein Fachwort (Nachricht in Slack für Koordinatino) – Gerne auch eigene Fachwörter
