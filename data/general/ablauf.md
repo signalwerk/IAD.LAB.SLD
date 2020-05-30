@@ -1,8 +1,3 @@
-
-
-
-
-
 ### HF Interactiondesign
 
 # {{title}}
