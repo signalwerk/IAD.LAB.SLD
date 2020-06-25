@@ -90,7 +90,10 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 ## Demos
 --s--
 # Craft
-* …
+* Custom Eingabemasken
+* Mehrsprachigkeit
+* Bild transformationen
+* E-Commerce (Plugin)
 --s--
 # Drupal
 * Enterprise
@@ -98,7 +101,11 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Modules
 --s--
 # Wordpress
-* …
+* One click Setup bei Hostern
+* Bild transformationen
+* E-Commerce (Plugin [woocommerce](https://woocommerce.com/))
+* Mehrsprachigkeit (Plugin [wpml](https://wpml.org/))
+* Custom Eingabemasken (Plugin [ACF](https://www.advancedcustomfields.com/))
 --s--
 # Typo3
 * Bulk-Edit
@@ -106,8 +113,10 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Multilingual
 --s--
 # Fostry
-* …
-
+[Forestry](https://forestry.io/) speichert alle Inhalte in einem freigegebenen Git repo als Dateien und eignet sich daher für Static Site Generators (Gatsby, Jekyll, 11ty)
+* Alle Inhalte sind versioniert
+* Inhalts blöcke und custom Eingabemasken
+* Instant Preview
 --s--
 # Neos
 * Content-Dimensions
