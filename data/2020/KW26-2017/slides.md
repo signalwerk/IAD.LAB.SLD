@@ -36,6 +36,14 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 --s--
 ## CMS
 
+--s--
+## Aufgabe
+
+Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sind.
+
+* Redaktoren
+* Designer
+* Admin/IT
 
 --s--
 ## Sprachen
