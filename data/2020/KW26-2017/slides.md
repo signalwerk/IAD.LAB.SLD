@@ -15,7 +15,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 --s--
 ## API
-
+* RSS
 --s--
 ## Was und weshalb
 * …
