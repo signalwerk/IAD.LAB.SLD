@@ -1,6 +1,6 @@
 ### HF Interactiondesign
 
-# CMS
+# API & CMS
 
 Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 --s--
@@ -14,7 +14,18 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 * **16:15** · Ende
 
 --s--
-## API
+## Application programming interface (API)
+
+--s--
+## Was ist ein(e) API?
+
+> Ein Programmteil, der anderen Programmen zur Anbindung zur Verfügung gestellt wird.
+
+[Wikipedia](https://de.wikipedia.org/wiki/Programmierschnittstelle)
+
+
+--s--
+
 * RSS
 --s--
 ## Was und weshalb
@@ -28,13 +39,23 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 ## API mit Graphen
 
 
---s--
+
 
 ## CMS als API
 * …
 
 --s--
-## CMS
+## Content Management System (CMS)
+--s--
+## Was ist ein CMS?
+
+>  
+--s--
+## Was ist ein CMS?
+
+> Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten  
+
+[Wikipedia](https://de.wikipedia.org/wiki/Content-Management-System)
 
 --s--
 ## Aufgabe
@@ -45,6 +66,56 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Designer
 * Admin/IT
 
+
+--s--
+## Gestaltung traditionell
+
+![](./img/design-tradition.svg) <!-- .element: class="pic" -->
+
+--s--
+
+## Gestaltung Interactiondesign
+
+![](./img/design-web.svg) <!-- .element: class="pic" -->
+
+--s--
+## Templates
+![](./img/design-templates.svg) <!-- .element: class="pic" -->
+
+--s--
+## Module
+![](./img/design-modules.svg) <!-- .element: class="pic" -->
+
+
+
+
+--s--
+## Kunden/Redaktoren
+
+<!--
+* Inhalt möglichst einfach zu pflegen
+* Preview & Freigabeprozesse
+* Zusammenhang zwischen Backend & Frontend
+-->
+
+--s--
+## Designer
+
+<!--
+* Flexibilität beim Design
+* Redaktion sollte keine Design-Entscheidungen treffen müssen/können
+* Eigene Inhaltstypen/Inhalsstruktruen möglich
+-->
+--s--
+## Admin/IT
+
+<!--
+* Betriebssicherheit
+* Community/Entwickler
+* Kosteneffizienz
+* Ausbaubar
+-->
+
 --s--
 ## Sprachen
 * Schweiz hat vier Landessprachen
@@ -54,7 +125,36 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 --s--
 ## Inhaltsdimensionen
 
-* …
+* Sprachen
+* Währung
+* Audience
+
+
+--s--
+## Beispiel – Inhaltsdimensionen
+
+* de_CH – German (CH)
+* de_DE – German (DE)
+* fr_CH – French
+* it_CH – Italian
+* rm_CH – Romansh
+
+--s--
+## Beispiel – Inhaltsdimensionen
+
+* ~~de_CH – German (CH)~~
+* ~~de_DE – German (DE)~~
+* de_ALL – German
+* fr_CH – French
+* it_CH – Italian
+* ~~rm_CH – Romansh~~
+
+
+--s--
+## Beispiel – Inhaltsdimensionen
+
+* EUR
+* CHF
 
 --s--
 ## Versionen
@@ -104,15 +204,11 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 
 ## Nachteile
 
-  * Propietär und nur «Semi-Open-Source»
-  * Für ein kostenpflichtiges Produkt ist der Kundendienst etwas bemüht
-  * Neu
+* Propietär und nur «Semi-Open-Source»
+* Für ein kostenpflichtiges Produkt ist der Kundendienst etwas bemüht
+* Neu
 
---s--
-# Drupal
-* Enterprise
-* E-Commerce
-* Modules
+
 --s--
 
 # Wordpress
@@ -134,11 +230,6 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
   * Plugin Qualität teilweise nicht sehr hoch
 
 --s--
-# Typo3
-* Bulk-Edit
-* Permissions
-* Multilingual
---s--
 
 # Fostry
 
@@ -149,16 +240,63 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
   * Alle Inhalte sind versioniert
   * Inhalts blöcke und custom Eingabemasken
   * Instant Preview
-  
+
 --s--
 # Fostry
 
 ## Nachteile
 
-  * Von Haus aus keine Mehrsprachigkeit
-  * Neu
+* Von Haus aus keine Mehrsprachigkeit
+* Neu
+
+--s--
+# Typo3
+## Vorteile
+
+[Beispiel](https://lm-a.ch/)
+
+
+* Bulk-Edit
+* Permissions
+* Multilingual
+* History
+
+--s--
+
+# Typo3
+## Nachteile
+
+* Eher kleine Community
+* Eher kompliziertes Setup
+* Updates sind eher Schmerzhaft
+
+--s--
+# Drupal
+
+Beispiel E-Commerce & Beispiel grosse Content-Seite
+
+## Vorteil
+* Enterprise
+* E-Commerce
+* Modules
+
+--s--
+# Drupal
+## Nachteile
+* Eher kleine Community
+* Wenige Devs auf dem Markt
 
 --s--
 # Neos
-* Content-Dimensions
+## Vorteile
 * Editor Experience
+* Content-Dimensions
+
+
+--s--
+# Neos
+## Nachteile
+
+* Kleine Community
+* Wenig Module
+* Backend hat kein gutes Rechtesystem
