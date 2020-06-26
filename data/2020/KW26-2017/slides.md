@@ -23,48 +23,65 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 [Wikipedia](https://de.wikipedia.org/wiki/Programmierschnittstelle)
 
+--s--
+## Was ist ein(e) API?
+
+* Schnittstelle zwischen zwei Systemen
+* Viele Services bieten geschützte oder offene APIs
+
 
 --s--
+## Warum?
 
-* RSS
+* Man hat etablierte Systeme, die man verknüpfen möchte?
+
 --s--
-## Was und weshalb
-* …
+## Woher kennt ihr APIs?
+<!--
+* Wetter
+* Push-Notifications (Service meldet an Apple/Google)
+* [RSS](https://en.wikipedia.org/wiki/RSS) (Podcast)
+
+### «API»
+* [Includes/Cards](https://www.20min.ch/story/us-botschafter-belastet-trump-schwer-414098091122)
+* [Share-Stats](https://www.watson.ch/schweiz/reisen/603396135-auffahrt-und-dann-frei-19-schoene-bruecken-fuer-den-brueckentag)
+-->
+
+
 
 --s--
 ## Klassische API
-* …
+* Informationen erfragen
+* Informationen übermitteln
+* [Beispiel: The Star Wars API](https://swapi.dev/)
 
 --s--
 ## API mit Graphen
 
+Neue Art, wie in einer API Beziehungen ausgedrückt werden können.
 
 
+* [Beispiel: The Star Wars API](https://swapi.graph.cool/)
+--s--
 
 ## CMS als API
-* …
+* CMS wird als Datenquelle gesehen
+* Entkoppelung von Daten und Darstellung
 
 --s--
 ## Content Management System (CMS)
 --s--
 ## Was ist ein CMS?
 
->  
---s--
-## Was ist ein CMS?
 
 > Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation und Darstellung von digitalen Inhalten  
 
 [Wikipedia](https://de.wikipedia.org/wiki/Content-Management-System)
 
 --s--
-## Aufgabe
+## Kennt ihr Beispiele aus dem Berufsalltag?
 
-Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sind.
 
-* Kunden/Redaktoren
-* Designer
-* Admin/IT
 
 
 --s--
@@ -79,13 +96,13 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 ![](./img/design-web.svg) <!-- .element: class="pic" -->
 
 --s--
-## Templates
-![](./img/design-templates.svg) <!-- .element: class="pic" -->
+## Aufgabe
 
---s--
-## Module
-![](./img/design-modules.svg) <!-- .element: class="pic" -->
+Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sind.
 
+* Kunden/Redaktoren
+* Designer
+* Admin/IT
 
 
 
@@ -115,6 +132,15 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Kosteneffizienz
 * Ausbaubar
 -->
+
+--s--
+## Templates
+![](./img/design-templates.svg) <!-- .element: class="pic" -->
+
+--s--
+## Module
+![](./img/design-modules.svg) <!-- .element: class="pic" -->
+
 
 --s--
 ## Sprachen
@@ -159,15 +185,17 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 --s--
 ## Versionen
 
-* …
+* Edits/Fehler rückgängig machen
+* Nachverfolgbarkeit
+* Vorschau als «spezial Version»
 
 --s--
 ## Medienneutrale Aufbereitung für CMS
 
 * Bilder möglichst grosse Auflösung
 * Bilder möglichst unkomprimiert
-* Vektoren möglichst präzise behalten
 * Farbprofile erhalten
+* Vektoren möglichst präzise behalten
 
 --s--
 ## Medienneutrale Aufbereitung für Browser
@@ -185,7 +213,11 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Farbprofile mit grösserem Farbumfang sind top
 --s--
 ## Bild- & Video-Services
-* …
+* Optimiert Bilder auf Grösse
+* Teils [WebP](https://en.wikipedia.org/wiki/WebP) ([Spec](https://developers.google.com/speed/webp))
+* Teils mit [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
+* [Beispiel Savings](https://savings.rokka.io/?url=https%3A%2F%2Fwww.swisscom.ch%2Fen%2Fresidential.html&profile=iphone6)
+* [Beispiel](https://www.cloudimage.io/en/home)
 --s--
 ## Demos
 --s--
@@ -292,7 +324,6 @@ Beispiel E-Commerce & Beispiel grosse Content-Seite
 * Editor Experience
 * Content-Dimensions
 
-
 --s--
 # Neos
 ## Nachteile
@@ -300,3 +331,6 @@ Beispiel E-Commerce & Beispiel grosse Content-Seite
 * Kleine Community
 * Wenig Module
 * Backend hat kein gutes Rechtesystem
+
+--s--
+## Fragen?
