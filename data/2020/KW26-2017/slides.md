@@ -89,24 +89,66 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 --s--
 ## Demos
 --s--
+
 # Craft
-* …
+
+## Vorteile
+
+  * Custom Eingabemasken
+  * Mehrsprachigkeit
+  * Bild transformationen
+  * E-Commerce (Plugin)
+
+## Nachteile
+
+  * Propietär und nur "Semi-Open-Source"
+  * Für ein kostenpflichtiges Produkt ist der Kundendienst etwas bemüht
+  * Neu
+
 --s--
 # Drupal
 * Enterprise
 * E-Commerce
 * Modules
 --s--
+
 # Wordpress
-* …
+
+## Vorteile
+
+  * One click Setup bei Hostern
+  * Bild transformationen
+  * E-Commerce (Plugin [woocommerce](https://woocommerce.com/))
+  * Mehrsprachigkeit (Plugin [wpml](https://wpml.org/))
+  * Custom Eingabemasken (Plugin [ACF](https://www.advancedcustomfields.com/))
+  * Sehr etabliert
+
+## Nachteile
+
+  * viele Plugins → Gefahr von Konflikten
+  * Plugin Qualität teilweise nicht sehr hoch
+
 --s--
 # Typo3
 * Bulk-Edit
 * Permissions
 * Multilingual
 --s--
+
 # Fostry
-* …
+
+[Forestry](https://forestry.io/) speichert alle Inhalte in einem verbundenen Git repo als Dateien und eignet sich daher für Static Site Generators (Gatsby, Jekyll, 11ty)
+
+## Vorteile
+
+  * Alle Inhalte sind versioniert
+  * Inhalts blöcke und custom Eingabemasken
+  * Instant Preview
+
+## Nachteile
+
+  * Von Haus aus keine Mehrsprachigkeit
+  * Neu
 
 --s--
 # Neos
