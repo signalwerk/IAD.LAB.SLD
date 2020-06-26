@@ -41,7 +41,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sind.
 
-* Redaktoren
+* Kunden/Redaktoren
 * Designer
 * Admin/IT
 
@@ -99,9 +99,12 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
   * Bild transformationen
   * E-Commerce (Plugin)
 
+--s--
+# Craft
+
 ## Nachteile
 
-  * Propietär und nur "Semi-Open-Source"
+  * Propietär und nur «Semi-Open-Source»
   * Für ein kostenpflichtiges Produkt ist der Kundendienst etwas bemüht
   * Neu
 
@@ -122,6 +125,8 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
   * Mehrsprachigkeit (Plugin [wpml](https://wpml.org/))
   * Custom Eingabemasken (Plugin [ACF](https://www.advancedcustomfields.com/))
   * Sehr etabliert
+--s--
+# Wordpress
 
 ## Nachteile
 
@@ -144,6 +149,9 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
   * Alle Inhalte sind versioniert
   * Inhalts blöcke und custom Eingabemasken
   * Instant Preview
+  
+--s--
+# Fostry
 
 ## Nachteile
 
