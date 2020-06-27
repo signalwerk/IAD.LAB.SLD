@@ -43,7 +43,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 * [RSS](https://en.wikipedia.org/wiki/RSS) (Podcast)
 
 ### «API»
-* [Includes/Cards](https://www.20min.ch/story/us-botschafter-belastet-trump-schwer-414098091122)
+* [Embeds/Includes/Cards](https://www.20min.ch/story/us-botschafter-belastet-trump-schwer-414098091122)
 * [Share-Stats](https://www.watson.ch/schweiz/reisen/603396135-auffahrt-und-dann-frei-19-schoene-bruecken-fuer-den-brueckentag)
 -->
 
@@ -220,6 +220,59 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * [Beispiel](https://www.cloudimage.io/en/home)
 --s--
 ## Demos
+
+
+--s--
+# Typo3
+## Vorteile
+
+[Beispiel](https://lm-a.ch/)
+
+
+* Bulk-Edit
+* Permissions
+* Multilingual
+* History
+
+--s--
+
+# Typo3
+## Nachteile
+
+* Eher kleine Community
+* Eher kompliziertes Setup
+* Updates sind eher Schmerzhaft
+
+--s--
+# Drupal
+
+Beispiel E-Commerce & Beispiel grosse Content-Seite
+
+## Vorteil
+* Enterprise
+* E-Commerce
+* Modules
+
+--s--
+# Drupal
+## Nachteile
+* Eher kleine Community
+* Wenige Devs auf dem Markt
+
+--s--
+# Neos
+## Vorteile
+* Editor Experience
+* Content-Dimensions
+
+--s--
+# Neos
+## Nachteile
+
+* Kleine Community
+* Wenig Module
+* Backend hat kein gutes Rechtesystem
+
 --s--
 
 # Craft
@@ -279,58 +332,9 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 ## Nachteile
 
 * Von Haus aus keine Mehrsprachigkeit
+* Von Haus aus keine Bildtransformation
+* Propietär 
 * Neu
-
---s--
-# Typo3
-## Vorteile
-
-[Beispiel](https://lm-a.ch/)
-
-
-* Bulk-Edit
-* Permissions
-* Multilingual
-* History
-
---s--
-
-# Typo3
-## Nachteile
-
-* Eher kleine Community
-* Eher kompliziertes Setup
-* Updates sind eher Schmerzhaft
-
---s--
-# Drupal
-
-Beispiel E-Commerce & Beispiel grosse Content-Seite
-
-## Vorteil
-* Enterprise
-* E-Commerce
-* Modules
-
---s--
-# Drupal
-## Nachteile
-* Eher kleine Community
-* Wenige Devs auf dem Markt
-
---s--
-# Neos
-## Vorteile
-* Editor Experience
-* Content-Dimensions
-
---s--
-# Neos
-## Nachteile
-
-* Kleine Community
-* Wenig Module
-* Backend hat kein gutes Rechtesystem
 
 --s--
 ## Fragen?
