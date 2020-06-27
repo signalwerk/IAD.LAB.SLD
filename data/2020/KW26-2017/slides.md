@@ -332,6 +332,8 @@ Beispiel E-Commerce & Beispiel grosse Content-Seite
 ## Nachteile
 
 * Von Haus aus keine Mehrsprachigkeit
+* Von Haus aus keine Bildtransformation
+* Propietär 
 * Neu
 
 --s--
