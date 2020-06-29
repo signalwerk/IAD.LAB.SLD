@@ -37,7 +37,6 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 --s--
 ## Woher kennt ihr APIs?
-<!--
 * Wetter
 * Push-Notifications (Service meldet an Apple/Google)
 * [RSS](https://en.wikipedia.org/wiki/RSS) (Podcast)
@@ -45,7 +44,6 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 ### «API»
 * [Embeds/Includes/Cards](https://www.20min.ch/story/us-botschafter-belastet-trump-schwer-414098091122)
 * [Share-Stats](https://www.watson.ch/schweiz/reisen/603396135-auffahrt-und-dann-frei-19-schoene-bruecken-fuer-den-brueckentag)
--->
 
 
 
@@ -104,34 +102,53 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Designer
 * Admin/IT
 
+--s--
+## Kunden/Redaktoren
 
+
+* Inhalt möglichst einfach zu pflegen
+* Diverse Content-Typen
+* Keine Technik sondern WYSIWYG
+* Benutzerrollen (Redaktor)
 
 --s--
 ## Kunden/Redaktoren
 
-<!--
-* Inhalt möglichst einfach zu pflegen
+
 * Preview & Freigabeprozesse
-* Zusammenhang zwischen Backend & Frontend
--->
+* Kunde möchte «schnellschnell» <br/>(Design-)Anpassungen machen.
+* Transparenz zwischen Backend & Frontend
+* Wahl von Templates/Design-Varrianten
+
 
 --s--
 ## Designer
 
-<!--
-* Flexibilität beim Design
-* Redaktion sollte keine Design-Entscheidungen treffen müssen/können
-* Eigene Inhaltstypen/Inhalsstruktruen möglich
--->
+* Design muss frei von Daten sein
+* Eigenes Design von Komponenten möglich
+* Restrictions von Editor (Zeichenanzahl)
+* Wahl von fertigen Design-Blöcken (Icons)
+* Erweiterbar
+* Sematisch korrekte Ausgabe
+
 --s--
 ## Admin/IT
 
-<!--
+* Rechte verwalten
+* Accounts verwalten
+* CMS muss zum Projekt passen
+* Maintanance für Dependencies (PlugIns)
+
+--s--
+## Admin/IT
+
+* Maintanance von CMS
+* Verschiedene Umgebungen (Staging)
 * Betriebssicherheit
-* Community/Entwickler
 * Kosteneffizienz
-* Ausbaubar
--->
+* Developer Experience
+* Community/Entwickler
+
 
 --s--
 ## Templates
@@ -333,7 +350,7 @@ Beispiel E-Commerce & Beispiel grosse Content-Seite
 
 * Von Haus aus keine Mehrsprachigkeit
 * Von Haus aus keine Bildtransformation
-* Propietär 
+* Propietär
 * Neu
 
 --s--
