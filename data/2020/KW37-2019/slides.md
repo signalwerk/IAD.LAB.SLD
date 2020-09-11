@@ -17,11 +17,20 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 --s--
 # Organisation
 
+
 --s--
 ## Arbeitslast
 
 # Umfrage
 * Wie war die Arbeitslast in den letzten Wochen? (😭 💤 ☺️)
+
+--s--
+## 3. Semester
+
+* COVID-19
+* Sina
+
+
 --s--
 ## Lehrgangskoordination
 
@@ -31,6 +40,12 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 * **Sommer 2020** → Abschluss IAD2017
 * **Herbst 2020** → Zertifizierung IAD 🤞
 * **Frühjahr 2021** → neue Lehrgangskoordination
+
+--s--
+## Tag der Schrift
+
+
+* [Tag der Schrift](http://www.tagderschrift.org/)
 
 
 --s--
