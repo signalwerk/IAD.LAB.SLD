@@ -128,7 +128,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
   * [The Guardian](https://www.theguardian.com/)
   * [NZZ](https://www.nzz.ch/)
   * [20min](https://www.20min.ch/)
-  * [iTreseller](https://www.itreseller.ch/)
+  * [iTReseller](https://www.itreseller.ch/)
 
 --s--
 ## Navigation
