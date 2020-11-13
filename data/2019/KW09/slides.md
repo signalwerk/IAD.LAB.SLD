@@ -127,7 +127,23 @@ Was schenken wir Gästen?
 --s--
 ## Lohn
 * Wollt ihr wissen, was die anderen verdienen?
-* [→ Auswertung Lohn](https://signalwerk.github.io/IAD.Chart/)
+
+--s--
+## Auswertung Lohn
+
+--s--
+
+## Jahreseinkommen – HF2017 (Durchschnitt)
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income.svg) <!-- .element: class="pic" -->
+
+
+--s--
+
+## Jahreseinkommen – HF2017 (Mittelwert)
+
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income_median.svg) <!-- .element: class="pic" -->
 
 
 --s--

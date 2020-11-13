@@ -75,7 +75,7 @@ Möglicher Ablauf (Einschätzung):
 
 
 --s--
-## Jahreseinkommen – HF2019
+## Jahreseinkommen – HF2019 (Durchschnitt)
 
 Eine ungültige Abgabe <!-- .element: class="small" -->
 
@@ -85,14 +85,13 @@ Eine ungültige Abgabe <!-- .element: class="small" -->
 
 
 --s--
-## Jahreseinkommen – HF2019
-
-Höchst- und Tiefstverdienende gestrichen <!-- .element: class="small" -->
+## Jahreseinkommen – HF2019 (Mittelwert)
 
 
 
 
-![](https://signalwerk.github.io/IAD.Chart/charts/IAD2019_income_clip.svg) <!-- .element: class="pic" -->
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2019_income_median.svg) <!-- .element: class="pic" -->
 
 
 --s--
