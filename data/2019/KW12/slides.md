@@ -65,7 +65,21 @@ Stefan Huber, Zürich – 2019 <!-- .element: class="footer" -->
 
 ## Lohnumfrage
 
-* [Auswertung](https://signalwerk.github.io/IAD.Chart/)
+--s--
+
+## Jahreseinkommen – HF2017 (Durchschnitt)
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income.svg) <!-- .element: class="pic" -->
+
+
+--s--
+
+## Jahreseinkommen – HF2017 (Mittelwert)
+
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income_median.svg) <!-- .element: class="pic" -->
+
+
 --s--
 ## News
 

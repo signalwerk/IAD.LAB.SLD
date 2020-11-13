@@ -40,7 +40,20 @@ Digital meint eine (mit den Fingern) abzählbare Einordnung von Dingen.
 --s--
 ## Auswertung Lohn
 
-[→ Grafiken](https://signalwerk.github.io/IAD.Chart/)
+--s--
+
+## Jahreseinkommen – HF2017 (Durchschnitt)
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income.svg) <!-- .element: class="pic" -->
+
+
+--s--
+
+## Jahreseinkommen – HF2017 (Mittelwert)
+
+
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income_median.svg) <!-- .element: class="pic" -->
+
 
 
 --s--

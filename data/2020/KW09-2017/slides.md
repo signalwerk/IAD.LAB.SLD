@@ -39,13 +39,13 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 --s--
 
-## Jahreseinkommen – HF2017
+## Jahreseinkommen – HF2017 (Durchschnitt)
 
 ![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income.svg) <!-- .element: class="pic" -->
 
 --s--
 
-## Jahreseinkommen – HF2019
+## Jahreseinkommen – HF2019 (Durchschnitt)
 
 ![](https://signalwerk.github.io/IAD.Chart/charts/IAD2019_income.svg) <!-- .element: class="pic" -->
 
@@ -53,23 +53,21 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 --s--
 
-## Jahreseinkommen – HF2017 (clip)
+## Jahreseinkommen – HF2017 (Mittelwert)
 
 
-![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income_clip.svg) <!-- .element: class="pic" -->
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2017_income_median.svg) <!-- .element: class="pic" -->
 
 
-Höchst- und Tiefstverdienende gestrichen <!-- .element: class="footer" -->
 
 --s--
 
-## Jahreseinkommen – HF2019 (clip)
+## Jahreseinkommen – HF2019 (Mittelwert)
 
 
-![](https://signalwerk.github.io/IAD.Chart/charts/IAD2019_income_clip.svg) <!-- .element: class="pic" -->
+![](https://signalwerk.github.io/IAD.Chart/charts/IAD2019_income_median.svg) <!-- .element: class="pic" -->
 
 
-Höchst- und Tiefstverdienende gestrichen <!-- .element: class="footer" -->
 
 --s--
 ## News
