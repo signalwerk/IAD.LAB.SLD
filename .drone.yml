@@ -2,19 +2,14 @@ kind: pipeline
 name: default
 
 steps:
-  - name: submodules
-    image: docker:git
-    commands:
-      - git submodule update --init --recursive --remote
-
   - name: build
     image: node:latest
     commands:
       - npm ci
-      - bash ./drone/gh-pages.sh
+      - bash ./ci/gh-pages.sh
     environment:
       DECRYPT_KEY:
-        from_secret: "GH_PAGES_KEY"
+        from_secret: "DECRYPT_KEY"
       COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
       DEPLOY_DIR: "build"
     when:

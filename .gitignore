@@ -1,5 +1,4 @@
 /build
 /node_modules
-drone/.ssh/id_rsa
-drone/.ssh/secret.key
-travis/.ssh/id_rsa
+ci/.ssh/id_rsa
+ci/.ssh/secret.key
