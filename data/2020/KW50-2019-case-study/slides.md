@@ -15,6 +15,10 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 - **11:20** · Austausch
 - **11:45** · Ende
 
+--s--
+
+## Übersicht
+
 - **12:45** · Start
 - **14:00** · Austausch Screenshots
 - **14:45** · Endpräsentation
@@ -22,9 +26,6 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 --s--
 
-## Intro & Aufgabe
-
---s--
 
 ## Jonas Shriqui
 
@@ -63,10 +64,14 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 --s--
 
+## En Guete!
+
+--s--
+
 ## Erarbeitung bis 14:45
 
-- Um 14:00 zwei aussagekräftige Screenshots ins [HackMD](https://hackmd.io/@signalwerk/Byx774enw/edit)
-
+- **14:00** zwei Screenshots ins [HackMD](https://hackmd.io/@signalwerk/Byx774enw/edit)
+* **14:45** Abgabe in [HackMD](https://hackmd.io/@signalwerk/Byx774enw/edit)
 --s--
 
 ## Endpräsentation
