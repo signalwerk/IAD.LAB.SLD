@@ -125,18 +125,6 @@ Quelle: [The Economist](https://www.economist.com/business/2020/08/27/hollywoods
 - Stay home and stay save
 - Hausaufgaben…
 
---s--
-
-## Grid
-
-
---s--
-
-## Starterkit
-
-* `npm run start`
-* Konami code: Up Up Down Down Left Right Left Right B A
-
 
 --s--
 
@@ -470,6 +458,19 @@ export default Like;
 <div component="like"></div>
 <div component="like" start="54"></div>
 ```
+
+--s--
+
+## Grid
+
+
+--s--
+
+## Starterkit
+
+* `npm run start`
+* Konami code: Up Up Down Down Left Right Left Right B A
+
 
 
 --s--
