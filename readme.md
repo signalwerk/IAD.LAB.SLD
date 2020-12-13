@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/signalwerk/IAD.LAB.SLD.svg?branch=master)](https://travis-ci.org/signalwerk/IAD.LAB.SLD)
+[![Build Status](https://ci.signalwerk.ch/api/badges/signalwerk/IAD.LAB.SLD/status.svg)](https://ci.signalwerk.ch/signalwerk/IAD.LAB.SLD)
 
-# Slides für die HF Interactiondesign 2017
+# Slides für die HF Interactiondesign 
 
 ## start
 `npm run start`
