@@ -280,8 +280,8 @@ h1 {
 * [Repository download/fork](https://github.com/signalwerk/IAD.minimal-starter)
 * [Node installieren](https://nodejs.org/en/download/)
 * Terminal starten
-* `cd ` (mit Abstand) und dann Drag'n'Drop von Folder auf Fenster → Wechselt in Verzeichnis.
-* `npm install` → Installiert die benötigten Komponenten
+* `cd ` (mit Abstand) und dann Drag'n'Drop von Folder auf Fenster + ⏎ enter → Wechselt in Verzeichnis.
+* `npm install` + ⏎ enter → Installiert die benötigten Komponenten
 
 ((siehe nächste Slide ))
 
@@ -289,8 +289,8 @@ h1 {
 --s--
 ## Beispiel – Ausfühurng danach
 * Terminal starten
-* `cd ` (mit Abstand) und dann Drag'n'Drop von Folder auf Fenster → Wechselt in Verzeichnis.
-* `npm run start` → startet für die Entwicklung
+* `cd ` (mit Abstand) und dann Drag'n'Drop von Folder auf Fenster + + ⏎ enter→ Wechselt in Verzeichnis.
+* `npm run start` + ⏎ enter → startet für die Entwicklung
 * `ctrl+c` zum stoppen
 * `npm run build` → erzeugt die endgültige Version im Verzeichnis `docs`
 
