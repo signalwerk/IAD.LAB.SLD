@@ -422,6 +422,24 @@ Quelle: [commaconsulting.com](https://www.commaconsulting.com.au/articles/best-p
 * [HackMD](https://hackmd.io/@signalwerk/rJmMLq8Av)
 
 
+--s--
+
+## Planung
+
+- **Sa · 09. 01. 2021** → Realisation & Besprechungen · Baustein Progress
+- **Sa · 16. 01. 2021** → ~~👁 Review von Design (Realisation)~~ *Schulterblick & Besprechungen*
+- **Sa · 23. 01. 2021** → *Realisation (bis 14 Uhr) &* Finish
+
+--s--
+
+## Planung
+
+- **Di · 12. 1. 2021** → Online Besprechungen <br> (Anmeldung bis 11. 1. 2021 · 9 Uhr · Slack)
+- **Di · 19. 1. 2021** → Online Besprechungen <br> (Anmeldung bis 18. 1. 2021 · 9 Uhr · Slack)
+
+--s--
+
+## Support–Hotline
 
 --s--
 
