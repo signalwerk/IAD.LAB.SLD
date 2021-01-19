@@ -42,6 +42,11 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 
 --s--
+## News als Video
+
+
+
+--s--
 ## Schulterblick
 
 * [HackMD](https://hackmd.io/@signalwerk/S1OLjikJd/edit)
