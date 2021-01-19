@@ -299,13 +299,13 @@ Je nach Eigenschaft des Ausgabemediums andere CSS-Definition
 # Grössenabhängig
 
 ```css
-@media screen and (min-width: 30em) {
+@media screen and (min-width: 700px) {
   html {
     font-size: 16px;
   }
 }
 ```
-Mediaquery wird aktiv, wenn das Ausgabemedium ein Bildschirm ist und die Breite mehr als `30 rem` ist.
+Mediaquery wird aktiv, wenn das Ausgabemedium ein Bildschirm ist und die Breite mehr als `700px` ist.
 --s--
 # Print
 

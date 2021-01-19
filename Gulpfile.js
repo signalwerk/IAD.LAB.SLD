@@ -99,7 +99,8 @@ gulp.task(
   gulp.parallel(function(done) {
     connect.server({
       root: "./build/",
-      livereload: true
+      livereload: true,
+      port: 8081
     });
     done();
   })
