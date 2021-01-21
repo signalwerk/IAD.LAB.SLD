@@ -45,7 +45,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 
 - **Sa · 09. 01. 2021** → 8 h · Realisation & Besprechungen · Baustein Progress
 - **Sa · 16. 01. 2021** → 4 h · 👁 Review von Design (Realisation)
-- **Sa · 23. 01. 2021** → 8 h · Finish
+- **Fr · 22. 01. 2021** → 8 h · Finish
 
 --s--
 
