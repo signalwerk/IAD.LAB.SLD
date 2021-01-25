@@ -27,7 +27,7 @@ Stefan Huber · Zürich · 2020 <!-- .element: class="footer" -->
 ## Planung
 
 - **Sa · 16. 01. 2021** → Schulterblick & Besprechungen
-- **Sa · 23. 01. 2021** → Realisation (bis 14 Uhr) & Finish
+- **Fr · 22. 01. 2021** → Realisation (bis 14 Uhr) & Finish
 --s--
 
 ## Planung
