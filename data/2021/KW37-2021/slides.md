@@ -1198,7 +1198,7 @@ Geht zurück auf das Gleichnis von Bernhard von Chartres um 1120 <!-- .element:
 ## Übung Zeichensetzung
 
 * Korrigiere die abgegebene Arbeit auf Mikrotypografie
-*-* [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
+* [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
 
 --s--
 
