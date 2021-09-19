@@ -1,1 +1,0 @@
-Vergleich handschriftliche Codices vs. modernem Buch 
