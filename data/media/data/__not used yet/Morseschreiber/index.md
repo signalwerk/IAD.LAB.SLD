@@ -1,0 +1,1 @@
+Bildquelle: https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg
