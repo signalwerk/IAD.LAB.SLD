@@ -605,7 +605,7 @@ Rechner: [Geometrisches Mittel](https://www.hackmath.net/en/calculator/geometric
 --s--
 ## Titelabstufung
 
-![Interpolation Theory](https://www.lucasfonts.com/fileadmin/user_upload/about/interpolation-theory/extra-Interpol.gif)
+![Interpolation Theory](https://www.lucasfonts.com/media/extra-Interpol.gif)
 
 Quelle: [Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory/)
 <!-- .element: class="footer" -->
