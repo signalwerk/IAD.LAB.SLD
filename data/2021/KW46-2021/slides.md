@@ -561,34 +561,10 @@ p + p {
 
 --s--
 
-
---s--
-
+<!-- 
 
 Zeichensetzung?!
 
-Masseinheiten! (publisher)
-
-
-- [Masseinheiten im Web – relative oder absolute Angaben ↗](https://publisher.signalwerk.ch/css-units/)
-
-
 https://www.economiesuisse.ch/de/artikel/urg-revision-klarere-grundsaetze-bei-fotografien
 
-
-
-
-
-Zeichensetzung
-
-
-
-
-
-
-
-
-
-
-![](https://signalwerk.github.io/IAD.Chart/charts/Headings.svg) <!-- .element: class="pic" -->
-![](https://signalwerk.github.io/IAD.Chart/charts/Headings_details.svg) <!-- .element: class="pic" -->
+ -->
