@@ -8,11 +8,9 @@ Stefan Huber, Zürich – 2021 <!-- .element: class="footer" -->
 
 ## Übersicht
 * **12:45**
-* Typografie skallieren
-* calc() · Rückschau
-* CSS-Variablen vs. SCSS
-* Responsive Proportionen
-* Grids
+* Typografische Strukturen
+* Schriftgrössen
+* Praxis
 * **16:15** · End
 
 
@@ -66,7 +64,7 @@ Mehr: <!-- .element: class="footer" --> [Design-Systeme im Web](https://publishe
 
 --s--
 
-## Typografischen Strukturen
+## Typografische Strukturen
 
 
 --s--
@@ -549,10 +547,11 @@ p + p {
 --s--
 ## Tabellen
 
-* [Spick](https://github.com/signalwerk/signalwerk.styles/blob/master/src/css/table.css)
 * Abstand zwischen Spalten
 * Spaltenlinien nur in horizontaler Richtung
 * Mobile immer ein Problem
+* [Spick A](https://codepen.io/signalwerk/pen/EdOREv)
+* [Spick B](https://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen/hallenbaeder/hallenbad_city.html)
 
 --s--
 ## Praxis
