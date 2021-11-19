@@ -551,11 +551,10 @@ p + p {
 * Spaltenlinien nur in horizontaler Richtung
 * Mobile immer ein Problem
 * [Spick A](https://codepen.io/signalwerk/pen/EdOREv)
-* [Spick B](https://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen/hallenbaeder/hallenbad_city.html)
+* [Spick B](https://codepen.io/chriscoyier/pen/yLVNErX)
 
 --s--
 ## Praxis
-
 
 
 --s--
