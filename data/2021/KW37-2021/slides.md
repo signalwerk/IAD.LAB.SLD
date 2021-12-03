@@ -733,7 +733,7 @@ p {
 ### CSS
 
 ```CSS
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 p {
   font-family: 'Open Sans', sans-serif;
@@ -745,7 +745,9 @@ p {
 ### HTML
 
 ```
-<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet'>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 ```
 ### CSS
 
