@@ -8,11 +8,9 @@ Stefan Huber, Zürich – 2021 <!-- .element: class="footer" -->
 
 ## Übersicht
 * **12:45**
-* Typografie skallieren
-* calc() · Rückschau
-* CSS-Variablen vs. SCSS
-* Responsive Proportionen
-* Grids
+* Typografische Strukturen
+* Schriftgrössen
+* Praxis
 * **16:15** · End
 
 
@@ -66,7 +64,7 @@ Mehr: <!-- .element: class="footer" --> [Design-Systeme im Web](https://publishe
 
 --s--
 
-## Typografischen Strukturen
+## Typografische Strukturen
 
 
 --s--
@@ -549,14 +547,14 @@ p + p {
 --s--
 ## Tabellen
 
-* [Spick](https://github.com/signalwerk/signalwerk.styles/blob/master/src/css/table.css)
 * Abstand zwischen Spalten
 * Spaltenlinien nur in horizontaler Richtung
 * Mobile immer ein Problem
+* [Spick A](https://codepen.io/signalwerk/pen/EdOREv)
+* [Spick B](https://codepen.io/chriscoyier/pen/yLVNErX)
 
 --s--
 ## Praxis
-
 
 
 --s--
@@ -566,5 +564,7 @@ p + p {
 Zeichensetzung?!
 
 https://www.economiesuisse.ch/de/artikel/urg-revision-klarere-grundsaetze-bei-fotografien
+
+HackMD
 
  -->
