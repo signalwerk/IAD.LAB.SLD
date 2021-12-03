@@ -70,7 +70,7 @@ Die Studierenden…
 ## Richard Stallman
 
 * 1985 GNU Manifesto
-* Emacs(text editor )
+* Emacs(text editor)
 * GCC (C/C++ compiler)
 * Erfinder von copyleft
 * «Extremist»
