@@ -77,7 +77,7 @@ Stefan Huber · Zürich · 2019 <!-- .element: class="footer" -->
 --s--
 ## Unterlagen
 
-* [Technologiegeschichte der Schrift](https://signalwerk.github.io/learn.interaction/articles/font-history/)
+* [Technologiegeschichte der Schrift](https://interaction.signalwerk.ch/articles/font-history/)
 
 
 --s--
