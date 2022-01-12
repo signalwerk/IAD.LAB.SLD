@@ -397,6 +397,20 @@ Features mit Achsen
 }
 ```
 
+
+
+--s--
+## Grid · HTML
+
+```html
+<div class="container-grid">
+  <div class="container-col">Spalte 1</div>
+  <div class="container-col">Spalte 2</div>
+  <div class="container-col">Spalte 3</div>
+</div>
+```
+
+
 --s--
 ## Grid · Container
 

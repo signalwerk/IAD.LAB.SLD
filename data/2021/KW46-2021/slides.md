@@ -194,6 +194,8 @@ Mehr: <!-- .element: class="footer" --> [Masseinheiten im Web – relative oder 
 * `vmin` – 1% der schmaleren Fensterdimension (Viewport)
 * `vmax` – 1% der grösseren Fensterdimension (Viewport)
 
+Mehr: <!-- .element: class="footer" --> [Masseinheiten im Web – relative oder absolute Angaben](https://publisher.signalwerk.ch/css-units/)
+
 --s--
 ## Responsive
 
