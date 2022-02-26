@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npx gulp",
-    "deploy": "npm run build && gh-pages -d build",
-    "build": "npx gulp build",
+    "deploy": "npm run build && gh-pages --dotfiles -d build",
+    "build": "npx gulp build && touch build/.nojekyll",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stefan Huber (Signalwerk GmbH)",
