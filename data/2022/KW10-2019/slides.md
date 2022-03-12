@@ -368,14 +368,16 @@ Bildquelle: [Wikipedia](https://en.wikipedia.org/wiki/Osborne_effect)
 ## Eigenes system aufbauen
 
 - [Preview](https://loving-heyrovsky-41afad.netlify.app/)
+- [Admin](https://loving-heyrovsky-41afad.netlify.app/admin/)
 - Basis [Netlify CMS](https://www.netlifycms.org/docs/nuxt/)
 
 --s--
 
 ## Setup
 
+- Git-Client
 - [Node installieren](https://nodejs.org/en/)
-- [Repo Kopieren!](https://github.com/signalwerk/portfolio.vue.netlifycms)
+- [Repo kopieren!](https://github.com/signalwerk/portfolio.vue.netlifycms)
 - in Verzeichnis wechseln `cd ...`
 - `npm ci` → Installiert die benötigten Module
 - `npm start` → startet für die Entwicklung
