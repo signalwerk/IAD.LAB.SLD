@@ -353,7 +353,8 @@ Bildquelle: [Wikipedia](https://en.wikipedia.org/wiki/Osborne_effect)
 - Wenig initaler Aufwand
 - Kann kaputt gehen
 - Überschaubare Kosten
-  --s--
+
+--s--
 
 ## Vorteile/Nachteile Code (static)
 
