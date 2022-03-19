@@ -314,7 +314,7 @@ Illustration: [Benjamin Güdel · 2020](http://www.guedel.biz/)
 --s--
 ## Lohn
 
-* Bei Liip ~110k (bei 100%)
+* Bei Liip ~100k (bei 100%)
 * Selbständigkeit 60 – 90k (bei 100%)
 
 
