@@ -461,5 +461,10 @@ Quelle: [→ Wikipedia](https://en.wikipedia.org/wiki/Favicon)
 * [Besprechungsliste](https://docs.google.com/spreadsheets/d/1FhjgZ8ucKH7aP9TJN3k1qf6nz3QwWn36JI1yQ7-VmcE/edit?usp=sharing)
 
 --s--
+## Umfrage
+
+* [Rückmeldung](https://easyretro.io/publicboard/hyaiAgwAytaxRF7N9sbkVFsnBT23/7b4b2815-375a-474a-9d1e-1eff0b02a7f2)
+
+--s--
 
 ## Danke!
