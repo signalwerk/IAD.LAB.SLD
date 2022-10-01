@@ -17,9 +17,9 @@ Stefan Huber · Zürich · 2022 <!-- .element: class="footer" -->
 
 ## Planung
 
-- **SA 01. 10. 2022 · 08:15 – 16:15** – Intro
-- **SA 12. 11. 2022 · 08:15 – 16:15** – Arbeit
-- **FR 13. 01. 2023 · 08:15 – 16:15** – Präsentation/Abgabe
+- **SA 01. 10. 2022 · 08:15 – 15:55** – Intro
+- **SA 12. 11. 2022 · 08:15 – 15:55** – Arbeit
+- **FR 13. 01. 2023 · 08:15 – 15:55** – Präsentation/Abgabe
 
 
 
@@ -63,17 +63,17 @@ Stefan Huber · Zürich · 2022 <!-- .element: class="footer" -->
 * Was ist Open Data?
 * Werkstatt
 
-- **11:45** 
+- **11:40** 
 
 --s--
 
 ## Übersicht
 
-- **12:45**
+- **12:30**
 
 * Werkstatt
 
-- **16:15** · End
+- **15:55** · End
 
 --s--
 ## Was sind Daten
@@ -102,7 +102,7 @@ Stefan Huber · Zürich · 2022 <!-- .element: class="footer" -->
 ## Qualitative Daten 
 
 
-> Quantitative Daten entstammen empirischer Erhebung/Forschung von nicht-numerischen Messungen. Die Form ist also zum Beispiel textuell, verbal oder visuell.
+> Qualitative Daten entstammen empirischer Erhebung/Forschung von nicht-numerischen Messungen. Die Form ist also zum Beispiel textuell, verbal oder visuell.
 
 
 ### Beispiele
