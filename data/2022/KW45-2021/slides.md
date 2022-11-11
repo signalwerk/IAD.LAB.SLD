@@ -384,7 +384,7 @@ Freitag, 29. Mai 1981, 16:47:09 <br>(Mitteleuropäische Sommerzeit)
 
 --s--
 
-## Übung API Node & Edge
+## Beispiel
 
 # Was ist das grösste Fahrzeug bei Star Wars?
 
@@ -522,6 +522,20 @@ Leute die Fondue mögen, mögen auch Raclette.
 
 --s--
 
+## Private Daten & öffentliche Daten
+
+# Privat?
+
+--s--
+
+## Privatsphäre
+
+> Die Privatsphäre ist der Bereich einer Person, der nicht öffentlich ist, also der nur die eigene Person angeht. Es ist der Bereich, der einen Menschen direkt umgibt.
+
+Quelle: <!-- .element: class="footer" --> [Bundeszentrale für politische Bildung](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320971/privatsphaere/)
+
+--s--
+
 ## Europäische Menschenrechtskonvention
 
 ### Art. 8 – Recht auf Achtung des Privat- und Familienlebens
@@ -542,13 +556,6 @@ Quelle: <!-- .element: class="footer" --> [Europäische Menschenrechtskonvention
 
 Quelle: <!-- .element: class="footer" --> [Bundesverfassung der Schweizerischen Eidgenossenschaft](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_13)
 
---s--
-
-## Was ist privat?
-
-> Die Privatsphäre ist der Bereich einer Person, der nicht öffentlich ist, also der nur die eigene Person angeht. Es ist der Bereich, der einen Menschen direkt umgibt.
-
-Quelle: <!-- .element: class="footer" --> [Bundeszentrale für politische Bildung](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320971/privatsphaere/)
 
 --s--
 
@@ -569,9 +576,9 @@ Quelle: <!-- .element: class="footer" --> [Bundeszentrale für politische Bildun
 
 ## Datenschutz
 
-- Vertraulichkeit – Meine Daten bleiben privat
-- Integrität – Mit meinen Daten wird sorgsam gearbeiet
-- Verfügbarkeit – Meine Daten gehören auch mir
+- **Vertraulichkeit** – Meine Daten bleiben privat
+- **Integrität** – Mit meinen Daten wird sorgsam gearbeiet
+- **Verfügbarkeit** – Meine Daten gehören auch mir
 - …
 
 --s--
