@@ -6,6 +6,13 @@ Stefan Huber · Zürich · 2022 <!-- .element: class="footer" -->
 
 --s--
 
+## Slack
+
+
+# #typo
+
+--s--
+
 <style>
 .small {
   font-size: 0.65em;
