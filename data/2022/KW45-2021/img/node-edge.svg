@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 217.3 190" style="enable-background:new 0 0 217.3 190;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#004D61;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#002F5B;}
+	.st3{font-family:'OpenSans';}
+	.st4{font-size:10px;}
+</style>
+<line class="st0" x1="49.1" y1="50.8" x2="165.3" y2="50.8"/>
+<line class="st0" x1="49.1" y1="50.8" x2="131.3" y2="133"/>
+<g>
+	<circle class="st1" cx="48.3" cy="50.8" r="31.3"/>
+	<path class="st2" d="M48.3,23C63.6,23,76,35.5,76,50.8S63.6,78.6,48.3,78.6S20.5,66.1,20.5,50.8S33,23,48.3,23 M48.3,16
+		c-19.2,0-34.8,15.6-34.8,34.8s15.6,34.8,34.8,34.8S83,70,83,50.8S67.5,16,48.3,16L48.3,16z"/>
+</g>
+<text transform="matrix(1 0 0 1 38.3302 54.3272)" class="st3 st4">Text</text>
+<text transform="matrix(1 0 0 1 4.7498 16.0391)" class="st3 st4">Node</text>
+<text transform="matrix(1 0 0 1 187.4328 16.0391)" class="st3 st4">Node</text>
+<text transform="matrix(1 0 0 1 95.8157 37.7484)" class="st3 st4">Edge</text>
+<text transform="matrix(1 0 0 1 64.4124 108.4921)" class="st3 st4">Edge</text>
+<g>
+	<circle class="st1" cx="165.3" cy="50.8" r="31.3"/>
+	<path class="st2" d="M165.3,23c15.3,0,27.8,12.5,27.8,27.8s-12.5,27.8-27.8,27.8s-27.8-12.5-27.8-27.8S150,23,165.3,23 M165.3,16
+		c-19.2,0-34.8,15.6-34.8,34.8s15.6,34.8,34.8,34.8s34.8-15.6,34.8-34.8S184.5,16,165.3,16L165.3,16z"/>
+</g>
+<text transform="matrix(1 0 0 1 146.6022 54.3272)" class="st3 st4">Autor·in</text>
+<text transform="matrix(1 0 0 1 118.6203 181.1217)" class="st3 st4">Node</text>
+<g>
+	<circle class="st1" cx="131.3" cy="133" r="31.3"/>
+	<path class="st2" d="M131.3,105.2c15.3,0,27.8,12.5,27.8,27.8s-12.5,27.8-27.8,27.8c-15.3,0-27.8-12.5-27.8-27.8
+		S116,105.2,131.3,105.2 M131.3,98.2c-19.2,0-34.8,15.6-34.8,34.8s15.6,34.8,34.8,34.8c19.2,0,34.8-15.6,34.8-34.8
+		S150.5,98.2,131.3,98.2L131.3,98.2z"/>
+</g>
+<text transform="matrix(1 0 0 1 112.5563 136.5217)" class="st3 st4">Autor·in</text>
+</svg>
