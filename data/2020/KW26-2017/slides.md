@@ -207,7 +207,12 @@ Tragt in 3 Gruppen zusammen, was für folgende CMS-User entscheidende Punkte sin
 * Vorschau als «spezial Version»
 
 --s--
-## Medienneutrale Aufbereitung für CMS
+
+### Aufbereiten der Medien
+
+
+--s--
+## Medienneutrale Aufbereitung für CMS/Service
 
 * Bilder möglichst grosse Auflösung
 * Bilder möglichst unkomprimiert
